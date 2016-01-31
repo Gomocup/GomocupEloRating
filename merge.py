@@ -11,6 +11,10 @@ def get_path():
      elif os.path.isfile(path):
          return os.path.dirname(path)
 
+filter = None
+if len(sys.argv) >= 2:
+	filter = sys.argv[1]
+		 
 nickmap = {}
 fnick = open('nickname.txt', 'r')
 while True:
@@ -38,6 +42,9 @@ allengines = {}
 
 for root, dirs, files in os.walk(path):
 	for file in files:
+		if filter:
+			if not file.split('.')[0].split('_')[1] in filter:
+				continue
 		curscoremap = {}
 		maxscore = 0
 		fin = open(path + file, 'r')

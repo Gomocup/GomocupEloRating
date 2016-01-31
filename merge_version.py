@@ -4,19 +4,28 @@ import string
 
 mingames = 0
 out_nn = True
-if len(sys.argv) >= 2:
-	mingames = string.atoi(sys.argv[1])
-	if len(sys.argv) >= 3:
-		if string.atoi(sys.argv[2]) == 0:
+if len(sys.argv) >= 3:
+	mingames = string.atoi(sys.argv[2])
+	if len(sys.argv) >= 4:
+		if string.atoi(sys.argv[3]) == 0:
 			out_nn = False
-benchmark = None
+benchmark = {}
 try:
 	fbench = open('benchmark.txt', 'r')
-	benchmark = re.split('\s+', fbench.readline().strip())
-	benchmark = (benchmark[0], string.atoi(benchmark[1]))
+	while True:
+		reads = fbench.readline()
+		if not reads:
+			break
+		reads = reads.strip()
+		if len(reads) == 0:
+			break
+		bc = re.split('\t', reads)
+		benchmark[bc[0]] = (string.atoi(bc[1]), len(benchmark))
 	fbench.close()
 except:
-	benchmark = None
+	benchmark = {}
+bias = 0
+biaspriority = 10000
 
 engines = {}
 all_ratings = []
@@ -25,7 +34,7 @@ output = []
 fin = open('ratings.txt', 'r')
 append_name = ''
 if mingames > 0:
-	append_name = '_' + str(mingames)
+	append_name = '_' + '_'.join(sys.argv[1:])
 fout = open('ratings_merge' + append_name + '.txt', 'w')
 title = fin.readline().rstrip('\n')
 posN = 0
@@ -39,7 +48,6 @@ for i in range(len(title)):
 	if title[i] == 'g':
 		posG = i - 1
 		break
-fout.write(title + '\n')
 while True:
 	reads = fin.readline()
 	if not reads:
@@ -61,15 +69,35 @@ while True:
 	else:
 		if out_nn:
 			output.append(' ' * posN + reads)
-	if benchmark and benchmark[0] == reads1.strip():
-		bias = 1600 - rating
+	if len(benchmark) > 0 and benchmark.has_key(reads1.strip()):
+		cur = benchmark[reads1.strip()]
+		if cur[1] < biaspriority:
+			bias = cur[0] - rating
+			biaspriority = cur[1]
 		
-if not benchmark:
+if len(benchmark) == 0:
 	bias = 1600 - int(round(sum(key_ratings) / len(key_ratings)))
+fout.write('<TABLE border=1>\n')
+fout.write('<TBODY align=center>\n')
+fout.write('<TR><TH>Rank</TH><TH>Name</TH><TH>Elo</TH><TH>+</TH><TH>-</TH><TH>games</TH><TH>score</TH><TH>oppo.</TH><TH>draws</TH></TR>\n')
 for each in output:
+	fout.write('<TR>')
+	fout.write('<TH>')
+	fout.write(each[:posN].strip())
+	fout.write('</TH>')
+	fout.write('<TD>')
+	fout.write(each[posN:posE].strip())
+	fout.write('</TD>')
 	rating = string.atoi(each[posE:posE+4].strip()) + bias
-	rating = str(rating)
-	rating = ' ' * (4 - len(rating)) + rating
-	fout.write(each[:posE] + rating + each[posE+4:] + '\n')
+	fout.write('<TD>')
+	fout.write(str(rating))
+	fout.write('</TD>')
+	for ent in re.split('\s+', each[posE+4:].strip()):
+		fout.write('<TD>')
+		fout.write(ent)
+		fout.write('</TD>')
+	fout.write('</TR>\n')
+fout.write('</TBODY>\n')
+fout.write('</TABLE>\n')
 fin.close()
 fout.close()
