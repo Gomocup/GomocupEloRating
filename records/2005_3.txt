@@ -1,0 +1,7 @@
+-	SWINE	BETA	PELA	PUSKVOREC	BENJAMIN	CURNPIS
+SWINE	-	7 : 3	8 : 2	9 : 1	10 : 0	7 : 3
+BETA	3 : 7	-	6 : 4	10 : 0	10 : 0	10 : 0
+PELA	2 : 8	4 : 6	-	10 : 0	10 : 0	10 : 0
+PUSKVOREC	1 : 9	0 : 10	0 : 10	-	9 : 1	8 : 2
+BENJAMIN	0 : 10	0 : 10	0 : 10	1 : 9	-	7 : 0
+CURNPIS	3 : 7	0 : 10	0 : 10	2 : 8	0 : 7	-

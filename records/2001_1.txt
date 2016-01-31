@@ -1,0 +1,8 @@
+-	PISQ5	MENTAT	LEONARDO	TRUNKAT	DEEP_BLUE	CURNPIS	AI016
+PISQ5	-	6 : 4	9 : 1	6 : 4	6 : 4	8 : 2	10 : 0
+MENTAT	4 : 6	-	9 : 1	7 : 3	10 : 0	8 : 2	10 : 0
+LEONARDO	1 : 9	1 : 9	-	7 : 3	9 : 1	8 : 2	5 : 5
+TRUNKAT	4 : 6	3 : 7	3 : 7	-	6 : 4	8 : 2	9 : 1
+DEEP_BLUE	4 : 6	0 : 10	1 : 9	4 : 6	-	9 : 1	10 : 0
+CURNPIS	2 : 8	2 : 8	2 : 8	2 : 8	1 : 9	-	8 : 2
+AI016	0 : 10	0 : 10	5 : 5	1 : 9	0 : 10	2 : 8	-

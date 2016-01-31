@@ -1,0 +1,6 @@
+-	hewer	pela
+hewer	-	0 : 6
+pela	6 : 0	-
+Total	6 : 0	0 : 6
+Ratio	-	0.000
+Points	3	0

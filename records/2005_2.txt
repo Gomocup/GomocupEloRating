@@ -1,0 +1,7 @@
+-	GORO	G_MOTOR	KANEC	TRUNKAT	PISQ7	LEONARDO
+GORO	-	9 : 1	8 : 2	10 : 0	10 : 0	10 : 0
+G_MOTOR	1 : 9	-	8 : 2	9 : 1	7 : 3	10 : 0
+KANEC	2 : 8	2 : 8	-	10 : 0	10 : 0	10 : 0
+TRUNKAT	0 : 10	1 : 9	0 : 10	-	8 : 2	10 : 0
+PISQ7	0 : 10	3 : 7	0 : 10	2 : 8	-	5 : 5
+LEONARDO	0 : 10	0 : 10	0 : 10	0 : 10	5 : 5	-

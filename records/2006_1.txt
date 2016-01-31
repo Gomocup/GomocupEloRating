@@ -1,0 +1,10 @@
+-	KANEC	SWINE	BESTMOVE	TRUNKAT	BRUTEFOR	AI1000
+KANEC	-	2 : 4	0 : 6	0 : 6	0 : 6	0 : 6
+SWINE	4 : 2	-	0 : 6	0 : 6	0 : 6	0 : 6
+BESTMOVE	6 : 0	6 : 0	-	0 : 6	1 : 5	0 : 6
+TRUNKAT	6 : 0	6 : 0	6 : 0	-	2 : 4	1 : 5
+BRUTEFOR	6 : 0	6 : 0	5 : 1	4 : 2	-	3 : 3
+AI1000	6 : 0	6 : 0	6 : 0	5 : 1	3 : 3	-
+CELKEM	28 : 2	26 : 4	17 : 13	9 : 21	6 : 24	4 : 26
+RATIO	14.000	6.500	1.308	0.429	0.250	0.154
+POINTS	15	12	9	6	1	1
