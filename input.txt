@@ -4,6 +4,6 @@ offset 1600
 mm
 exactdist
 ratings >ratings.txt
-los 0 10 4 >los.txt
+los 0 200 4 >los.txt
 x
 x
