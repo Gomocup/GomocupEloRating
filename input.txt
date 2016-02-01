@@ -1,4 +1,4 @@
-readpgn renju.pgn
+readpgn record.pgn
 elo
 offset 1600
 mm
