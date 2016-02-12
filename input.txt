@@ -1,9 +1,9 @@
-readpgn renju.pgn
+readpgn record.pgn
 elo
 offset 1600
 mm
 exactdist
 ratings >ratings.txt
-los 0 10 4 >los.txt
+los 0 1000 4 >los.txt
 x
 x

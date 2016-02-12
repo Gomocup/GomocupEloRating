@@ -9,6 +9,20 @@ if len(sys.argv) >= 3:
 	if len(sys.argv) >= 4:
 		if string.atoi(sys.argv[3]) == 0:
 			out_nn = False
+	
+display_name = {}	
+try:
+	fdisplay = open('displayname.txt','r')
+	reads = fdisplay.read()
+	reads = reads.split('\n')
+	for each in reads:
+		ent = each.split('\t')
+		if len(ent) == 2:
+			display_name[ent[0]] = ent[1]
+	fdisplay.close()
+except:
+	display_name = {}
+			
 benchmark = {}
 try:
 	fbench = open('benchmark.txt', 'r')
@@ -35,7 +49,7 @@ fin = open('ratings.txt', 'r')
 append_name = ''
 if mingames > 0:
 	append_name = '_' + '_'.join(sys.argv[1:])
-fout = open('ratings_merge' + append_name + '.txt', 'w')
+fout = open('ratings_merge' + append_name + '.html', 'w')
 title = fin.readline().rstrip('\n')
 posN = 0
 posE = 0
@@ -86,7 +100,10 @@ for each in output:
 	fout.write(each[:posN].strip())
 	fout.write('</TH>')
 	fout.write('<TD>')
-	fout.write(each[posN:posE].strip())
+	name = each[posN:posE].strip()
+	if display_name.has_key(name):
+		name = display_name[name]
+	fout.write(name)
 	fout.write('</TD>')
 	rating = string.atoi(each[posE:posE+4].strip()) + bias
 	fout.write('<TD>')
