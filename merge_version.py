@@ -54,6 +54,7 @@ title = fin.readline().rstrip('\n')
 posN = 0
 posE = 0
 posG = 0
+posO = 0
 for i in range(len(title)):
 	if title[i] == 'N':
 		posN = i
@@ -61,6 +62,8 @@ for i in range(len(title)):
 		posE = i - 1
 	if title[i] == 'g':
 		posG = i - 1
+	if title[i] == '.':
+		posO = i - 3
 		break
 while True:
 	reads = fin.readline()
@@ -109,10 +112,16 @@ for each in output:
 	fout.write('<TD>')
 	fout.write(str(rating))
 	fout.write('</TD>')
+	oind = -4
 	for ent in re.split('\s+', each[posE+4:].strip()):
 		fout.write('<TD>')
-		fout.write(ent)
+		if oind != 0:
+			fout.write(ent)
+		else:
+			oppo = string.atoi(ent) + bias
+			fout.write(str(oppo))
 		fout.write('</TD>')
+		oind += 1
 	fout.write('</TR>\n')
 fout.write('</TBODY>\n')
 fout.write('</TABLE>\n')
