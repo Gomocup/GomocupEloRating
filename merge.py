@@ -5,11 +5,11 @@ import os
 import platform
 
 def get_path():
-     path = sys.path[0]
-     if os.path.isdir(path):
-         return path
-     elif os.path.isfile(path):
-         return os.path.dirname(path)
+	 path = sys.path[0]
+	 if os.path.isdir(path):
+		 return path
+	 elif os.path.isfile(path):
+		 return os.path.dirname(path)
 
 filter = None
 if len(sys.argv) >= 2:
@@ -30,6 +30,19 @@ while True:
 	else:
 		nickmap[str.upper(rec[0])] = (rec[1], None)
 fnick.close()
+
+blacklist = {}
+fblacklist = open('blacklist.txt', 'r')
+while True:
+	reads = fblacklist.readline()
+	if not reads:
+		break
+	reads = reads.strip()
+	if len(reads) == 0:
+		break
+	rec = re.split('\s+', reads)
+	blacklist[rec[0] + '\x01' + rec[1]] = 1
+fblacklist.close()
 
 path = get_path()
 if platform.system() == 'Windows':
@@ -52,7 +65,9 @@ for root, dirs, files in os.walk(path):
 		reads = str.upper(reads)
 		names = re.split('\s+', reads)[1:]
 		for i in range(len(names)):
-			if nickmap.has_key(names[i] + file.split('_')[0]):
+			if blacklist.has_key(names[i] + '\x01' + file.split('.')[0]):
+				names[i] = 'BLACKLIST'
+			elif nickmap.has_key(names[i] + file.split('_')[0]):
 				names[i] = nickmap[names[i] + file.split('_')[0]]
 				if names[i][1]:
 					names[i] = names[i][0] + ' ' + names[i][1]

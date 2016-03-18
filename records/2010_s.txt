@@ -1,7 +1,0 @@
--	hewer2010	Tito2010	pela
-hewer2010	-	2 : 4	1 : 4
-Tito2010	4 : 2	-	1 : 5
-pela	4 : 1	5 : 1	-
-Total	8 : 3	7 : 5	2 : 9
-Ratio	2.667	1.400	0.222
-Points	6	3	0

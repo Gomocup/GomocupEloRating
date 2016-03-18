@@ -792,51 +792,15 @@
 
 [White "AI 1000"]
 [Black "BENJAMIN"]
-[Result "1-0"]
+[Result "1/2-1/2"]
 
-1. d4 d5 1-0
-
-[White "AI 1000"]
-[Black "BENJAMIN"]
-[Result "1-0"]
-
-1. d4 d5 1-0
+1. d4 d5 1/2-1/2
 
 [White "AI 1000"]
 [Black "BENJAMIN"]
-[Result "1-0"]
+[Result "1/2-1/2"]
 
-1. d4 d5 1-0
-
-[White "AI 1000"]
-[Black "BENJAMIN"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "AI 1000"]
-[Black "BENJAMIN"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "AI 1000"]
-[Black "BENJAMIN"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "AI 1000"]
-[Black "BENJAMIN"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "AI 1000"]
-[Black "BENJAMIN"]
-[Result "1-0"]
-
-1. d4 d5 1-0
+1. d4 d5 1/2-1/2
 
 [White "AI 1000"]
 [Black "BENJAMIN"]
@@ -888,18 +852,6 @@
 
 [White "BENJAMIN"]
 [Black "AI 1000"]
-[Result "1/2-1/2"]
-
-1. d4 d5 1/2-1/2
-
-[White "BENJAMIN"]
-[Black "AI 1000"]
-[Result "1/2-1/2"]
-
-1. d4 d5 1/2-1/2
-
-[White "BENJAMIN"]
-[Black "AI 1000"]
 [Result "1-0"]
 
 1. d4 d5 1-0
@@ -1146,102 +1098,6 @@
 
 [White "BENJAMIN"]
 [Black "AI 1000"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BENJAMIN"]
-[Black "AI 1000"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BENJAMIN"]
-[Black "AI 1000"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BENJAMIN"]
-[Black "AI 1000"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BENJAMIN"]
-[Black "AI 1000"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "AI 1000"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "AI 1000"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "AI 1000"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "AI 1000"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "AI 1000"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "AI 1000"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "AI 1000"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "AI 1000"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "AI 1000"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "AI 1000"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "AI 1000"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "AI 1000"]
-[Black "BESTMOVE"]
 [Result "1-0"]
 
 1. d4 d5 1-0
@@ -1318,41 +1174,41 @@
 
 1. d4 d5 0-1
 
-[White "BESTMOVE"]
-[Black "AI 1000"]
-[Result "1-0"]
+[White "AI 1000"]
+[Black "BESTMOVE"]
+[Result "0-1"]
 
-1. d4 d5 1-0
+1. d4 d5 0-1
 
-[White "BESTMOVE"]
-[Black "AI 1000"]
-[Result "1-0"]
+[White "AI 1000"]
+[Black "BESTMOVE"]
+[Result "0-1"]
 
-1. d4 d5 1-0
+1. d4 d5 0-1
 
-[White "BESTMOVE"]
-[Black "AI 1000"]
-[Result "1-0"]
+[White "AI 1000"]
+[Black "BESTMOVE"]
+[Result "0-1"]
 
-1. d4 d5 1-0
+1. d4 d5 0-1
 
-[White "BESTMOVE"]
-[Black "AI 1000"]
-[Result "1-0"]
+[White "AI 1000"]
+[Black "BESTMOVE"]
+[Result "0-1"]
 
-1. d4 d5 1-0
+1. d4 d5 0-1
 
-[White "BESTMOVE"]
-[Black "AI 1000"]
-[Result "1-0"]
+[White "AI 1000"]
+[Black "BESTMOVE"]
+[Result "0-1"]
 
-1. d4 d5 1-0
+1. d4 d5 0-1
 
-[White "BESTMOVE"]
-[Black "AI 1000"]
-[Result "1-0"]
+[White "AI 1000"]
+[Black "BESTMOVE"]
+[Result "0-1"]
 
-1. d4 d5 1-0
+1. d4 d5 0-1
 
 [White "BESTMOVE"]
 [Black "AI 1000"]
@@ -1650,90 +1506,18 @@
 
 [White "AI 1000"]
 [Black "BRUTEFOR"]
-[Result "1-0"]
+[Result "1/2-1/2"]
 
-1. d4 d5 1-0
-
-[White "AI 1000"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
+1. d4 d5 1/2-1/2
 
 [White "AI 1000"]
 [Black "BRUTEFOR"]
-[Result "1-0"]
+[Result "1/2-1/2"]
 
-1. d4 d5 1-0
-
-[White "AI 1000"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
+1. d4 d5 1/2-1/2
 
 [White "AI 1000"]
 [Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "AI 1000"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "AI 1000"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "AI 1000"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "AI 1000"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "AI 1000"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "AI 1000"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "AI 1000"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BRUTEFOR"]
-[Black "AI 1000"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BRUTEFOR"]
-[Black "AI 1000"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BRUTEFOR"]
-[Black "AI 1000"]
 [Result "1/2-1/2"]
 
 1. d4 d5 1/2-1/2
@@ -1755,42 +1539,6 @@
 [Result "1/2-1/2"]
 
 1. d4 d5 1/2-1/2
-
-[White "BRUTEFOR"]
-[Black "AI 1000"]
-[Result "1/2-1/2"]
-
-1. d4 d5 1/2-1/2
-
-[White "BRUTEFOR"]
-[Black "AI 1000"]
-[Result "1/2-1/2"]
-
-1. d4 d5 1/2-1/2
-
-[White "BRUTEFOR"]
-[Black "AI 1000"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BRUTEFOR"]
-[Black "AI 1000"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BRUTEFOR"]
-[Black "AI 1000"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BRUTEFOR"]
-[Black "AI 1000"]
-[Result "1-0"]
-
-1. d4 d5 1-0
 
 [White "BRUTEFOR"]
 [Black "AI 1000"]
@@ -3648,27 +3396,9 @@
 
 [White "AI 1000"]
 [Black "GORO 2007"]
-[Result "1-0"]
+[Result "0-1"]
 
-1. d4 d5 1-0
-
-[White "AI 1000"]
-[Black "GORO 2007"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "AI 1000"]
-[Black "GORO 2007"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "AI 1000"]
-[Black "GORO 2007"]
-[Result "1-0"]
-
-1. d4 d5 1-0
+1. d4 d5 0-1
 
 [White "AI 1000"]
 [Black "GORO 2007"]
@@ -3699,24 +3429,6 @@
 [Result "0-1"]
 
 1. d4 d5 0-1
-
-[White "GORO 2007"]
-[Black "AI 1000"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "GORO 2007"]
-[Black "AI 1000"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "GORO 2007"]
-[Black "AI 1000"]
-[Result "1-0"]
-
-1. d4 d5 1-0
 
 [White "GORO 2007"]
 [Black "AI 1000"]
@@ -7092,27 +6804,9 @@
 
 [White "AI 1000"]
 [Black "NOESIS"]
-[Result "1-0"]
+[Result "0-1"]
 
-1. d4 d5 1-0
-
-[White "AI 1000"]
-[Black "NOESIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "AI 1000"]
-[Black "NOESIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "AI 1000"]
-[Black "NOESIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
+1. d4 d5 0-1
 
 [White "AI 1000"]
 [Black "NOESIS"]
@@ -7331,132 +7025,6 @@
 1. d4 d5 1-0
 
 [White "NOESIS"]
-[Black "AI 1000"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "NOESIS"]
-[Black "AI 1000"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "NOESIS"]
-[Black "AI 1000"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "NOESIS"]
-[Black "AI 1000"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "AI 1000"]
-[Black "ONIX 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "AI 1000"]
-[Black "ONIX 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "AI 1000"]
-[Black "ONIX 2008"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "ONIX 2008"]
-[Black "AI 1000"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2008"]
-[Black "AI 1000"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2008"]
-[Black "AI 1000"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "AI 1000"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "AI 1000"]
-[Black "ONIX 2010"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "AI 1000"]
-[Black "ONIX 2010"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "AI 1000"]
-[Black "ONIX 2010"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "AI 1000"]
-[Black "ONIX 2010"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "AI 1000"]
-[Black "ONIX 2010"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "ONIX 2010"]
-[Black "AI 1000"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "AI 1000"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "AI 1000"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "AI 1000"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "AI 1000"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
 [Black "AI 1000"]
 [Result "1-0"]
 
@@ -9028,24 +8596,6 @@
 
 1. d4 d5 1-0
 
-[White "AI 1000"]
-[Black "PUREGM 2009"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "AI 1000"]
-[Black "PUREGM 2009"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "AI 1000"]
-[Black "PUREGM 2009"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
 [White "PUREGM 2009"]
 [Black "AI 1000"]
 [Result "0-1"]
@@ -9069,24 +8619,6 @@
 [Result "0-1"]
 
 1. d4 d5 0-1
-
-[White "PUREGM 2009"]
-[Black "AI 1000"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "PUREGM 2009"]
-[Black "AI 1000"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "PUREGM 2009"]
-[Black "AI 1000"]
-[Result "1-0"]
-
-1. d4 d5 1-0
 
 [White "PUREGM 2009"]
 [Black "AI 1000"]
@@ -10397,42 +9929,6 @@
 1. d4 d5 1-0
 
 [White "QMENTAT 6"]
-[Black "AI 1000"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "AI 1000"]
-[Black "RENJUSOLVER"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "AI 1000"]
-[Black "RENJUSOLVER"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "AI 1000"]
-[Black "RENJUSOLVER"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "RENJUSOLVER"]
-[Black "AI 1000"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "RENJUSOLVER"]
-[Black "AI 1000"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "RENJUSOLVER"]
 [Black "AI 1000"]
 [Result "1-0"]
 
@@ -19007,78 +18503,6 @@
 1. d4 d5 1-0
 
 [White "AMOEBA 2010"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "AMOEBA 2010"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "AMOEBA 2010"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "AMOEBA 2010"]
-[Black "ONIX 2010"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "AMOEBA 2010"]
-[Black "ONIX 2010"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "AMOEBA 2010"]
-[Black "ONIX 2010"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "ONIX 2010"]
-[Black "AMOEBA 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "AMOEBA 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "AMOEBA 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "AMOEBA 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "AMOEBA 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "AMOEBA 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "AMOEBA 2010"]
 [Black "PECUCHET"]
 [Result "1-0"]
 
@@ -21252,12 +20676,6 @@
 
 [White "AMOEBA 2010"]
 [Black "RENJUSOLVER"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "AMOEBA 2010"]
-[Black "RENJUSOLVER"]
 [Result "0-1"]
 
 1. d4 d5 0-1
@@ -21273,36 +20691,6 @@
 [Result "0-1"]
 
 1. d4 d5 0-1
-
-[White "AMOEBA 2010"]
-[Black "RENJUSOLVER"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "AMOEBA 2010"]
-[Black "RENJUSOLVER"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "RENJUSOLVER"]
-[Black "AMOEBA 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "RENJUSOLVER"]
-[Black "AMOEBA 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "RENJUSOLVER"]
-[Black "AMOEBA 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
 
 [White "RENJUSOLVER"]
 [Black "AMOEBA 2010"]
@@ -22876,78 +22264,6 @@
 
 1. d4 d5 1-0
 
-[White "BENJAMIN"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BENJAMIN"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BENJAMIN"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BENJAMIN"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BENJAMIN"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BENJAMIN"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BESTMOVE"]
-[Black "BENJAMIN"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BESTMOVE"]
-[Black "BENJAMIN"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BESTMOVE"]
-[Black "BENJAMIN"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BESTMOVE"]
-[Black "BENJAMIN"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BESTMOVE"]
-[Black "BENJAMIN"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BESTMOVE"]
-[Black "BENJAMIN"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
 [White "BESTMOVE"]
 [Black "BENJAMIN"]
 [Result "1-0"]
@@ -23112,126 +22428,12 @@
 
 [White "BENJAMIN"]
 [Black "BRUTEFOR"]
-[Result "1-0"]
+[Result "0-1"]
 
-1. d4 d5 1-0
+1. d4 d5 0-1
 
 [White "BENJAMIN"]
 [Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BENJAMIN"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BENJAMIN"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BENJAMIN"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BENJAMIN"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BENJAMIN"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BENJAMIN"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BENJAMIN"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BENJAMIN"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BENJAMIN"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BENJAMIN"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BENJAMIN"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BENJAMIN"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BRUTEFOR"]
-[Black "BENJAMIN"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BRUTEFOR"]
-[Black "BENJAMIN"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BRUTEFOR"]
-[Black "BENJAMIN"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BRUTEFOR"]
-[Black "BENJAMIN"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BRUTEFOR"]
-[Black "BENJAMIN"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BRUTEFOR"]
-[Black "BENJAMIN"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BRUTEFOR"]
-[Black "BENJAMIN"]
 [Result "0-1"]
 
 1. d4 d5 0-1
@@ -23284,72 +22486,6 @@
 
 1. d4 d5 1-0
 
-[White "BRUTEFOR"]
-[Black "BENJAMIN"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BRUTEFOR"]
-[Black "BENJAMIN"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BRUTEFOR"]
-[Black "BENJAMIN"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BRUTEFOR"]
-[Black "BENJAMIN"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BRUTEFOR"]
-[Black "BENJAMIN"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BENJAMIN"]
-[Black "CRUSHER 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BENJAMIN"]
-[Black "CRUSHER 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BENJAMIN"]
-[Black "CRUSHER 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BENJAMIN"]
-[Black "CRUSHER 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BENJAMIN"]
-[Black "CRUSHER 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BENJAMIN"]
-[Black "CRUSHER 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
 [White "BENJAMIN"]
 [Black "CRUSHER 2010"]
 [Result "1-0"]
@@ -23706,42 +22842,6 @@
 
 [White "CRUSHER 2010"]
 [Black "BENJAMIN"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "CRUSHER 2010"]
-[Black "BENJAMIN"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "CRUSHER 2010"]
-[Black "BENJAMIN"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "CRUSHER 2010"]
-[Black "BENJAMIN"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "CRUSHER 2010"]
-[Black "BENJAMIN"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "CRUSHER 2010"]
-[Black "BENJAMIN"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "CRUSHER 2010"]
-[Black "BENJAMIN"]
 [Result "1-0"]
 
 1. d4 d5 1-0
@@ -24063,60 +23163,6 @@
 [Result "1-0"]
 
 1. d4 d5 1-0
-
-[White "BENJAMIN"]
-[Black "CURNPIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BENJAMIN"]
-[Black "CURNPIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BENJAMIN"]
-[Black "CURNPIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BENJAMIN"]
-[Black "CURNPIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BENJAMIN"]
-[Black "CURNPIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BENJAMIN"]
-[Black "CURNPIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "CURNPIS"]
-[Black "BENJAMIN"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "CURNPIS"]
-[Black "BENJAMIN"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "CURNPIS"]
-[Black "BENJAMIN"]
-[Result "0-1"]
-
-1. d4 d5 0-1
 
 [White "CURNPIS"]
 [Black "BENJAMIN"]
@@ -24381,24 +23427,6 @@
 [Result "1/2-1/2"]
 
 1. d4 d5 1/2-1/2
-
-[White "CURNPIS"]
-[Black "BENJAMIN"]
-[Result "1/2-1/2"]
-
-1. d4 d5 1/2-1/2
-
-[White "CURNPIS"]
-[Black "BENJAMIN"]
-[Result "1/2-1/2"]
-
-1. d4 d5 1/2-1/2
-
-[White "CURNPIS"]
-[Black "BENJAMIN"]
-[Result "1-0"]
-
-1. d4 d5 1-0
 
 [White "CURNPIS"]
 [Black "BENJAMIN"]
@@ -28308,18 +27336,6 @@
 
 [White "BENJAMIN"]
 [Black "LEONARDO"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BENJAMIN"]
-[Black "LEONARDO"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BENJAMIN"]
-[Black "LEONARDO"]
 [Result "1/2-1/2"]
 
 1. d4 d5 1/2-1/2
@@ -28426,66 +27442,6 @@
 
 1. d4 d5 0-1
 
-[White "BENJAMIN"]
-[Black "LEONARDO"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BENJAMIN"]
-[Black "LEONARDO"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BENJAMIN"]
-[Black "LEONARDO"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BENJAMIN"]
-[Black "LEONARDO"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "LEONARDO"]
-[Black "BENJAMIN"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "LEONARDO"]
-[Black "BENJAMIN"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "LEONARDO"]
-[Black "BENJAMIN"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "LEONARDO"]
-[Black "BENJAMIN"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "LEONARDO"]
-[Black "BENJAMIN"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "LEONARDO"]
-[Black "BENJAMIN"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
 [White "LEONARDO"]
 [Black "BENJAMIN"]
 [Result "1-0"]
@@ -29091,42 +28047,6 @@
 [Result "1-0"]
 
 1. d4 d5 1-0
-
-[White "BENJAMIN"]
-[Black "MUSHROOM"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BENJAMIN"]
-[Black "MUSHROOM"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BENJAMIN"]
-[Black "MUSHROOM"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "MUSHROOM"]
-[Black "BENJAMIN"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "MUSHROOM"]
-[Black "BENJAMIN"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "MUSHROOM"]
-[Black "BENJAMIN"]
-[Result "0-1"]
-
-1. d4 d5 0-1
 
 [White "MUSHROOM"]
 [Black "BENJAMIN"]
@@ -29538,24 +28458,6 @@
 
 [White "BENJAMIN"]
 [Black "NABAMOKU 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BENJAMIN"]
-[Black "NABAMOKU 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BENJAMIN"]
-[Black "NABAMOKU 2008"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BENJAMIN"]
-[Black "NABAMOKU 2008"]
 [Result "0-1"]
 
 1. d4 d5 0-1
@@ -29760,48 +28662,6 @@
 
 [White "NABAMOKU 2008"]
 [Black "BENJAMIN"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "NABAMOKU 2008"]
-[Black "BENJAMIN"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "NABAMOKU 2008"]
-[Black "BENJAMIN"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "NABAMOKU 2008"]
-[Black "BENJAMIN"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BENJAMIN"]
-[Black "NOESIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BENJAMIN"]
-[Black "NOESIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BENJAMIN"]
-[Black "NOESIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BENJAMIN"]
-[Black "NOESIS"]
 [Result "1-0"]
 
 1. d4 d5 1-0
@@ -29926,23 +28786,11 @@
 
 1. d4 d5 0-1
 
-[White "NOESIS"]
-[Black "BENJAMIN"]
-[Result "1-0"]
+[White "BENJAMIN"]
+[Black "NOESIS"]
+[Result "0-1"]
 
-1. d4 d5 1-0
-
-[White "NOESIS"]
-[Black "BENJAMIN"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "NOESIS"]
-[Black "BENJAMIN"]
-[Result "1-0"]
-
-1. d4 d5 1-0
+1. d4 d5 0-1
 
 [White "NOESIS"]
 [Black "BENJAMIN"]
@@ -30072,27 +28920,9 @@
 
 [White "BENJAMIN"]
 [Black "ONIX 2008"]
-[Result "1-0"]
+[Result "0-1"]
 
-1. d4 d5 1-0
-
-[White "BENJAMIN"]
-[Black "ONIX 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BENJAMIN"]
-[Black "ONIX 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BENJAMIN"]
-[Black "ONIX 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
+1. d4 d5 0-1
 
 [White "BENJAMIN"]
 [Black "ONIX 2008"]
@@ -30119,96 +28949,6 @@
 1. d4 d5 1-0
 
 [White "ONIX 2008"]
-[Black "BENJAMIN"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2008"]
-[Black "BENJAMIN"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2008"]
-[Black "BENJAMIN"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2008"]
-[Black "BENJAMIN"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BENJAMIN"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BENJAMIN"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BENJAMIN"]
-[Black "ONIX 2010"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BENJAMIN"]
-[Black "ONIX 2010"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BENJAMIN"]
-[Black "ONIX 2010"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BENJAMIN"]
-[Black "ONIX 2010"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "ONIX 2010"]
-[Black "BENJAMIN"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "BENJAMIN"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "BENJAMIN"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "BENJAMIN"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "BENJAMIN"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
 [Black "BENJAMIN"]
 [Result "1-0"]
 
@@ -31506,42 +30246,6 @@
 
 [White "BENJAMIN"]
 [Black "PISQ 7"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BENJAMIN"]
-[Black "PISQ 7"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BENJAMIN"]
-[Black "PISQ 7"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BENJAMIN"]
-[Black "PISQ 7"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BENJAMIN"]
-[Black "PISQ 7"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BENJAMIN"]
-[Black "PISQ 7"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BENJAMIN"]
-[Black "PISQ 7"]
 [Result "0-1"]
 
 1. d4 d5 0-1
@@ -31767,42 +30471,6 @@
 [Result "0-1"]
 
 1. d4 d5 0-1
-
-[White "PISQ 7"]
-[Black "BENJAMIN"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PISQ 7"]
-[Black "BENJAMIN"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PISQ 7"]
-[Black "BENJAMIN"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PISQ 7"]
-[Black "BENJAMIN"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PISQ 7"]
-[Black "BENJAMIN"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PISQ 7"]
-[Black "BENJAMIN"]
-[Result "1-0"]
-
-1. d4 d5 1-0
 
 [White "PISQ 7"]
 [Black "BENJAMIN"]
@@ -32434,24 +31102,6 @@
 
 1. d4 d5 1-0
 
-[White "BENJAMIN"]
-[Black "PUREGM 2009"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BENJAMIN"]
-[Black "PUREGM 2009"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BENJAMIN"]
-[Black "PUREGM 2009"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
 [White "PUREGM 2009"]
 [Black "BENJAMIN"]
 [Result "0-1"]
@@ -32475,24 +31125,6 @@
 [Result "0-1"]
 
 1. d4 d5 0-1
-
-[White "PUREGM 2009"]
-[Black "BENJAMIN"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PUREGM 2009"]
-[Black "BENJAMIN"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PUREGM 2009"]
-[Black "BENJAMIN"]
-[Result "1-0"]
-
-1. d4 d5 1-0
 
 [White "PUREGM 2009"]
 [Black "BENJAMIN"]
@@ -33042,24 +31674,6 @@
 
 [White "BENJAMIN"]
 [Black "PUSKVOREC"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BENJAMIN"]
-[Black "PUSKVOREC"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BENJAMIN"]
-[Black "PUSKVOREC"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BENJAMIN"]
-[Black "PUSKVOREC"]
 [Result "0-1"]
 
 1. d4 d5 0-1
@@ -33231,60 +31845,6 @@
 [Result "0-1"]
 
 1. d4 d5 0-1
-
-[White "BENJAMIN"]
-[Black "PUSKVOREC"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BENJAMIN"]
-[Black "PUSKVOREC"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BENJAMIN"]
-[Black "PUSKVOREC"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "PUSKVOREC"]
-[Black "BENJAMIN"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PUSKVOREC"]
-[Black "BENJAMIN"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PUSKVOREC"]
-[Black "BENJAMIN"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PUSKVOREC"]
-[Black "BENJAMIN"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PUSKVOREC"]
-[Black "BENJAMIN"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PUSKVOREC"]
-[Black "BENJAMIN"]
-[Result "1-0"]
-
-1. d4 d5 1-0
 
 [White "PUSKVOREC"]
 [Black "BENJAMIN"]
@@ -34289,42 +32849,6 @@
 1. d4 d5 1-0
 
 [White "QMENTAT 6"]
-[Black "BENJAMIN"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BENJAMIN"]
-[Black "RENJUSOLVER"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BENJAMIN"]
-[Black "RENJUSOLVER"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BENJAMIN"]
-[Black "RENJUSOLVER"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "RENJUSOLVER"]
-[Black "BENJAMIN"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "RENJUSOLVER"]
-[Black "BENJAMIN"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "RENJUSOLVER"]
 [Black "BENJAMIN"]
 [Result "1-0"]
 
@@ -36922,41 +35446,11 @@
 
 1. d4 d5 1-0
 
-[White "BESTMOVE"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
+[White "BRUTEFOR"]
+[Black "BESTMOVE"]
+[Result "0-1"]
 
-1. d4 d5 1-0
-
-[White "BESTMOVE"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BESTMOVE"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BESTMOVE"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BESTMOVE"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BESTMOVE"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
+1. d4 d5 0-1
 
 [White "BRUTEFOR"]
 [Black "BESTMOVE"]
@@ -37036,84 +35530,6 @@
 
 1. d4 d5 1-0
 
-[White "BRUTEFOR"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BRUTEFOR"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BRUTEFOR"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BRUTEFOR"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BRUTEFOR"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BRUTEFOR"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BRUTEFOR"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BESTMOVE"]
-[Black "CURNPIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BESTMOVE"]
-[Black "CURNPIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BESTMOVE"]
-[Black "CURNPIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BESTMOVE"]
-[Black "CURNPIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BESTMOVE"]
-[Black "CURNPIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BESTMOVE"]
-[Black "CURNPIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
 [White "BESTMOVE"]
 [Black "CURNPIS"]
 [Result "1-0"]
@@ -37182,75 +35598,39 @@
 
 [White "CURNPIS"]
 [Black "BESTMOVE"]
-[Result "1-0"]
+[Result "0-1"]
 
-1. d4 d5 1-0
-
-[White "CURNPIS"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
+1. d4 d5 0-1
 
 [White "CURNPIS"]
 [Black "BESTMOVE"]
-[Result "1-0"]
+[Result "0-1"]
 
-1. d4 d5 1-0
-
-[White "CURNPIS"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
+1. d4 d5 0-1
 
 [White "CURNPIS"]
 [Black "BESTMOVE"]
-[Result "1-0"]
+[Result "0-1"]
 
-1. d4 d5 1-0
-
-[White "CURNPIS"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
+1. d4 d5 0-1
 
 [White "CURNPIS"]
 [Black "BESTMOVE"]
-[Result "1-0"]
+[Result "0-1"]
 
-1. d4 d5 1-0
-
-[White "CURNPIS"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
+1. d4 d5 0-1
 
 [White "CURNPIS"]
 [Black "BESTMOVE"]
-[Result "1-0"]
+[Result "0-1"]
 
-1. d4 d5 1-0
-
-[White "CURNPIS"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
+1. d4 d5 0-1
 
 [White "CURNPIS"]
 [Black "BESTMOVE"]
-[Result "1-0"]
+[Result "0-1"]
 
-1. d4 d5 1-0
-
-[White "CURNPIS"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
+1. d4 d5 0-1
 
 [White "CURNPIS"]
 [Black "BESTMOVE"]
@@ -37331,42 +35711,6 @@
 1. d4 d5 1-0
 
 [White "BESTMOVE"]
-[Black "GMOTOR 2006"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BESTMOVE"]
-[Black "GMOTOR 2006"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BESTMOVE"]
-[Black "GMOTOR 2006"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "GMOTOR 2006"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "GMOTOR 2006"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "GMOTOR 2006"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BESTMOVE"]
 [Black "GMOTOR 2007"]
 [Result "1-0"]
 
@@ -37455,42 +35799,6 @@
 [Result "0-1"]
 
 1. d4 d5 0-1
-
-[White "BESTMOVE"]
-[Black "GMOTOR 2007"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BESTMOVE"]
-[Black "GMOTOR 2007"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BESTMOVE"]
-[Black "GMOTOR 2007"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "GMOTOR 2007"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "GMOTOR 2007"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "GMOTOR 2007"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
 
 [White "GMOTOR 2007"]
 [Black "BESTMOVE"]
@@ -37714,42 +36022,6 @@
 
 1. d4 d5 0-1
 
-[White "BESTMOVE"]
-[Black "GORO 2005"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BESTMOVE"]
-[Black "GORO 2005"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BESTMOVE"]
-[Black "GORO 2005"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "GORO 2005"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "GORO 2005"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "GORO 2005"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
 [White "GORO 2005"]
 [Black "BESTMOVE"]
 [Result "1-0"]
@@ -37833,42 +36105,6 @@
 [Result "0-1"]
 
 1. d4 d5 0-1
-
-[White "BESTMOVE"]
-[Black "GORO 2007"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BESTMOVE"]
-[Black "GORO 2007"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BESTMOVE"]
-[Black "GORO 2007"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "GORO 2007"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "GORO 2007"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "GORO 2007"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
 
 [White "GORO 2007"]
 [Black "BESTMOVE"]
@@ -38272,42 +36508,6 @@
 
 1. d4 d5 0-1
 
-[White "BESTMOVE"]
-[Black "HGARDEN 2006"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BESTMOVE"]
-[Black "HGARDEN 2006"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BESTMOVE"]
-[Black "HGARDEN 2006"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "HGARDEN 2006"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "HGARDEN 2006"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "HGARDEN 2006"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
 [White "HGARDEN 2006"]
 [Black "BESTMOVE"]
 [Result "1-0"]
@@ -38362,42 +36562,6 @@
 
 1. d4 d5 0-1
 
-[White "BESTMOVE"]
-[Black "HGARDEN 2007"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BESTMOVE"]
-[Black "HGARDEN 2007"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BESTMOVE"]
-[Black "HGARDEN 2007"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "HGARDEN 2007"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "HGARDEN 2007"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "HGARDEN 2007"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
 [White "HGARDEN 2007"]
 [Black "BESTMOVE"]
 [Result "1-0"]
@@ -38469,42 +36633,6 @@
 [Result "0-1"]
 
 1. d4 d5 0-1
-
-[White "BESTMOVE"]
-[Black "JUDE"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BESTMOVE"]
-[Black "JUDE"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BESTMOVE"]
-[Black "JUDE"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "JUDE"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "JUDE"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "JUDE"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
 
 [White "JUDE"]
 [Black "BESTMOVE"]
@@ -38655,78 +36783,6 @@
 [Result "0-1"]
 
 1. d4 d5 0-1
-
-[White "BESTMOVE"]
-[Black "KANEC 2006"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BESTMOVE"]
-[Black "KANEC 2006"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BESTMOVE"]
-[Black "KANEC 2006"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BESTMOVE"]
-[Black "KANEC 2006"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BESTMOVE"]
-[Black "KANEC 2006"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BESTMOVE"]
-[Black "KANEC 2006"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "KANEC 2006"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "KANEC 2006"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "KANEC 2006"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "KANEC 2006"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "KANEC 2006"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "KANEC 2006"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
 
 [White "KANEC 2006"]
 [Black "BESTMOVE"]
@@ -39016,41 +37072,11 @@
 
 1. d4 d5 1-0
 
-[White "BESTMOVE"]
-[Black "LEONARDO"]
-[Result "1-0"]
+[White "LEONARDO"]
+[Black "BESTMOVE"]
+[Result "0-1"]
 
-1. d4 d5 1-0
-
-[White "BESTMOVE"]
-[Black "LEONARDO"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BESTMOVE"]
-[Black "LEONARDO"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BESTMOVE"]
-[Black "LEONARDO"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BESTMOVE"]
-[Black "LEONARDO"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BESTMOVE"]
-[Black "LEONARDO"]
-[Result "1-0"]
-
-1. d4 d5 1-0
+1. d4 d5 0-1
 
 [White "LEONARDO"]
 [Black "BESTMOVE"]
@@ -39060,93 +37086,33 @@
 
 [White "LEONARDO"]
 [Black "BESTMOVE"]
-[Result "1-0"]
+[Result "0-1"]
 
-1. d4 d5 1-0
-
-[White "LEONARDO"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
+1. d4 d5 0-1
 
 [White "LEONARDO"]
 [Black "BESTMOVE"]
-[Result "1-0"]
+[Result "0-1"]
 
-1. d4 d5 1-0
-
-[White "LEONARDO"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
+1. d4 d5 0-1
 
 [White "LEONARDO"]
 [Black "BESTMOVE"]
-[Result "1-0"]
+[Result "0-1"]
 
-1. d4 d5 1-0
-
-[White "LEONARDO"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
+1. d4 d5 0-1
 
 [White "LEONARDO"]
 [Black "BESTMOVE"]
-[Result "1-0"]
+[Result "0-1"]
 
-1. d4 d5 1-0
-
-[White "LEONARDO"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
+1. d4 d5 0-1
 
 [White "LEONARDO"]
 [Black "BESTMOVE"]
-[Result "1-0"]
+[Result "0-1"]
 
-1. d4 d5 1-0
-
-[White "LEONARDO"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "LEONARDO"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "LEONARDO"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BESTMOVE"]
-[Black "NABAMOKU 2007"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BESTMOVE"]
-[Black "NABAMOKU 2007"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BESTMOVE"]
-[Black "NABAMOKU 2007"]
-[Result "1-0"]
-
-1. d4 d5 1-0
+1. d4 d5 0-1
 
 [White "BESTMOVE"]
 [Black "NABAMOKU 2007"]
@@ -39168,75 +37134,21 @@
 
 [White "NABAMOKU 2007"]
 [Black "BESTMOVE"]
-[Result "1-0"]
+[Result "0-1"]
 
-1. d4 d5 1-0
-
-[White "NABAMOKU 2007"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
+1. d4 d5 0-1
 
 [White "NABAMOKU 2007"]
 [Black "BESTMOVE"]
-[Result "1-0"]
+[Result "0-1"]
 
-1. d4 d5 1-0
-
-[White "NABAMOKU 2007"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
+1. d4 d5 0-1
 
 [White "NABAMOKU 2007"]
 [Black "BESTMOVE"]
-[Result "1-0"]
+[Result "0-1"]
 
-1. d4 d5 1-0
-
-[White "NABAMOKU 2007"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BESTMOVE"]
-[Black "NOESIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BESTMOVE"]
-[Black "NOESIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BESTMOVE"]
-[Black "NOESIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BESTMOVE"]
-[Black "NOESIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BESTMOVE"]
-[Black "NOESIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BESTMOVE"]
-[Black "NOESIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
+1. d4 d5 0-1
 
 [White "BESTMOVE"]
 [Black "NOESIS"]
@@ -39402,75 +37314,39 @@
 
 [White "NOESIS"]
 [Black "BESTMOVE"]
-[Result "1-0"]
+[Result "0-1"]
 
-1. d4 d5 1-0
-
-[White "NOESIS"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
+1. d4 d5 0-1
 
 [White "NOESIS"]
 [Black "BESTMOVE"]
-[Result "1-0"]
+[Result "0-1"]
 
-1. d4 d5 1-0
-
-[White "NOESIS"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
+1. d4 d5 0-1
 
 [White "NOESIS"]
 [Black "BESTMOVE"]
-[Result "1-0"]
+[Result "0-1"]
 
-1. d4 d5 1-0
-
-[White "NOESIS"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
+1. d4 d5 0-1
 
 [White "NOESIS"]
 [Black "BESTMOVE"]
-[Result "1-0"]
+[Result "0-1"]
 
-1. d4 d5 1-0
-
-[White "NOESIS"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
+1. d4 d5 0-1
 
 [White "NOESIS"]
 [Black "BESTMOVE"]
-[Result "1-0"]
+[Result "0-1"]
 
-1. d4 d5 1-0
-
-[White "NOESIS"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
+1. d4 d5 0-1
 
 [White "NOESIS"]
 [Black "BESTMOVE"]
-[Result "1-0"]
+[Result "0-1"]
 
-1. d4 d5 1-0
-
-[White "NOESIS"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
+1. d4 d5 0-1
 
 [White "NOESIS"]
 [Black "BESTMOVE"]
@@ -39724,42 +37600,6 @@
 
 1. d4 d5 1-0
 
-[White "BESTMOVE"]
-[Black "PECUCHET"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BESTMOVE"]
-[Black "PECUCHET"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BESTMOVE"]
-[Black "PECUCHET"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "PECUCHET"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PECUCHET"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PECUCHET"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
 [White "PECUCHET"]
 [Black "BESTMOVE"]
 [Result "1-0"]
@@ -40000,78 +37840,6 @@
 
 1. d4 d5 0-1
 
-[White "BESTMOVE"]
-[Black "PELA 2006"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BESTMOVE"]
-[Black "PELA 2006"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BESTMOVE"]
-[Black "PELA 2006"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BESTMOVE"]
-[Black "PELA 2006"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BESTMOVE"]
-[Black "PELA 2006"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BESTMOVE"]
-[Black "PELA 2006"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "PELA 2006"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PELA 2006"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PELA 2006"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PELA 2006"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PELA 2006"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PELA 2006"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
 [White "PELA 2006"]
 [Black "BESTMOVE"]
 [Result "1-0"]
@@ -40288,41 +38056,11 @@
 
 1. d4 d5 1-0
 
-[White "BESTMOVE"]
-[Black "PISQ 7"]
-[Result "1-0"]
+[White "PISQ 7"]
+[Black "BESTMOVE"]
+[Result "0-1"]
 
-1. d4 d5 1-0
-
-[White "BESTMOVE"]
-[Black "PISQ 7"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BESTMOVE"]
-[Black "PISQ 7"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BESTMOVE"]
-[Black "PISQ 7"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BESTMOVE"]
-[Black "PISQ 7"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BESTMOVE"]
-[Black "PISQ 7"]
-[Result "1-0"]
-
-1. d4 d5 1-0
+1. d4 d5 0-1
 
 [White "PISQ 7"]
 [Black "BESTMOVE"]
@@ -40332,111 +38070,33 @@
 
 [White "PISQ 7"]
 [Black "BESTMOVE"]
-[Result "1-0"]
+[Result "0-1"]
 
-1. d4 d5 1-0
-
-[White "PISQ 7"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
+1. d4 d5 0-1
 
 [White "PISQ 7"]
 [Black "BESTMOVE"]
-[Result "1-0"]
+[Result "0-1"]
 
-1. d4 d5 1-0
-
-[White "PISQ 7"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
+1. d4 d5 0-1
 
 [White "PISQ 7"]
 [Black "BESTMOVE"]
-[Result "1-0"]
+[Result "0-1"]
 
-1. d4 d5 1-0
-
-[White "PISQ 7"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
+1. d4 d5 0-1
 
 [White "PISQ 7"]
 [Black "BESTMOVE"]
-[Result "1-0"]
+[Result "0-1"]
 
-1. d4 d5 1-0
-
-[White "PISQ 7"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
+1. d4 d5 0-1
 
 [White "PISQ 7"]
 [Black "BESTMOVE"]
-[Result "1-0"]
+[Result "0-1"]
 
-1. d4 d5 1-0
-
-[White "PISQ 7"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PISQ 7"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PISQ 7"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BESTMOVE"]
-[Black "PUSKVOREC"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BESTMOVE"]
-[Black "PUSKVOREC"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BESTMOVE"]
-[Black "PUSKVOREC"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BESTMOVE"]
-[Black "PUSKVOREC"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BESTMOVE"]
-[Black "PUSKVOREC"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BESTMOVE"]
-[Black "PUSKVOREC"]
-[Result "1-0"]
-
-1. d4 d5 1-0
+1. d4 d5 0-1
 
 [White "BESTMOVE"]
 [Black "PUSKVOREC"]
@@ -40518,75 +38178,39 @@
 
 [White "PUSKVOREC"]
 [Black "BESTMOVE"]
-[Result "1-0"]
+[Result "0-1"]
 
-1. d4 d5 1-0
-
-[White "PUSKVOREC"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
+1. d4 d5 0-1
 
 [White "PUSKVOREC"]
 [Black "BESTMOVE"]
-[Result "1-0"]
+[Result "0-1"]
 
-1. d4 d5 1-0
-
-[White "PUSKVOREC"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
+1. d4 d5 0-1
 
 [White "PUSKVOREC"]
 [Black "BESTMOVE"]
-[Result "1-0"]
+[Result "0-1"]
 
-1. d4 d5 1-0
-
-[White "PUSKVOREC"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
+1. d4 d5 0-1
 
 [White "PUSKVOREC"]
 [Black "BESTMOVE"]
-[Result "1-0"]
+[Result "0-1"]
 
-1. d4 d5 1-0
-
-[White "PUSKVOREC"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
+1. d4 d5 0-1
 
 [White "PUSKVOREC"]
 [Black "BESTMOVE"]
-[Result "1-0"]
+[Result "0-1"]
 
-1. d4 d5 1-0
-
-[White "PUSKVOREC"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
+1. d4 d5 0-1
 
 [White "PUSKVOREC"]
 [Black "BESTMOVE"]
-[Result "1-0"]
+[Result "0-1"]
 
-1. d4 d5 1-0
-
-[White "PUSKVOREC"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
+1. d4 d5 0-1
 
 [White "PUSKVOREC"]
 [Black "BESTMOVE"]
@@ -40792,42 +38416,6 @@
 
 1. d4 d5 1-0
 
-[White "BESTMOVE"]
-[Black "QMENTAT 6"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BESTMOVE"]
-[Black "QMENTAT 6"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BESTMOVE"]
-[Black "QMENTAT 6"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BESTMOVE"]
-[Black "QMENTAT 6"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BESTMOVE"]
-[Black "QMENTAT 6"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BESTMOVE"]
-[Black "QMENTAT 6"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
 [White "QMENTAT 6"]
 [Black "BESTMOVE"]
 [Result "0-1"]
@@ -40878,75 +38466,39 @@
 
 [White "QMENTAT 6"]
 [Black "BESTMOVE"]
-[Result "1-0"]
+[Result "0-1"]
 
-1. d4 d5 1-0
-
-[White "QMENTAT 6"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
+1. d4 d5 0-1
 
 [White "QMENTAT 6"]
 [Black "BESTMOVE"]
-[Result "1-0"]
+[Result "0-1"]
 
-1. d4 d5 1-0
-
-[White "QMENTAT 6"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
+1. d4 d5 0-1
 
 [White "QMENTAT 6"]
 [Black "BESTMOVE"]
-[Result "1-0"]
+[Result "0-1"]
 
-1. d4 d5 1-0
-
-[White "QMENTAT 6"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
+1. d4 d5 0-1
 
 [White "QMENTAT 6"]
 [Black "BESTMOVE"]
-[Result "1-0"]
+[Result "0-1"]
 
-1. d4 d5 1-0
-
-[White "QMENTAT 6"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
+1. d4 d5 0-1
 
 [White "QMENTAT 6"]
 [Black "BESTMOVE"]
-[Result "1-0"]
+[Result "0-1"]
 
-1. d4 d5 1-0
-
-[White "QMENTAT 6"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
+1. d4 d5 0-1
 
 [White "QMENTAT 6"]
 [Black "BESTMOVE"]
-[Result "1-0"]
+[Result "0-1"]
 
-1. d4 d5 1-0
-
-[White "QMENTAT 6"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
+1. d4 d5 0-1
 
 [White "QMENTAT 6"]
 [Black "BESTMOVE"]
@@ -41128,42 +38680,6 @@
 
 1. d4 d5 0-1
 
-[White "BESTMOVE"]
-[Black "SWINE 2005"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BESTMOVE"]
-[Black "SWINE 2005"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BESTMOVE"]
-[Black "SWINE 2005"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "SWINE 2005"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "SWINE 2005"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "SWINE 2005"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
 [White "SWINE 2005"]
 [Black "BESTMOVE"]
 [Result "1-0"]
@@ -41265,42 +38781,6 @@
 [Result "0-1"]
 
 1. d4 d5 0-1
-
-[White "BESTMOVE"]
-[Black "SWINE 2007"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BESTMOVE"]
-[Black "SWINE 2007"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BESTMOVE"]
-[Black "SWINE 2007"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "SWINE 2007"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "SWINE 2007"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "SWINE 2007"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
 
 [White "SWINE 2007"]
 [Black "BESTMOVE"]
@@ -41428,42 +38908,6 @@
 
 1. d4 d5 0-1
 
-[White "BESTMOVE"]
-[Black "TITO 2006"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BESTMOVE"]
-[Black "TITO 2006"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BESTMOVE"]
-[Black "TITO 2006"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "TITO 2006"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "TITO 2006"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "TITO 2006"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
 [White "TITO 2006"]
 [Black "BESTMOVE"]
 [Result "1-0"]
@@ -41499,42 +38943,6 @@
 [Result "0-1"]
 
 1. d4 d5 0-1
-
-[White "BESTMOVE"]
-[Black "TITO 2007"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BESTMOVE"]
-[Black "TITO 2007"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BESTMOVE"]
-[Black "TITO 2007"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "TITO 2007"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "TITO 2007"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "TITO 2007"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
 
 [White "TITO 2007"]
 [Black "BESTMOVE"]
@@ -41704,42 +39112,6 @@
 
 1. d4 d5 1-0
 
-[White "BESTMOVE"]
-[Black "TRUNKAT"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BESTMOVE"]
-[Black "TRUNKAT"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BESTMOVE"]
-[Black "TRUNKAT"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BESTMOVE"]
-[Black "TRUNKAT"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BESTMOVE"]
-[Black "TRUNKAT"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BESTMOVE"]
-[Black "TRUNKAT"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
 [White "TRUNKAT"]
 [Black "BESTMOVE"]
 [Result "0-1"]
@@ -41778,75 +39150,39 @@
 
 [White "TRUNKAT"]
 [Black "BESTMOVE"]
-[Result "1-0"]
+[Result "0-1"]
 
-1. d4 d5 1-0
-
-[White "TRUNKAT"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
+1. d4 d5 0-1
 
 [White "TRUNKAT"]
 [Black "BESTMOVE"]
-[Result "1-0"]
+[Result "0-1"]
 
-1. d4 d5 1-0
-
-[White "TRUNKAT"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
+1. d4 d5 0-1
 
 [White "TRUNKAT"]
 [Black "BESTMOVE"]
-[Result "1-0"]
+[Result "0-1"]
 
-1. d4 d5 1-0
-
-[White "TRUNKAT"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
+1. d4 d5 0-1
 
 [White "TRUNKAT"]
 [Black "BESTMOVE"]
-[Result "1-0"]
+[Result "0-1"]
 
-1. d4 d5 1-0
-
-[White "TRUNKAT"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
+1. d4 d5 0-1
 
 [White "TRUNKAT"]
 [Black "BESTMOVE"]
-[Result "1-0"]
+[Result "0-1"]
 
-1. d4 d5 1-0
-
-[White "TRUNKAT"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
+1. d4 d5 0-1
 
 [White "TRUNKAT"]
 [Black "BESTMOVE"]
-[Result "1-0"]
+[Result "0-1"]
 
-1. d4 d5 1-0
-
-[White "TRUNKAT"]
-[Black "BESTMOVE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
+1. d4 d5 0-1
 
 [White "TRUNKAT"]
 [Black "BESTMOVE"]
@@ -42838,30 +40174,6 @@
 
 1. d4 d5 1-0
 
-[White "BRUTEFOR"]
-[Black "CRUSHER 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BRUTEFOR"]
-[Black "CRUSHER 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BRUTEFOR"]
-[Black "CRUSHER 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "CRUSHER 2010"]
-[Black "BRUTEFOR"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
 [White "CRUSHER 2010"]
 [Black "BRUTEFOR"]
 [Result "0-1"]
@@ -42898,48 +40210,6 @@
 
 1. d4 d5 1-0
 
-[White "CRUSHER 2010"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "CRUSHER 2010"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BRUTEFOR"]
-[Black "CURNPIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BRUTEFOR"]
-[Black "CURNPIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BRUTEFOR"]
-[Black "CURNPIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BRUTEFOR"]
-[Black "CURNPIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BRUTEFOR"]
-[Black "CURNPIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
 [White "BRUTEFOR"]
 [Black "CURNPIS"]
 [Result "1-0"]
@@ -43084,107 +40354,29 @@
 
 1. d4 d5 1/2-1/2
 
-[White "BRUTEFOR"]
-[Black "CURNPIS"]
-[Result "1/2-1/2"]
-
-1. d4 d5 1/2-1/2
-
-[White "BRUTEFOR"]
-[Black "CURNPIS"]
-[Result "1/2-1/2"]
-
-1. d4 d5 1/2-1/2
-
-[White "BRUTEFOR"]
-[Black "CURNPIS"]
-[Result "1/2-1/2"]
-
-1. d4 d5 1/2-1/2
-
-[White "BRUTEFOR"]
-[Black "CURNPIS"]
+[White "CURNPIS"]
+[Black "BRUTEFOR"]
 [Result "1/2-1/2"]
 
 1. d4 d5 1/2-1/2
 
 [White "CURNPIS"]
 [Black "BRUTEFOR"]
-[Result "1-0"]
+[Result "1/2-1/2"]
 
-1. d4 d5 1-0
-
-[White "CURNPIS"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
+1. d4 d5 1/2-1/2
 
 [White "CURNPIS"]
 [Black "BRUTEFOR"]
-[Result "1-0"]
+[Result "1/2-1/2"]
 
-1. d4 d5 1-0
-
-[White "CURNPIS"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
+1. d4 d5 1/2-1/2
 
 [White "CURNPIS"]
 [Black "BRUTEFOR"]
-[Result "1-0"]
+[Result "1/2-1/2"]
 
-1. d4 d5 1-0
-
-[White "CURNPIS"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "CURNPIS"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "CURNPIS"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "CURNPIS"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "CURNPIS"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "CURNPIS"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "CURNPIS"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "CURNPIS"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
+1. d4 d5 1/2-1/2
 
 [White "CURNPIS"]
 [Black "BRUTEFOR"]
@@ -43439,60 +40631,6 @@
 1. d4 d5 1-0
 
 [White "BRUTEFOR"]
-[Black "GMOTOR 2006"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BRUTEFOR"]
-[Black "GMOTOR 2006"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BRUTEFOR"]
-[Black "GMOTOR 2006"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "GMOTOR 2006"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "GMOTOR 2006"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "GMOTOR 2006"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BRUTEFOR"]
-[Black "GMOTOR 2007"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BRUTEFOR"]
-[Black "GMOTOR 2007"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BRUTEFOR"]
-[Black "GMOTOR 2007"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BRUTEFOR"]
 [Black "GMOTOR 2007"]
 [Result "0-1"]
 
@@ -43528,60 +40666,6 @@
 
 1. d4 d5 1-0
 
-[White "GMOTOR 2007"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "GMOTOR 2007"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "GMOTOR 2007"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BRUTEFOR"]
-[Black "GORO 2005"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BRUTEFOR"]
-[Black "GORO 2005"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BRUTEFOR"]
-[Black "GORO 2005"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "GORO 2005"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "GORO 2005"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "GORO 2005"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
 [White "BRUTEFOR"]
 [Black "GORO 2007"]
 [Result "0-1"]
@@ -43599,42 +40683,6 @@
 [Result "0-1"]
 
 1. d4 d5 0-1
-
-[White "BRUTEFOR"]
-[Black "GORO 2007"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BRUTEFOR"]
-[Black "GORO 2007"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BRUTEFOR"]
-[Black "GORO 2007"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "GORO 2007"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "GORO 2007"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "GORO 2007"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
 
 [White "GORO 2007"]
 [Black "BRUTEFOR"]
@@ -43769,78 +40817,6 @@
 1. d4 d5 1-0
 
 [White "HGARDEN 2005"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BRUTEFOR"]
-[Black "HGARDEN 2006"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BRUTEFOR"]
-[Black "HGARDEN 2006"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BRUTEFOR"]
-[Black "HGARDEN 2006"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "HGARDEN 2006"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "HGARDEN 2006"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "HGARDEN 2006"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BRUTEFOR"]
-[Black "HGARDEN 2007"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BRUTEFOR"]
-[Black "HGARDEN 2007"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BRUTEFOR"]
-[Black "HGARDEN 2007"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "HGARDEN 2007"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "HGARDEN 2007"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "HGARDEN 2007"]
 [Black "BRUTEFOR"]
 [Result "1-0"]
 
@@ -43942,42 +40918,6 @@
 
 1. d4 d5 0-1
 
-[White "BRUTEFOR"]
-[Black "JUDE"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BRUTEFOR"]
-[Black "JUDE"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BRUTEFOR"]
-[Black "JUDE"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "JUDE"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "JUDE"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "JUDE"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
 [White "JUDE"]
 [Black "BRUTEFOR"]
 [Result "1-0"]
@@ -44032,78 +40972,6 @@
 
 1. d4 d5 0-1
 
-[White "BRUTEFOR"]
-[Black "KANEC 2006"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BRUTEFOR"]
-[Black "KANEC 2006"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BRUTEFOR"]
-[Black "KANEC 2006"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BRUTEFOR"]
-[Black "KANEC 2006"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BRUTEFOR"]
-[Black "KANEC 2006"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BRUTEFOR"]
-[Black "KANEC 2006"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "KANEC 2006"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "KANEC 2006"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "KANEC 2006"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "KANEC 2006"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "KANEC 2006"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "KANEC 2006"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
 [White "KANEC 2006"]
 [Black "BRUTEFOR"]
 [Result "1-0"]
@@ -44328,24 +41196,6 @@
 
 [White "BRUTEFOR"]
 [Black "LEONARDO"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BRUTEFOR"]
-[Black "LEONARDO"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BRUTEFOR"]
-[Black "LEONARDO"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BRUTEFOR"]
-[Black "LEONARDO"]
 [Result "1/2-1/2"]
 
 1. d4 d5 1/2-1/2
@@ -44374,101 +41224,11 @@
 
 1. d4 d5 1/2-1/2
 
-[White "BRUTEFOR"]
-[Black "LEONARDO"]
+[White "LEONARDO"]
+[Black "BRUTEFOR"]
 [Result "1/2-1/2"]
 
 1. d4 d5 1/2-1/2
-
-[White "BRUTEFOR"]
-[Black "LEONARDO"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BRUTEFOR"]
-[Black "LEONARDO"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BRUTEFOR"]
-[Black "LEONARDO"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BRUTEFOR"]
-[Black "LEONARDO"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BRUTEFOR"]
-[Black "LEONARDO"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "LEONARDO"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "LEONARDO"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "LEONARDO"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "LEONARDO"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "LEONARDO"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "LEONARDO"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "LEONARDO"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "LEONARDO"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "LEONARDO"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "LEONARDO"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
 
 [White "LEONARDO"]
 [Black "BRUTEFOR"]
@@ -44668,42 +41428,6 @@
 
 1. d4 d5 0-1
 
-[White "BRUTEFOR"]
-[Black "NABAMOKU 2007"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BRUTEFOR"]
-[Black "NABAMOKU 2007"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BRUTEFOR"]
-[Black "NABAMOKU 2007"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "NABAMOKU 2007"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "NABAMOKU 2007"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "NABAMOKU 2007"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
 [White "NABAMOKU 2007"]
 [Black "BRUTEFOR"]
 [Result "1-0"]
@@ -44748,18 +41472,6 @@
 
 [White "BRUTEFOR"]
 [Black "NABAMOKU 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BRUTEFOR"]
-[Black "NABAMOKU 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BRUTEFOR"]
-[Black "NABAMOKU 2008"]
 [Result "0-1"]
 
 1. d4 d5 0-1
@@ -44788,30 +41500,6 @@
 
 1. d4 d5 0-1
 
-[White "BRUTEFOR"]
-[Black "NABAMOKU 2008"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "NABAMOKU 2008"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "NABAMOKU 2008"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "NABAMOKU 2008"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
 [White "NABAMOKU 2008"]
 [Black "BRUTEFOR"]
 [Result "1-0"]
@@ -44931,78 +41619,6 @@
 [Result "0-1"]
 
 1. d4 d5 0-1
-
-[White "BRUTEFOR"]
-[Black "NOESIS"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BRUTEFOR"]
-[Black "NOESIS"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BRUTEFOR"]
-[Black "NOESIS"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BRUTEFOR"]
-[Black "NOESIS"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BRUTEFOR"]
-[Black "NOESIS"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BRUTEFOR"]
-[Black "NOESIS"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "NOESIS"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "NOESIS"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "NOESIS"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "NOESIS"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "NOESIS"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "NOESIS"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
 
 [White "NOESIS"]
 [Black "BRUTEFOR"]
@@ -45106,42 +41722,6 @@
 
 1. d4 d5 0-1
 
-[White "BRUTEFOR"]
-[Black "PECUCHET"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BRUTEFOR"]
-[Black "PECUCHET"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BRUTEFOR"]
-[Black "PECUCHET"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "PECUCHET"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PECUCHET"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PECUCHET"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
 [White "PECUCHET"]
 [Black "BRUTEFOR"]
 [Result "1-0"]
@@ -45195,78 +41775,6 @@
 [Result "0-1"]
 
 1. d4 d5 0-1
-
-[White "BRUTEFOR"]
-[Black "PELA 2006"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BRUTEFOR"]
-[Black "PELA 2006"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BRUTEFOR"]
-[Black "PELA 2006"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BRUTEFOR"]
-[Black "PELA 2006"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BRUTEFOR"]
-[Black "PELA 2006"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BRUTEFOR"]
-[Black "PELA 2006"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "PELA 2006"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PELA 2006"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PELA 2006"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PELA 2006"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PELA 2006"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PELA 2006"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
 
 [White "PELA 2006"]
 [Black "BRUTEFOR"]
@@ -45588,117 +42096,9 @@
 
 [White "BRUTEFOR"]
 [Black "PISQ 7"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BRUTEFOR"]
-[Black "PISQ 7"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BRUTEFOR"]
-[Black "PISQ 7"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BRUTEFOR"]
-[Black "PISQ 7"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BRUTEFOR"]
-[Black "PISQ 7"]
 [Result "0-1"]
 
 1. d4 d5 0-1
-
-[White "BRUTEFOR"]
-[Black "PISQ 7"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BRUTEFOR"]
-[Black "PISQ 7"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BRUTEFOR"]
-[Black "PISQ 7"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BRUTEFOR"]
-[Black "PISQ 7"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BRUTEFOR"]
-[Black "PISQ 7"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "PISQ 7"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PISQ 7"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PISQ 7"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PISQ 7"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PISQ 7"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PISQ 7"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PISQ 7"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PISQ 7"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PISQ 7"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
 
 [White "PISQ 7"]
 [Black "BRUTEFOR"]
@@ -45768,45 +42168,9 @@
 
 [White "BRUTEFOR"]
 [Black "PUREGM 2009"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BRUTEFOR"]
-[Black "PUREGM 2009"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BRUTEFOR"]
-[Black "PUREGM 2009"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BRUTEFOR"]
-[Black "PUREGM 2009"]
 [Result "0-1"]
 
 1. d4 d5 0-1
-
-[White "PUREGM 2009"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PUREGM 2009"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PUREGM 2009"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
 
 [White "PUREGM 2009"]
 [Black "BRUTEFOR"]
@@ -45964,137 +42328,29 @@
 
 1. d4 d5 1-0
 
-[White "BRUTEFOR"]
-[Black "PUSKVOREC"]
-[Result "1-0"]
+[White "PUSKVOREC"]
+[Black "BRUTEFOR"]
+[Result "0-1"]
 
-1. d4 d5 1-0
-
-[White "BRUTEFOR"]
-[Black "PUSKVOREC"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BRUTEFOR"]
-[Black "PUSKVOREC"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BRUTEFOR"]
-[Black "PUSKVOREC"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BRUTEFOR"]
-[Black "PUSKVOREC"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BRUTEFOR"]
-[Black "PUSKVOREC"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BRUTEFOR"]
-[Black "PUSKVOREC"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BRUTEFOR"]
-[Black "PUSKVOREC"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BRUTEFOR"]
-[Black "PUSKVOREC"]
-[Result "1-0"]
-
-1. d4 d5 1-0
+1. d4 d5 0-1
 
 [White "PUSKVOREC"]
 [Black "BRUTEFOR"]
-[Result "1-0"]
+[Result "0-1"]
 
-1. d4 d5 1-0
-
-[White "PUSKVOREC"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
+1. d4 d5 0-1
 
 [White "PUSKVOREC"]
 [Black "BRUTEFOR"]
-[Result "1-0"]
+[Result "0-1"]
 
-1. d4 d5 1-0
-
-[White "PUSKVOREC"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
+1. d4 d5 0-1
 
 [White "PUSKVOREC"]
 [Black "BRUTEFOR"]
-[Result "1-0"]
+[Result "0-1"]
 
-1. d4 d5 1-0
-
-[White "PUSKVOREC"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PUSKVOREC"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PUSKVOREC"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PUSKVOREC"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PUSKVOREC"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PUSKVOREC"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PUSKVOREC"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PUSKVOREC"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
+1. d4 d5 0-1
 
 [White "PUSKVOREC"]
 [Black "BRUTEFOR"]
@@ -46377,78 +42633,6 @@
 [Result "0-1"]
 
 1. d4 d5 0-1
-
-[White "BRUTEFOR"]
-[Black "QMENTAT 6"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BRUTEFOR"]
-[Black "QMENTAT 6"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BRUTEFOR"]
-[Black "QMENTAT 6"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BRUTEFOR"]
-[Black "QMENTAT 6"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BRUTEFOR"]
-[Black "QMENTAT 6"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BRUTEFOR"]
-[Black "QMENTAT 6"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "QMENTAT 6"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "QMENTAT 6"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "QMENTAT 6"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "QMENTAT 6"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "QMENTAT 6"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "QMENTAT 6"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
 
 [White "QMENTAT 6"]
 [Black "BRUTEFOR"]
@@ -46648,42 +42832,6 @@
 
 1. d4 d5 0-1
 
-[White "BRUTEFOR"]
-[Black "SWINE 2005"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BRUTEFOR"]
-[Black "SWINE 2005"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BRUTEFOR"]
-[Black "SWINE 2005"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "SWINE 2005"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "SWINE 2005"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "SWINE 2005"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
 [White "SWINE 2005"]
 [Black "BRUTEFOR"]
 [Result "1-0"]
@@ -46720,24 +42868,6 @@
 
 1. d4 d5 0-1
 
-[White "BRUTEFOR"]
-[Black "SWINE 2007"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BRUTEFOR"]
-[Black "SWINE 2007"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BRUTEFOR"]
-[Black "SWINE 2007"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
 [White "SWINE 2007"]
 [Black "BRUTEFOR"]
 [Result "1-0"]
@@ -46751,96 +42881,6 @@
 1. d4 d5 1-0
 
 [White "SWINE 2007"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "SWINE 2007"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "SWINE 2007"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "SWINE 2007"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BRUTEFOR"]
-[Black "TITO 2006"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BRUTEFOR"]
-[Black "TITO 2006"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BRUTEFOR"]
-[Black "TITO 2006"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "TITO 2006"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "TITO 2006"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "TITO 2006"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BRUTEFOR"]
-[Black "TITO 2007"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BRUTEFOR"]
-[Black "TITO 2007"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BRUTEFOR"]
-[Black "TITO 2007"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "TITO 2007"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "TITO 2007"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "TITO 2007"]
 [Black "BRUTEFOR"]
 [Result "1-0"]
 
@@ -46995,78 +43035,6 @@
 [Result "0-1"]
 
 1. d4 d5 0-1
-
-[White "BRUTEFOR"]
-[Black "TRUNKAT"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BRUTEFOR"]
-[Black "TRUNKAT"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BRUTEFOR"]
-[Black "TRUNKAT"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BRUTEFOR"]
-[Black "TRUNKAT"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BRUTEFOR"]
-[Black "TRUNKAT"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "BRUTEFOR"]
-[Black "TRUNKAT"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "TRUNKAT"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "TRUNKAT"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "TRUNKAT"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "TRUNKAT"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "TRUNKAT"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "TRUNKAT"]
-[Black "BRUTEFOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
 
 [White "TRUNKAT"]
 [Black "BRUTEFOR"]
@@ -50807,78 +46775,6 @@
 1. d4 d5 1-0
 
 [White "CRUSHER 2010"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "CRUSHER 2010"]
-[Black "ONIX 2010"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "CRUSHER 2010"]
-[Black "ONIX 2010"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "CRUSHER 2010"]
-[Black "ONIX 2010"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "CRUSHER 2010"]
-[Black "ONIX 2010"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "CRUSHER 2010"]
-[Black "ONIX 2010"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "ONIX 2010"]
-[Black "CRUSHER 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "CRUSHER 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "CRUSHER 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "CRUSHER 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "CRUSHER 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "CRUSHER 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "CRUSHER 2010"]
 [Black "PECUCHET"]
 [Result "1-0"]
 
@@ -52072,42 +47968,6 @@
 
 1. d4 d5 0-1
 
-[White "CRUSHER 2010"]
-[Black "PUREGM 2009"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "CRUSHER 2010"]
-[Black "PUREGM 2009"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "CRUSHER 2010"]
-[Black "PUREGM 2009"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "PUREGM 2009"]
-[Black "CRUSHER 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PUREGM 2009"]
-[Black "CRUSHER 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PUREGM 2009"]
-[Black "CRUSHER 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
 [White "PUREGM 2009"]
 [Black "CRUSHER 2010"]
 [Result "1-0"]
@@ -53081,42 +48941,6 @@
 1. d4 d5 1-0
 
 [White "QMENTAT 6"]
-[Black "CRUSHER 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "CRUSHER 2010"]
-[Black "RENJUSOLVER"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "CRUSHER 2010"]
-[Black "RENJUSOLVER"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "CRUSHER 2010"]
-[Black "RENJUSOLVER"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "RENJUSOLVER"]
-[Black "CRUSHER 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "RENJUSOLVER"]
-[Black "CRUSHER 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "RENJUSOLVER"]
 [Black "CRUSHER 2010"]
 [Result "1-0"]
 
@@ -58716,12 +54540,6 @@
 
 [White "CURNPIS"]
 [Black "NOESIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "CURNPIS"]
-[Black "NOESIS"]
 [Result "0-1"]
 
 1. d4 d5 0-1
@@ -58779,36 +54597,6 @@
 [Result "0-1"]
 
 1. d4 d5 0-1
-
-[White "CURNPIS"]
-[Black "NOESIS"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "CURNPIS"]
-[Black "NOESIS"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "NOESIS"]
-[Black "CURNPIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "NOESIS"]
-[Black "CURNPIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "NOESIS"]
-[Black "CURNPIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
 
 [White "NOESIS"]
 [Black "CURNPIS"]
@@ -58949,114 +54737,6 @@
 1. d4 d5 1-0
 
 [White "ONIX 2007"]
-[Black "CURNPIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "CURNPIS"]
-[Black "ONIX 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "CURNPIS"]
-[Black "ONIX 2008"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "CURNPIS"]
-[Black "ONIX 2008"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "ONIX 2008"]
-[Black "CURNPIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2008"]
-[Black "CURNPIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2008"]
-[Black "CURNPIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "CURNPIS"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "CURNPIS"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "CURNPIS"]
-[Black "ONIX 2010"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "CURNPIS"]
-[Black "ONIX 2010"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "CURNPIS"]
-[Black "ONIX 2010"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "CURNPIS"]
-[Black "ONIX 2010"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "ONIX 2010"]
-[Black "CURNPIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "CURNPIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "CURNPIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "CURNPIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "CURNPIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
 [Black "CURNPIS"]
 [Result "1-0"]
 
@@ -60820,47 +56500,11 @@
 
 1. d4 d5 1-0
 
-[White "CURNPIS"]
-[Black "PUREGM 2009"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "CURNPIS"]
-[Black "PUREGM 2009"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "CURNPIS"]
-[Black "PUREGM 2009"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
 [White "PUREGM 2009"]
 [Black "CURNPIS"]
 [Result "0-1"]
 
 1. d4 d5 0-1
-
-[White "PUREGM 2009"]
-[Black "CURNPIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PUREGM 2009"]
-[Black "CURNPIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PUREGM 2009"]
-[Black "CURNPIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
 
 [White "PUREGM 2009"]
 [Black "CURNPIS"]
@@ -62393,42 +58037,6 @@
 1. d4 d5 1-0
 
 [White "QMENTAT 6"]
-[Black "CURNPIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "CURNPIS"]
-[Black "RENJUSOLVER"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "CURNPIS"]
-[Black "RENJUSOLVER"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "CURNPIS"]
-[Black "RENJUSOLVER"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "RENJUSOLVER"]
-[Black "CURNPIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "RENJUSOLVER"]
-[Black "CURNPIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "RENJUSOLVER"]
 [Black "CURNPIS"]
 [Result "1-0"]
 
@@ -71592,18 +67200,6 @@
 
 [White "FIVEROW"]
 [Black "NOESIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FIVEROW"]
-[Black "NOESIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FIVEROW"]
-[Black "NOESIS"]
 [Result "0-1"]
 
 1. d4 d5 0-1
@@ -71643,30 +67239,6 @@
 [Result "0-1"]
 
 1. d4 d5 0-1
-
-[White "FIVEROW"]
-[Black "NOESIS"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "NOESIS"]
-[Black "FIVEROW"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "NOESIS"]
-[Black "FIVEROW"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "NOESIS"]
-[Black "FIVEROW"]
-[Result "1-0"]
-
-1. d4 d5 1-0
 
 [White "NOESIS"]
 [Black "FIVEROW"]
@@ -71760,24 +67332,6 @@
 
 [White "FIVEROW"]
 [Black "ONIX 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FIVEROW"]
-[Black "ONIX 2008"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FIVEROW"]
-[Black "ONIX 2008"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FIVEROW"]
-[Black "ONIX 2008"]
 [Result "0-1"]
 
 1. d4 d5 0-1
@@ -71807,96 +67361,6 @@
 1. d4 d5 1-0
 
 [White "ONIX 2008"]
-[Black "FIVEROW"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2008"]
-[Black "FIVEROW"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2008"]
-[Black "FIVEROW"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2008"]
-[Black "FIVEROW"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FIVEROW"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FIVEROW"]
-[Black "ONIX 2010"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FIVEROW"]
-[Black "ONIX 2010"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FIVEROW"]
-[Black "ONIX 2010"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FIVEROW"]
-[Black "ONIX 2010"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FIVEROW"]
-[Black "ONIX 2010"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "ONIX 2010"]
-[Black "FIVEROW"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "FIVEROW"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "FIVEROW"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "FIVEROW"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "FIVEROW"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
 [Black "FIVEROW"]
 [Result "1-0"]
 
@@ -74976,18 +70440,6 @@
 
 [White "FIVEROW"]
 [Black "RENJUSOLVER"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FIVEROW"]
-[Black "RENJUSOLVER"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FIVEROW"]
-[Black "RENJUSOLVER"]
 [Result "0-1"]
 
 1. d4 d5 0-1
@@ -75003,30 +70455,6 @@
 [Result "0-1"]
 
 1. d4 d5 0-1
-
-[White "FIVEROW"]
-[Black "RENJUSOLVER"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "RENJUSOLVER"]
-[Black "FIVEROW"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "RENJUSOLVER"]
-[Black "FIVEROW"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "RENJUSOLVER"]
-[Black "FIVEROW"]
-[Result "1-0"]
-
-1. d4 d5 1-0
 
 [White "RENJUSOLVER"]
 [Black "FIVEROW"]
@@ -79846,24 +75274,6 @@
 
 1. d4 d5 1-0
 
-[White "GMOTOR 2007"]
-[Black "NOESIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "GMOTOR 2007"]
-[Black "NOESIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "GMOTOR 2007"]
-[Black "NOESIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
 [White "NOESIS"]
 [Black "GMOTOR 2007"]
 [Result "0-1"]
@@ -79911,24 +75321,6 @@
 [Result "0-1"]
 
 1. d4 d5 0-1
-
-[White "NOESIS"]
-[Black "GMOTOR 2007"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "NOESIS"]
-[Black "GMOTOR 2007"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "NOESIS"]
-[Black "GMOTOR 2007"]
-[Result "1-0"]
-
-1. d4 d5 1-0
 
 [White "NOESIS"]
 [Black "GMOTOR 2007"]
@@ -79992,24 +75384,6 @@
 
 [White "GMOTOR 2007"]
 [Black "ONIX 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "GMOTOR 2007"]
-[Black "ONIX 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "GMOTOR 2007"]
-[Black "ONIX 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "GMOTOR 2007"]
-[Black "ONIX 2008"]
 [Result "0-1"]
 
 1. d4 d5 0-1
@@ -80039,60 +75413,6 @@
 1. d4 d5 1-0
 
 [White "ONIX 2008"]
-[Black "GMOTOR 2007"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2008"]
-[Black "GMOTOR 2007"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2008"]
-[Black "GMOTOR 2007"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2008"]
-[Black "GMOTOR 2007"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "GMOTOR 2007"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "GMOTOR 2007"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "GMOTOR 2007"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "GMOTOR 2007"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "ONIX 2010"]
-[Black "GMOTOR 2007"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
 [Black "GMOTOR 2007"]
 [Result "1-0"]
 
@@ -85176,45 +80496,9 @@
 
 [White "GMOTOR 2011"]
 [Black "ONIX 2010"]
-[Result "1-0"]
+[Result "0-1"]
 
-1. d4 d5 1-0
-
-[White "GMOTOR 2011"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "GMOTOR 2011"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "GMOTOR 2011"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "GMOTOR 2011"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "GMOTOR 2011"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "GMOTOR 2011"]
-[Result "1-0"]
-
-1. d4 d5 1-0
+1. d4 d5 0-1
 
 [White "ONIX 2010"]
 [Black "GMOTOR 2011"]
@@ -87372,18 +82656,6 @@
 
 [White "GMOTOR 2011"]
 [Black "RENJUSOLVER"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "GMOTOR 2011"]
-[Black "RENJUSOLVER"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "GMOTOR 2011"]
-[Black "RENJUSOLVER"]
 [Result "0-1"]
 
 1. d4 d5 0-1
@@ -87447,30 +82719,6 @@
 [Result "0-1"]
 
 1. d4 d5 0-1
-
-[White "GMOTOR 2011"]
-[Black "RENJUSOLVER"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "RENJUSOLVER"]
-[Black "GMOTOR 2011"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "RENJUSOLVER"]
-[Black "GMOTOR 2011"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "RENJUSOLVER"]
-[Black "GMOTOR 2011"]
-[Result "1-0"]
-
-1. d4 d5 1-0
 
 [White "RENJUSOLVER"]
 [Black "GMOTOR 2011"]
@@ -92579,84 +87827,6 @@
 1. d4 d5 0-1
 
 [White "GORO 2007"]
-[Black "HEWER 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "GORO 2007"]
-[Black "HEWER 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "GORO 2007"]
-[Black "HEWER 2008"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "HEWER 2008"]
-[Black "GORO 2007"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "HEWER 2008"]
-[Black "GORO 2007"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "HEWER 2008"]
-[Black "GORO 2007"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "GORO 2007"]
-[Black "HFM 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "GORO 2007"]
-[Black "HFM 2008"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "GORO 2007"]
-[Black "HFM 2008"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "HFM 2008"]
-[Black "GORO 2007"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "HFM 2008"]
-[Black "GORO 2007"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "HFM 2008"]
-[Black "GORO 2007"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "GORO 2007"]
-[Black "HGARDEN 2007"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "GORO 2007"]
 [Black "HGARDEN 2007"]
 [Result "1-0"]
 
@@ -92691,36 +87861,6 @@
 [Result "0-1"]
 
 1. d4 d5 0-1
-
-[White "GORO 2007"]
-[Black "HGARDEN 2007"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "GORO 2007"]
-[Black "HGARDEN 2007"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "HGARDEN 2007"]
-[Black "GORO 2007"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "HGARDEN 2007"]
-[Black "GORO 2007"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "HGARDEN 2007"]
-[Black "GORO 2007"]
-[Result "1-0"]
-
-1. d4 d5 1-0
 
 [White "HGARDEN 2007"]
 [Black "GORO 2007"]
@@ -92867,60 +88007,6 @@
 1. d4 d5 1-0
 
 [White "GORO 2007"]
-[Black "KANEC 2008"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "GORO 2007"]
-[Black "KANEC 2008"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "GORO 2007"]
-[Black "KANEC 2008"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "KANEC 2008"]
-[Black "GORO 2007"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "KANEC 2008"]
-[Black "GORO 2007"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "KANEC 2008"]
-[Black "GORO 2007"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "GORO 2007"]
-[Black "LEONARDO"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "GORO 2007"]
-[Black "LEONARDO"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "GORO 2007"]
-[Black "LEONARDO"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "GORO 2007"]
 [Black "LEONARDO"]
 [Result "1-0"]
 
@@ -92955,24 +88041,6 @@
 [Result "0-1"]
 
 1. d4 d5 0-1
-
-[White "LEONARDO"]
-[Black "GORO 2007"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "LEONARDO"]
-[Black "GORO 2007"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "LEONARDO"]
-[Black "GORO 2007"]
-[Result "1-0"]
-
-1. d4 d5 1-0
 
 [White "GORO 2007"]
 [Black "NABAMOKU 2007"]
@@ -93082,24 +88150,6 @@
 
 1. d4 d5 1-0
 
-[White "GORO 2007"]
-[Black "NOESIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "GORO 2007"]
-[Black "NOESIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "GORO 2007"]
-[Black "NOESIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
 [White "NOESIS"]
 [Black "GORO 2007"]
 [Result "0-1"]
@@ -93117,24 +88167,6 @@
 [Result "0-1"]
 
 1. d4 d5 0-1
-
-[White "NOESIS"]
-[Black "GORO 2007"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "NOESIS"]
-[Black "GORO 2007"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "NOESIS"]
-[Black "GORO 2007"]
-[Result "1-0"]
-
-1. d4 d5 1-0
 
 [White "NOESIS"]
 [Black "GORO 2007"]
@@ -93388,24 +88420,6 @@
 
 1. d4 d5 1-0
 
-[White "GORO 2007"]
-[Black "PISQ 7"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "GORO 2007"]
-[Black "PISQ 7"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "GORO 2007"]
-[Black "PISQ 7"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
 [White "PISQ 7"]
 [Black "GORO 2007"]
 [Result "0-1"]
@@ -93417,24 +88431,6 @@
 [Result "0-1"]
 
 1. d4 d5 0-1
-
-[White "PISQ 7"]
-[Black "GORO 2007"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "PISQ 7"]
-[Black "GORO 2007"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PISQ 7"]
-[Black "GORO 2007"]
-[Result "1-0"]
-
-1. d4 d5 1-0
 
 [White "PISQ 7"]
 [Black "GORO 2007"]
@@ -95387,78 +90383,6 @@
 1. d4 d5 0-1
 
 [White "GORO 2010"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "GORO 2010"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "GORO 2010"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "GORO 2010"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "GORO 2010"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "GORO 2010"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "GORO 2010"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "ONIX 2010"]
-[Black "GORO 2010"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "ONIX 2010"]
-[Black "GORO 2010"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "ONIX 2010"]
-[Black "GORO 2010"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "ONIX 2010"]
-[Black "GORO 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "GORO 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "GORO 2010"]
 [Black "PECUCHET"]
 [Result "1-0"]
 
@@ -96231,42 +91155,6 @@
 [Result "1-0"]
 
 1. d4 d5 1-0
-
-[White "GORO 2011"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "GORO 2011"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "GORO 2011"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "GORO 2011"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "ONIX 2010"]
-[Black "GORO 2011"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "ONIX 2010"]
-[Black "GORO 2011"]
-[Result "0-1"]
-
-1. d4 d5 0-1
 
 [White "ONIX 2010"]
 [Black "GORO 2011"]
@@ -96556,42 +91444,6 @@
 
 1. d4 d5 1-0
 
-[White "GORO 2011"]
-[Black "RENJUSOLVER"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "GORO 2011"]
-[Black "RENJUSOLVER"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "GORO 2011"]
-[Black "RENJUSOLVER"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "RENJUSOLVER"]
-[Black "GORO 2011"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "RENJUSOLVER"]
-[Black "GORO 2011"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "RENJUSOLVER"]
-[Black "GORO 2011"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
 [White "RENJUSOLVER"]
 [Black "GORO 2011"]
 [Result "1-0"]
@@ -103264,42 +98116,6 @@
 
 1. d4 d5 1-0
 
-[White "HEWER 2008"]
-[Black "NOESIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "HEWER 2008"]
-[Black "NOESIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "HEWER 2008"]
-[Black "NOESIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "NOESIS"]
-[Black "HEWER 2008"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "NOESIS"]
-[Black "HEWER 2008"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "NOESIS"]
-[Black "HEWER 2008"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
 [White "NOESIS"]
 [Black "HEWER 2008"]
 [Result "0-1"]
@@ -103332,45 +98148,9 @@
 
 [White "HEWER 2008"]
 [Black "ONIX 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "HEWER 2008"]
-[Black "ONIX 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "HEWER 2008"]
-[Black "ONIX 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "HEWER 2008"]
-[Black "ONIX 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2008"]
-[Black "HEWER 2008"]
 [Result "0-1"]
 
 1. d4 d5 0-1
-
-[White "ONIX 2008"]
-[Black "HEWER 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2008"]
-[Black "HEWER 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
 
 [White "ONIX 2008"]
 [Black "HEWER 2008"]
@@ -104326,42 +99106,6 @@
 
 1. d4 d5 1-0
 
-[White "HEWER 2009"]
-[Black "PELA 2006"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "HEWER 2009"]
-[Black "PELA 2006"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "HEWER 2009"]
-[Black "PELA 2006"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PELA 2006"]
-[Black "HEWER 2009"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "PELA 2006"]
-[Black "HEWER 2009"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "PELA 2006"]
-[Black "HEWER 2009"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
 [White "PELA 2006"]
 [Black "HEWER 2009"]
 [Result "0-1"]
@@ -105306,123 +100050,15 @@
 
 [White "HEWER 2010"]
 [Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "HEWER 2010"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "HEWER 2010"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "HEWER 2010"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "HEWER 2010"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "HEWER 2010"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "HEWER 2010"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "HEWER 2010"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "HEWER 2010"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "HEWER 2010"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "HEWER 2010"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "HEWER 2010"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "ONIX 2010"]
-[Black "HEWER 2010"]
-[Result "1-0"]
+[White "HEWER 2010"]
+[Black "ONIX 2010"]
+[Result "0-1"]
 
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "HEWER 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "HEWER 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "HEWER 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "HEWER 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "HEWER 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "HEWER 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "HEWER 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
+1. d4 d5 0-1
 
 [White "ONIX 2010"]
 [Black "HEWER 2010"]
@@ -105603,30 +100239,6 @@
 [Result "1-0"]
 
 1. d4 d5 1-0
-
-[White "HEWER 2010"]
-[Black "PELA 2006"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "HEWER 2010"]
-[Black "PELA 2006"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "HEWER 2010"]
-[Black "PELA 2006"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PELA 2006"]
-[Black "HEWER 2010"]
-[Result "0-1"]
-
-1. d4 d5 0-1
 
 [White "PELA 2006"]
 [Black "HEWER 2010"]
@@ -105678,18 +100290,6 @@
 
 [White "PELA 2006"]
 [Black "HEWER 2010"]
-[Result "1/2-1/2"]
-
-1. d4 d5 1/2-1/2
-
-[White "PELA 2006"]
-[Black "HEWER 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PELA 2006"]
-[Black "HEWER 2010"]
 [Result "1-0"]
 
 1. d4 d5 1-0
@@ -106026,24 +100626,6 @@
 
 [White "HEWER 2010"]
 [Black "RENJUSOLVER"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "HEWER 2010"]
-[Black "RENJUSOLVER"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "HEWER 2010"]
-[Black "RENJUSOLVER"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "HEWER 2010"]
-[Black "RENJUSOLVER"]
 [Result "0-1"]
 
 1. d4 d5 0-1
@@ -106072,24 +100654,6 @@
 
 1. d4 d5 1-0
 
-[White "RENJUSOLVER"]
-[Black "HEWER 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "RENJUSOLVER"]
-[Black "HEWER 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "RENJUSOLVER"]
-[Black "HEWER 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
 [White "HEWER 2010"]
 [Black "SWINE 2010"]
 [Result "1-0"]
@@ -106278,27 +100842,9 @@
 
 [White "HEWER 2010"]
 [Black "TITO 2010"]
-[Result "1-0"]
+[Result "0-1"]
 
-1. d4 d5 1-0
-
-[White "HEWER 2010"]
-[Black "TITO 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "HEWER 2010"]
-[Black "TITO 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "HEWER 2010"]
-[Black "TITO 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
+1. d4 d5 0-1
 
 [White "HEWER 2010"]
 [Black "TITO 2010"]
@@ -106341,24 +100887,6 @@
 [Result "0-1"]
 
 1. d4 d5 0-1
-
-[White "TITO 2010"]
-[Black "HEWER 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "TITO 2010"]
-[Black "HEWER 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "TITO 2010"]
-[Black "HEWER 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
 
 [White "TITO 2010"]
 [Black "HEWER 2010"]
@@ -111928,42 +106456,6 @@
 
 1. d4 d5 1-0
 
-[White "HFM 2008"]
-[Black "NOESIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "HFM 2008"]
-[Black "NOESIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "HFM 2008"]
-[Black "NOESIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "NOESIS"]
-[Black "HFM 2008"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "NOESIS"]
-[Black "HFM 2008"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "NOESIS"]
-[Black "HFM 2008"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
 [White "NOESIS"]
 [Black "HFM 2008"]
 [Result "0-1"]
@@ -111984,33 +106476,9 @@
 
 [White "HFM 2008"]
 [Black "ONIX 2008"]
-[Result "1-0"]
+[Result "0-1"]
 
-1. d4 d5 1-0
-
-[White "HFM 2008"]
-[Black "ONIX 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "HFM 2008"]
-[Black "ONIX 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "HFM 2008"]
-[Black "ONIX 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "HFM 2008"]
-[Black "ONIX 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
+1. d4 d5 0-1
 
 [White "HFM 2008"]
 [Black "ONIX 2008"]
@@ -112018,23 +106486,11 @@
 
 1. d4 d5 0-1
 
-[White "ONIX 2008"]
-[Black "HFM 2008"]
-[Result "1-0"]
+[White "HFM 2008"]
+[Black "ONIX 2008"]
+[Result "0-1"]
 
-1. d4 d5 1-0
-
-[White "ONIX 2008"]
-[Black "HFM 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2008"]
-[Black "HFM 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
+1. d4 d5 0-1
 
 [White "ONIX 2008"]
 [Black "HFM 2008"]
@@ -113597,78 +108053,6 @@
 1. d4 d5 0-1
 
 [White "NOESIS"]
-[Black "HFM 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "HFM 2010"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "HFM 2010"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "HFM 2010"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "HFM 2010"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "HFM 2010"]
-[Black "ONIX 2010"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "HFM 2010"]
-[Black "ONIX 2010"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "ONIX 2010"]
-[Black "HFM 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "HFM 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "HFM 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "HFM 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "HFM 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
 [Black "HFM 2010"]
 [Result "1-0"]
 
@@ -117412,42 +111796,6 @@
 
 1. d4 d5 1-0
 
-[White "HGARDEN 2007"]
-[Black "NOESIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "HGARDEN 2007"]
-[Black "NOESIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "HGARDEN 2007"]
-[Black "NOESIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "NOESIS"]
-[Black "HGARDEN 2007"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "NOESIS"]
-[Black "HGARDEN 2007"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "NOESIS"]
-[Black "HGARDEN 2007"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
 [White "NOESIS"]
 [Black "HGARDEN 2007"]
 [Result "0-1"]
@@ -117646,42 +111994,6 @@
 
 1. d4 d5 1-0
 
-[White "HGARDEN 2007"]
-[Black "ONIX 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "HGARDEN 2007"]
-[Black "ONIX 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "HGARDEN 2007"]
-[Black "ONIX 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2008"]
-[Black "HGARDEN 2007"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "ONIX 2008"]
-[Black "HGARDEN 2007"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "ONIX 2008"]
-[Black "HGARDEN 2007"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
 [White "ONIX 2008"]
 [Black "HGARDEN 2007"]
 [Result "1-0"]
@@ -117714,48 +112026,6 @@
 
 [White "ONIX 2008"]
 [Black "HGARDEN 2007"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "HGARDEN 2007"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "HGARDEN 2007"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "HGARDEN 2007"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "HGARDEN 2007"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "HGARDEN 2007"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "HGARDEN 2007"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "HGARDEN 2007"]
-[Black "ONIX 2010"]
 [Result "1-0"]
 
 1. d4 d5 1-0
@@ -117777,72 +112047,6 @@
 [Result "0-1"]
 
 1. d4 d5 0-1
-
-[White "HGARDEN 2007"]
-[Black "ONIX 2010"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "HGARDEN 2007"]
-[Black "ONIX 2010"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "ONIX 2010"]
-[Black "HGARDEN 2007"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "HGARDEN 2007"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "HGARDEN 2007"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "HGARDEN 2007"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "HGARDEN 2007"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "HGARDEN 2007"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "HGARDEN 2007"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "HGARDEN 2007"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "HGARDEN 2007"]
-[Result "1-0"]
-
-1. d4 d5 1-0
 
 [White "ONIX 2010"]
 [Black "HGARDEN 2007"]
@@ -120642,12 +114846,6 @@
 
 [White "HGARDEN 2007"]
 [Black "RENJUSOLVER"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "HGARDEN 2007"]
-[Black "RENJUSOLVER"]
 [Result "0-1"]
 
 1. d4 d5 0-1
@@ -120675,36 +114873,6 @@
 [Result "0-1"]
 
 1. d4 d5 0-1
-
-[White "HGARDEN 2007"]
-[Black "RENJUSOLVER"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "HGARDEN 2007"]
-[Black "RENJUSOLVER"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "RENJUSOLVER"]
-[Black "HGARDEN 2007"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "RENJUSOLVER"]
-[Black "HGARDEN 2007"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "RENJUSOLVER"]
-[Black "HGARDEN 2007"]
-[Result "1-0"]
-
-1. d4 d5 1-0
 
 [White "RENJUSOLVER"]
 [Black "HGARDEN 2007"]
@@ -129496,24 +123664,6 @@
 
 1. d4 d5 1-0
 
-[White "JUDE"]
-[Black "NOESIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "JUDE"]
-[Black "NOESIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "JUDE"]
-[Black "NOESIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
 [White "NOESIS"]
 [Black "JUDE"]
 [Result "0-1"]
@@ -129537,24 +123687,6 @@
 [Result "0-1"]
 
 1. d4 d5 0-1
-
-[White "NOESIS"]
-[Black "JUDE"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "NOESIS"]
-[Black "JUDE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "NOESIS"]
-[Black "JUDE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
 
 [White "NOESIS"]
 [Black "JUDE"]
@@ -129798,27 +123930,9 @@
 
 [White "JUDE"]
 [Black "ONIX 2008"]
-[Result "1-0"]
+[Result "0-1"]
 
-1. d4 d5 1-0
-
-[White "JUDE"]
-[Black "ONIX 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "JUDE"]
-[Black "ONIX 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "JUDE"]
-[Black "ONIX 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
+1. d4 d5 0-1
 
 [White "JUDE"]
 [Black "ONIX 2008"]
@@ -129875,96 +123989,6 @@
 1. d4 d5 1-0
 
 [White "ONIX 2008"]
-[Black "JUDE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2008"]
-[Black "JUDE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2008"]
-[Black "JUDE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2008"]
-[Black "JUDE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "JUDE"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "JUDE"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "JUDE"]
-[Black "ONIX 2010"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "JUDE"]
-[Black "ONIX 2010"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "JUDE"]
-[Black "ONIX 2010"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "JUDE"]
-[Black "ONIX 2010"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "ONIX 2010"]
-[Black "JUDE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "JUDE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "JUDE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "JUDE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "JUDE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
 [Black "JUDE"]
 [Result "1-0"]
 
@@ -133433,42 +127457,6 @@
 1. d4 d5 1-0
 
 [White "QMENTAT 6"]
-[Black "JUDE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "JUDE"]
-[Black "RENJUSOLVER"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "JUDE"]
-[Black "RENJUSOLVER"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "JUDE"]
-[Black "RENJUSOLVER"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "RENJUSOLVER"]
-[Black "JUDE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "RENJUSOLVER"]
-[Black "JUDE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "RENJUSOLVER"]
 [Black "JUDE"]
 [Result "1-0"]
 
@@ -137452,24 +131440,6 @@
 
 1. d4 d5 1-0
 
-[White "KANEC 2008"]
-[Black "NOESIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "KANEC 2008"]
-[Black "NOESIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "KANEC 2008"]
-[Black "NOESIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
 [White "NOESIS"]
 [Black "KANEC 2008"]
 [Result "0-1"]
@@ -137488,77 +131458,23 @@
 
 1. d4 d5 0-1
 
-[White "NOESIS"]
-[Black "KANEC 2008"]
+[White "KANEC 2008"]
+[Black "ONIX 2008"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "KANEC 2008"]
+[Black "ONIX 2008"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "NOESIS"]
-[Black "KANEC 2008"]
+[White "KANEC 2008"]
+[Black "ONIX 2008"]
 [Result "0-1"]
 
 1. d4 d5 0-1
-
-[White "NOESIS"]
-[Black "KANEC 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "KANEC 2008"]
-[Black "ONIX 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "KANEC 2008"]
-[Black "ONIX 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "KANEC 2008"]
-[Black "ONIX 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "KANEC 2008"]
-[Black "ONIX 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "KANEC 2008"]
-[Black "ONIX 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "KANEC 2008"]
-[Black "ONIX 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2008"]
-[Black "KANEC 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2008"]
-[Black "KANEC 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2008"]
-[Black "KANEC 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
 
 [White "ONIX 2008"]
 [Black "KANEC 2008"]
@@ -139181,114 +133097,6 @@
 1. d4 d5 1-0
 
 [White "ONIX 2008"]
-[Black "KANEC 2009"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "KANEC 2009"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "KANEC 2009"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "KANEC 2009"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "KANEC 2009"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "KANEC 2009"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "KANEC 2009"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "KANEC 2009"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "KANEC 2009"]
-[Black "ONIX 2010"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "KANEC 2009"]
-[Black "ONIX 2010"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "ONIX 2010"]
-[Black "KANEC 2009"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "KANEC 2009"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "KANEC 2009"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "KANEC 2009"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "KANEC 2009"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "KANEC 2009"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "KANEC 2009"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "KANEC 2009"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
 [Black "KANEC 2009"]
 [Result "1-0"]
 
@@ -141840,45 +135648,9 @@
 
 [White "KANEC 2009"]
 [Black "RENJUSOLVER"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "KANEC 2009"]
-[Black "RENJUSOLVER"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "KANEC 2009"]
-[Black "RENJUSOLVER"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "KANEC 2009"]
-[Black "RENJUSOLVER"]
 [Result "0-1"]
 
 1. d4 d5 0-1
-
-[White "RENJUSOLVER"]
-[Black "KANEC 2009"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "RENJUSOLVER"]
-[Black "KANEC 2009"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "RENJUSOLVER"]
-[Black "KANEC 2009"]
-[Result "1-0"]
-
-1. d4 d5 1-0
 
 [White "RENJUSOLVER"]
 [Black "KANEC 2009"]
@@ -145860,18 +139632,6 @@
 
 [White "LEONARDO"]
 [Black "NOESIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "LEONARDO"]
-[Black "NOESIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "LEONARDO"]
-[Black "NOESIS"]
 [Result "0-1"]
 
 1. d4 d5 0-1
@@ -145953,30 +139713,6 @@
 [Result "0-1"]
 
 1. d4 d5 0-1
-
-[White "LEONARDO"]
-[Black "NOESIS"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "NOESIS"]
-[Black "LEONARDO"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "NOESIS"]
-[Black "LEONARDO"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "NOESIS"]
-[Black "LEONARDO"]
-[Result "1-0"]
-
-1. d4 d5 1-0
 
 [White "NOESIS"]
 [Black "LEONARDO"]
@@ -146153,114 +139889,6 @@
 1. d4 d5 1-0
 
 [White "ONIX 2007"]
-[Black "LEONARDO"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "LEONARDO"]
-[Black "ONIX 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "LEONARDO"]
-[Black "ONIX 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "LEONARDO"]
-[Black "ONIX 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2008"]
-[Black "LEONARDO"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2008"]
-[Black "LEONARDO"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2008"]
-[Black "LEONARDO"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "LEONARDO"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "LEONARDO"]
-[Black "ONIX 2010"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "LEONARDO"]
-[Black "ONIX 2010"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "LEONARDO"]
-[Black "ONIX 2010"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "LEONARDO"]
-[Black "ONIX 2010"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "LEONARDO"]
-[Black "ONIX 2010"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "ONIX 2010"]
-[Black "LEONARDO"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "LEONARDO"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "LEONARDO"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "LEONARDO"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "LEONARDO"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
 [Black "LEONARDO"]
 [Result "1-0"]
 
@@ -148024,47 +141652,11 @@
 
 1. d4 d5 1-0
 
-[White "LEONARDO"]
-[Black "PUREGM 2009"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "LEONARDO"]
-[Black "PUREGM 2009"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "LEONARDO"]
-[Black "PUREGM 2009"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
 [White "PUREGM 2009"]
 [Black "LEONARDO"]
-[Result "1-0"]
+[Result "0-1"]
 
-1. d4 d5 1-0
-
-[White "PUREGM 2009"]
-[Black "LEONARDO"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PUREGM 2009"]
-[Black "LEONARDO"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PUREGM 2009"]
-[Black "LEONARDO"]
-[Result "1-0"]
-
-1. d4 d5 1-0
+1. d4 d5 0-1
 
 [White "PUREGM 2009"]
 [Black "LEONARDO"]
@@ -149687,42 +143279,6 @@
 1. d4 d5 1-0
 
 [White "LEONARDO"]
-[Black "RENJUSOLVER"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "LEONARDO"]
-[Black "RENJUSOLVER"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "LEONARDO"]
-[Black "RENJUSOLVER"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "RENJUSOLVER"]
-[Black "LEONARDO"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "RENJUSOLVER"]
-[Black "LEONARDO"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "RENJUSOLVER"]
-[Black "LEONARDO"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "LEONARDO"]
 [Black "SLOWRENJU 2013"]
 [Result "0-1"]
 
@@ -153791,42 +147347,6 @@
 1. d4 d5 1-0
 
 [White "MUSHROOM"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "MUSHROOM"]
-[Black "ONIX 2010"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "MUSHROOM"]
-[Black "ONIX 2010"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "ONIX 2010"]
-[Black "MUSHROOM"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "MUSHROOM"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "MUSHROOM"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "MUSHROOM"]
 [Black "PECUCHET"]
 [Result "0-1"]
 
@@ -155705,42 +149225,6 @@
 1. d4 d5 1-0
 
 [White "QMENTAT 6"]
-[Black "MUSHROOM"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "MUSHROOM"]
-[Black "RENJUSOLVER"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "MUSHROOM"]
-[Black "RENJUSOLVER"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "MUSHROOM"]
-[Black "RENJUSOLVER"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "RENJUSOLVER"]
-[Black "MUSHROOM"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "RENJUSOLVER"]
-[Black "MUSHROOM"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "RENJUSOLVER"]
 [Black "MUSHROOM"]
 [Result "1-0"]
 
@@ -157626,12 +151110,6 @@
 
 [White "NABAMOKU 2008"]
 [Black "NOESIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "NABAMOKU 2008"]
-[Black "NOESIS"]
 [Result "0-1"]
 
 1. d4 d5 0-1
@@ -157665,36 +151143,6 @@
 [Result "0-1"]
 
 1. d4 d5 0-1
-
-[White "NABAMOKU 2008"]
-[Black "NOESIS"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "NABAMOKU 2008"]
-[Black "NOESIS"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "NOESIS"]
-[Black "NABAMOKU 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "NOESIS"]
-[Black "NABAMOKU 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "NOESIS"]
-[Black "NABAMOKU 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
 
 [White "NOESIS"]
 [Black "NABAMOKU 2008"]
@@ -157812,24 +151260,6 @@
 
 [White "NABAMOKU 2008"]
 [Black "ONIX 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "NABAMOKU 2008"]
-[Black "ONIX 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "NABAMOKU 2008"]
-[Black "ONIX 2008"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "NABAMOKU 2008"]
-[Black "ONIX 2008"]
 [Result "0-1"]
 
 1. d4 d5 0-1
@@ -157859,96 +151289,6 @@
 1. d4 d5 1-0
 
 [White "ONIX 2008"]
-[Black "NABAMOKU 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2008"]
-[Black "NABAMOKU 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2008"]
-[Black "NABAMOKU 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2008"]
-[Black "NABAMOKU 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "NABAMOKU 2008"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "NABAMOKU 2008"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "NABAMOKU 2008"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "NABAMOKU 2008"]
-[Black "ONIX 2010"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "NABAMOKU 2008"]
-[Black "ONIX 2010"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "NABAMOKU 2008"]
-[Black "ONIX 2010"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "ONIX 2010"]
-[Black "NABAMOKU 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "NABAMOKU 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "NABAMOKU 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "NABAMOKU 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "NABAMOKU 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
 [Black "NABAMOKU 2008"]
 [Result "1-0"]
 
@@ -159616,24 +152956,6 @@
 
 1. d4 d5 1-0
 
-[White "NABAMOKU 2008"]
-[Black "PUREGM 2009"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "NABAMOKU 2008"]
-[Black "PUREGM 2009"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "NABAMOKU 2008"]
-[Black "PUREGM 2009"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
 [White "PUREGM 2009"]
 [Black "NABAMOKU 2008"]
 [Result "0-1"]
@@ -159645,24 +152967,6 @@
 [Result "0-1"]
 
 1. d4 d5 0-1
-
-[White "PUREGM 2009"]
-[Black "NABAMOKU 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PUREGM 2009"]
-[Black "NABAMOKU 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PUREGM 2009"]
-[Black "NABAMOKU 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
 
 [White "PUREGM 2009"]
 [Black "NABAMOKU 2008"]
@@ -161201,42 +154505,6 @@
 1. d4 d5 1-0
 
 [White "QMENTAT 6"]
-[Black "NABAMOKU 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "NABAMOKU 2008"]
-[Black "RENJUSOLVER"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "NABAMOKU 2008"]
-[Black "RENJUSOLVER"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "NABAMOKU 2008"]
-[Black "RENJUSOLVER"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "RENJUSOLVER"]
-[Black "NABAMOKU 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "RENJUSOLVER"]
-[Black "NABAMOKU 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "RENJUSOLVER"]
 [Black "NABAMOKU 2008"]
 [Result "1-0"]
 
@@ -163259,54 +156527,6 @@
 1. d4 d5 1-0
 
 [White "NOESIS"]
-[Black "ONIX 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "NOESIS"]
-[Black "ONIX 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "NOESIS"]
-[Black "ONIX 2008"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "ONIX 2008"]
-[Black "NOESIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2008"]
-[Black "NOESIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2008"]
-[Black "NOESIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "NOESIS"]
-[Black "PECUCHET"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "NOESIS"]
-[Black "PECUCHET"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "NOESIS"]
 [Black "PECUCHET"]
 [Result "1-0"]
 
@@ -163491,30 +156711,6 @@
 [Result "0-1"]
 
 1. d4 d5 0-1
-
-[White "NOESIS"]
-[Black "PECUCHET"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "PECUCHET"]
-[Black "NOESIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PECUCHET"]
-[Black "NOESIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PECUCHET"]
-[Black "NOESIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
 
 [White "PECUCHET"]
 [Black "NOESIS"]
@@ -163906,42 +157102,6 @@
 
 1. d4 d5 0-1
 
-[White "NOESIS"]
-[Black "PELA 2006"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "NOESIS"]
-[Black "PELA 2006"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "NOESIS"]
-[Black "PELA 2006"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "PELA 2006"]
-[Black "NOESIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PELA 2006"]
-[Black "NOESIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PELA 2006"]
-[Black "NOESIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
 [White "PELA 2006"]
 [Black "NOESIS"]
 [Result "1-0"]
@@ -164421,30 +157581,6 @@
 [Result "1-0"]
 
 1. d4 d5 1-0
-
-[White "NOESIS"]
-[Black "PISQ 7"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "NOESIS"]
-[Black "PISQ 7"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "NOESIS"]
-[Black "PISQ 7"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PISQ 7"]
-[Black "NOESIS"]
-[Result "0-1"]
-
-1. d4 d5 0-1
 
 [White "PISQ 7"]
 [Black "NOESIS"]
@@ -164614,54 +157750,6 @@
 
 1. d4 d5 1-0
 
-[White "PISQ 7"]
-[Black "NOESIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PISQ 7"]
-[Black "NOESIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "NOESIS"]
-[Black "PUREGM 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "NOESIS"]
-[Black "PUREGM 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "NOESIS"]
-[Black "PUREGM 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PUREGM 2008"]
-[Black "NOESIS"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "PUREGM 2008"]
-[Black "NOESIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PUREGM 2008"]
-[Black "NOESIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
 [White "NOESIS"]
 [Black "PUREGM 2011"]
 [Result "1-0"]
@@ -164920,24 +158008,6 @@
 
 1. d4 d5 1-0
 
-[White "NOESIS"]
-[Black "PUSKVOREC"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "NOESIS"]
-[Black "PUSKVOREC"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "NOESIS"]
-[Black "PUSKVOREC"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
 [White "PUSKVOREC"]
 [Black "NOESIS"]
 [Result "0-1"]
@@ -165009,24 +158079,6 @@
 [Result "0-1"]
 
 1. d4 d5 0-1
-
-[White "PUSKVOREC"]
-[Black "NOESIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PUSKVOREC"]
-[Black "NOESIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PUSKVOREC"]
-[Black "NOESIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
 
 [White "PUSKVOREC"]
 [Black "NOESIS"]
@@ -165490,24 +158542,6 @@
 
 1. d4 d5 1-0
 
-[White "NOESIS"]
-[Black "QMENTAT 6"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "NOESIS"]
-[Black "QMENTAT 6"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "NOESIS"]
-[Black "QMENTAT 6"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
 [White "QMENTAT 6"]
 [Black "NOESIS"]
 [Result "0-1"]
@@ -165555,24 +158589,6 @@
 [Result "0-1"]
 
 1. d4 d5 0-1
-
-[White "QMENTAT 6"]
-[Black "NOESIS"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "QMENTAT 6"]
-[Black "NOESIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "QMENTAT 6"]
-[Black "NOESIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
 
 [White "QMENTAT 6"]
 [Black "NOESIS"]
@@ -166199,42 +159215,6 @@
 1. d4 d5 1-0
 
 [White "NOESIS"]
-[Black "SWINE 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "NOESIS"]
-[Black "SWINE 2008"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "NOESIS"]
-[Black "SWINE 2008"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "SWINE 2008"]
-[Black "NOESIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "SWINE 2008"]
-[Black "NOESIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "SWINE 2008"]
-[Black "NOESIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "NOESIS"]
 [Black "SWINE 2010"]
 [Result "0-1"]
 
@@ -166451,60 +159431,6 @@
 1. d4 d5 1-0
 
 [White "NOESIS"]
-[Black "TITO 2008"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "NOESIS"]
-[Black "TITO 2008"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "NOESIS"]
-[Black "TITO 2008"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "TITO 2008"]
-[Black "NOESIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "TITO 2008"]
-[Black "NOESIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "TITO 2008"]
-[Black "NOESIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "NOESIS"]
-[Black "TRUNKAT"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "NOESIS"]
-[Black "TRUNKAT"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "NOESIS"]
-[Black "TRUNKAT"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "NOESIS"]
 [Black "TRUNKAT"]
 [Result "1-0"]
 
@@ -166773,24 +159699,6 @@
 [Result "0-1"]
 
 1. d4 d5 0-1
-
-[White "TRUNKAT"]
-[Black "NOESIS"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "TRUNKAT"]
-[Black "NOESIS"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "TRUNKAT"]
-[Black "NOESIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
 
 [White "TRUNKAT"]
 [Black "NOESIS"]
@@ -167362,23 +160270,11 @@
 
 1. d4 d5 1-0
 
-[White "ONIX 2008"]
-[Black "PECUCHET"]
-[Result "1-0"]
+[White "PECUCHET"]
+[Black "ONIX 2008"]
+[Result "0-1"]
 
-1. d4 d5 1-0
-
-[White "ONIX 2008"]
-[Black "PECUCHET"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2008"]
-[Black "PECUCHET"]
-[Result "1-0"]
-
-1. d4 d5 1-0
+1. d4 d5 0-1
 
 [White "PECUCHET"]
 [Black "ONIX 2008"]
@@ -167406,48 +160302,6 @@
 
 [White "PECUCHET"]
 [Black "ONIX 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PECUCHET"]
-[Black "ONIX 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PECUCHET"]
-[Black "ONIX 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PECUCHET"]
-[Black "ONIX 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PECUCHET"]
-[Black "ONIX 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2008"]
-[Black "PELA 2006"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2008"]
-[Black "PELA 2006"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2008"]
-[Black "PELA 2006"]
 [Result "1-0"]
 
 1. d4 d5 1-0
@@ -167508,90 +160362,18 @@
 
 [White "PELA 2006"]
 [Black "ONIX 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PELA 2006"]
-[Black "ONIX 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PELA 2006"]
-[Black "ONIX 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PELA 2006"]
-[Black "ONIX 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PELA 2006"]
-[Black "ONIX 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PELA 2006"]
-[Black "ONIX 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2008"]
-[Black "PISQ 7"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2008"]
-[Black "PISQ 7"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2008"]
-[Black "PISQ 7"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "PISQ 7"]
+[White "PELA 2006"]
 [Black "ONIX 2008"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "PISQ 7"]
+[White "PELA 2006"]
 [Black "ONIX 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PISQ 7"]
-[Black "ONIX 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2008"]
-[Black "PUREGM 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2008"]
-[Black "PUREGM 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2008"]
-[Black "PUREGM 2008"]
 [Result "1-0"]
 
 1. d4 d5 1-0
@@ -167628,100 +160410,10 @@
 
 [White "PUREGM 2008"]
 [Black "ONIX 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PUREGM 2008"]
-[Black "ONIX 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PUREGM 2008"]
-[Black "ONIX 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PUREGM 2008"]
-[Black "ONIX 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2008"]
-[Black "PUSKVOREC"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2008"]
-[Black "PUSKVOREC"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2008"]
-[Black "PUSKVOREC"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PUSKVOREC"]
-[Black "ONIX 2008"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "PUSKVOREC"]
-[Black "ONIX 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PUSKVOREC"]
-[Black "ONIX 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2008"]
-[Black "QMENTAT 6"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2008"]
-[Black "QMENTAT 6"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2008"]
-[Black "QMENTAT 6"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "QMENTAT 6"]
-[Black "ONIX 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "QMENTAT 6"]
-[Black "ONIX 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "QMENTAT 6"]
-[Black "ONIX 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
 [White "ONIX 2008"]
 [Black "SWINE 2008"]
 [Result "1-0"]
@@ -167754,51 +160446,15 @@
 
 [White "ONIX 2008"]
 [Black "SWINE 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2008"]
-[Black "SWINE 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2008"]
-[Black "SWINE 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2008"]
-[Black "SWINE 2008"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "SWINE 2008"]
-[Black "ONIX 2008"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "SWINE 2008"]
 [Black "ONIX 2008"]
-[Result "1-0"]
+[Result "0-1"]
 
-1. d4 d5 1-0
-
-[White "SWINE 2008"]
-[Black "ONIX 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "SWINE 2008"]
-[Black "ONIX 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
+1. d4 d5 0-1
 
 [White "SWINE 2008"]
 [Black "ONIX 2008"]
@@ -167902,42 +160558,6 @@
 
 1. d4 d5 1-0
 
-[White "ONIX 2008"]
-[Black "TITO 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2008"]
-[Black "TITO 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2008"]
-[Black "TITO 2008"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "TITO 2008"]
-[Black "ONIX 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "TITO 2008"]
-[Black "ONIX 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "TITO 2008"]
-[Black "ONIX 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
 [White "TITO 2008"]
 [Black "ONIX 2008"]
 [Result "1-0"]
@@ -167992,36 +160612,6 @@
 
 1. d4 d5 1-0
 
-[White "ONIX 2008"]
-[Black "TRUNKAT"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2008"]
-[Black "TRUNKAT"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2008"]
-[Black "TRUNKAT"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "TRUNKAT"]
-[Black "ONIX 2008"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "TRUNKAT"]
-[Black "ONIX 2008"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
 [White "TRUNKAT"]
 [Black "ONIX 2008"]
 [Result "0-1"]
@@ -168040,138 +160630,6 @@
 
 1. d4 d5 1-0
 
-[White "TRUNKAT"]
-[Black "ONIX 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "PECUCHET"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "PECUCHET"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "PECUCHET"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "PECUCHET"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "PECUCHET"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "PECUCHET"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PECUCHET"]
-[Black "ONIX 2010"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "PECUCHET"]
-[Black "ONIX 2010"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "PECUCHET"]
-[Black "ONIX 2010"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "PECUCHET"]
-[Black "ONIX 2010"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "PECUCHET"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PECUCHET"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "PELA 2006"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "PELA 2006"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "PELA 2006"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "PELA 2006"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "PELA 2006"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "PELA 2006"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "PELA 2006"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "PELA 2006"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "PELA 2006"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
 [White "ONIX 2010"]
 [Black "PELA 2006"]
 [Result "1-0"]
@@ -168203,348 +160661,6 @@
 1. d4 d5 0-1
 
 [White "PELA 2006"]
-[Black "ONIX 2010"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "PELA 2006"]
-[Black "ONIX 2010"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "PELA 2006"]
-[Black "ONIX 2010"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "PELA 2006"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PELA 2006"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PELA 2006"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PELA 2006"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PELA 2006"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PELA 2006"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PELA 2006"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "PISQ 7"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "PISQ 7"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "PISQ 7"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "PISQ 7"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "PISQ 7"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "PISQ 7"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PISQ 7"]
-[Black "ONIX 2010"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "PISQ 7"]
-[Black "ONIX 2010"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "PISQ 7"]
-[Black "ONIX 2010"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "PISQ 7"]
-[Black "ONIX 2010"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "PISQ 7"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PISQ 7"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "PUREGM 2009"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "PUREGM 2009"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "PUREGM 2009"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PUREGM 2009"]
-[Black "ONIX 2010"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "PUREGM 2009"]
-[Black "ONIX 2010"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "PUREGM 2009"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "PUREGM 2011"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "PUREGM 2011"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "PUREGM 2011"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PUREGM 2011"]
-[Black "ONIX 2010"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "PUREGM 2011"]
-[Black "ONIX 2010"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "PUREGM 2011"]
-[Black "ONIX 2010"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "ONIX 2010"]
-[Black "PUSKVOREC"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "PUSKVOREC"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "PUSKVOREC"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "PUSKVOREC"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "PUSKVOREC"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "PUSKVOREC"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PUSKVOREC"]
-[Black "ONIX 2010"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "PUSKVOREC"]
-[Black "ONIX 2010"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "PUSKVOREC"]
-[Black "ONIX 2010"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "PUSKVOREC"]
-[Black "ONIX 2010"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "PUSKVOREC"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PUSKVOREC"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "QMENTAT 6"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "QMENTAT 6"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "QMENTAT 6"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "QMENTAT 6"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "QMENTAT 6"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "QMENTAT 6"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "QMENTAT 6"]
-[Black "ONIX 2010"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "QMENTAT 6"]
-[Black "ONIX 2010"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "QMENTAT 6"]
-[Black "ONIX 2010"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "QMENTAT 6"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "QMENTAT 6"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "QMENTAT 6"]
 [Black "ONIX 2010"]
 [Result "1-0"]
 
@@ -168555,24 +160671,6 @@
 [Result "1-0"]
 
 1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "RENJUSOLVER"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "RENJUSOLVER"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "ONIX 2010"]
-[Black "RENJUSOLVER"]
-[Result "0-1"]
-
-1. d4 d5 0-1
 
 [White "ONIX 2010"]
 [Black "RENJUSOLVER"]
@@ -168604,96 +160702,6 @@
 
 1. d4 d5 1-0
 
-[White "RENJUSOLVER"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "RENJUSOLVER"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "RENJUSOLVER"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "SWINE 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "SWINE 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "SWINE 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "SWINE 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "SWINE 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "SWINE 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "SWINE 2010"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "SWINE 2010"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "SWINE 2010"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "SWINE 2010"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "SWINE 2010"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "SWINE 2010"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
 [White "ONIX 2010"]
 [Black "SWINE 2011"]
 [Result "1-0"]
@@ -168705,24 +160713,6 @@
 [Result "1-0"]
 
 1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "SWINE 2011"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "SWINE 2011"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "SWINE 2011"]
-[Result "0-1"]
-
-1. d4 d5 0-1
 
 [White "ONIX 2010"]
 [Black "SWINE 2011"]
@@ -168748,78 +160738,6 @@
 
 1. d4 d5 1-0
 
-[White "SWINE 2011"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "SWINE 2011"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "SWINE 2011"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "TITO 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "TITO 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "TITO 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "TITO 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "TITO 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "TITO 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "TITO 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "TITO 2010"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "ONIX 2010"]
-[Black "TITO 2010"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
 [White "ONIX 2010"]
 [Black "TITO 2010"]
 [Result "0-1"]
@@ -168851,132 +160769,6 @@
 1. d4 d5 1-0
 
 [White "TITO 2010"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "TITO 2010"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "TITO 2010"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "TITO 2010"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "TITO 2010"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "TITO 2010"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "TITO 2010"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "TITO 2010"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "TITO 2010"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "TITO 2010"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "TRUNKAT"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "TRUNKAT"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "TRUNKAT"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "TRUNKAT"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "TRUNKAT"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "TRUNKAT"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "TRUNKAT"]
-[Black "ONIX 2010"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "TRUNKAT"]
-[Black "ONIX 2010"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "TRUNKAT"]
-[Black "ONIX 2010"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "TRUNKAT"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "TRUNKAT"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "TRUNKAT"]
 [Black "ONIX 2010"]
 [Result "1-0"]
 
@@ -168996,42 +160788,6 @@
 
 [White "ONIX 2010"]
 [Black "YIXIN 2011"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "YIXIN 2011"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2010"]
-[Black "YIXIN 2011"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "ONIX 2010"]
-[Black "YIXIN 2011"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "YIXIN 2011"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "YIXIN 2011"]
-[Black "ONIX 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "YIXIN 2011"]
-[Black "ONIX 2010"]
 [Result "1-0"]
 
 1. d4 d5 1-0
@@ -171492,12 +163248,6 @@
 
 [White "PECUCHET"]
 [Black "RENJUSOLVER"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PECUCHET"]
-[Black "RENJUSOLVER"]
 [Result "0-1"]
 
 1. d4 d5 0-1
@@ -171513,36 +163263,6 @@
 [Result "0-1"]
 
 1. d4 d5 0-1
-
-[White "PECUCHET"]
-[Black "RENJUSOLVER"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "PECUCHET"]
-[Black "RENJUSOLVER"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "RENJUSOLVER"]
-[Black "PECUCHET"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "RENJUSOLVER"]
-[Black "PECUCHET"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "RENJUSOLVER"]
-[Black "PECUCHET"]
-[Result "1-0"]
-
-1. d4 d5 1-0
 
 [White "RENJUSOLVER"]
 [Black "PECUCHET"]
@@ -175911,42 +167631,6 @@
 [Result "0-1"]
 
 1. d4 d5 0-1
-
-[White "PELA 2006"]
-[Black "RENJUSOLVER"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "PELA 2006"]
-[Black "RENJUSOLVER"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "PELA 2006"]
-[Black "RENJUSOLVER"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "RENJUSOLVER"]
-[Black "PELA 2006"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "RENJUSOLVER"]
-[Black "PELA 2006"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "RENJUSOLVER"]
-[Black "PELA 2006"]
-[Result "1-0"]
-
-1. d4 d5 1-0
 
 [White "RENJUSOLVER"]
 [Black "PELA 2006"]
@@ -177546,12 +169230,6 @@
 
 [White "PELA 2006"]
 [Black "TITO 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PELA 2006"]
-[Black "TITO 2010"]
 [Result "0-1"]
 
 1. d4 d5 0-1
@@ -177639,36 +169317,6 @@
 [Result "0-1"]
 
 1. d4 d5 0-1
-
-[White "PELA 2006"]
-[Black "TITO 2010"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "PELA 2006"]
-[Black "TITO 2010"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "TITO 2010"]
-[Black "PELA 2006"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "TITO 2010"]
-[Black "PELA 2006"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "TITO 2010"]
-[Black "PELA 2006"]
-[Result "1-0"]
-
-1. d4 d5 1-0
 
 [White "TITO 2010"]
 [Black "PELA 2006"]
@@ -182352,45 +174000,9 @@
 
 [White "PISQ 7"]
 [Black "PUREGM 2009"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PISQ 7"]
-[Black "PUREGM 2009"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PISQ 7"]
-[Black "PUREGM 2009"]
 [Result "0-1"]
 
 1. d4 d5 0-1
-
-[White "PISQ 7"]
-[Black "PUREGM 2009"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "PUREGM 2009"]
-[Black "PISQ 7"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PUREGM 2009"]
-[Black "PISQ 7"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PUREGM 2009"]
-[Black "PISQ 7"]
-[Result "1-0"]
-
-1. d4 d5 1-0
 
 [White "PUREGM 2009"]
 [Black "PISQ 7"]
@@ -184289,42 +175901,6 @@
 1. d4 d5 1-0
 
 [White "QMENTAT 6"]
-[Black "PISQ 7"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PISQ 7"]
-[Black "RENJUSOLVER"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "PISQ 7"]
-[Black "RENJUSOLVER"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "PISQ 7"]
-[Black "RENJUSOLVER"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "RENJUSOLVER"]
-[Black "PISQ 7"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "RENJUSOLVER"]
-[Black "PISQ 7"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "RENJUSOLVER"]
 [Black "PISQ 7"]
 [Result "1-0"]
 
@@ -188182,24 +179758,6 @@
 
 1. d4 d5 1-0
 
-[White "PUREGM 2009"]
-[Black "PUSKVOREC"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PUREGM 2009"]
-[Black "PUSKVOREC"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PUREGM 2009"]
-[Black "PUSKVOREC"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
 [White "PUSKVOREC"]
 [Black "PUREGM 2009"]
 [Result "0-1"]
@@ -188217,24 +179775,6 @@
 [Result "0-1"]
 
 1. d4 d5 0-1
-
-[White "PUSKVOREC"]
-[Black "PUREGM 2009"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PUSKVOREC"]
-[Black "PUREGM 2009"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PUSKVOREC"]
-[Black "PUREGM 2009"]
-[Result "1-0"]
-
-1. d4 d5 1-0
 
 [White "PUSKVOREC"]
 [Black "PUREGM 2009"]
@@ -188717,42 +180257,6 @@
 1. d4 d5 1-0
 
 [White "QMENTAT 6"]
-[Black "PUREGM 2011"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PUREGM 2011"]
-[Black "RENJUSOLVER"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "PUREGM 2011"]
-[Black "RENJUSOLVER"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "PUREGM 2011"]
-[Black "RENJUSOLVER"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "RENJUSOLVER"]
-[Black "PUREGM 2011"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "RENJUSOLVER"]
-[Black "PUREGM 2011"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "RENJUSOLVER"]
 [Black "PUREGM 2011"]
 [Result "1-0"]
 
@@ -191609,42 +183113,6 @@
 1. d4 d5 1-0
 
 [White "QMENTAT 6"]
-[Black "PUSKVOREC"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PUSKVOREC"]
-[Black "RENJUSOLVER"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PUSKVOREC"]
-[Black "RENJUSOLVER"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "PUSKVOREC"]
-[Black "RENJUSOLVER"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "RENJUSOLVER"]
-[Black "PUSKVOREC"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "RENJUSOLVER"]
-[Black "PUSKVOREC"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "RENJUSOLVER"]
 [Black "PUSKVOREC"]
 [Result "1-0"]
 
@@ -194747,42 +186215,6 @@
 1. d4 d5 1-0
 
 [White "QMENTAT 6"]
-[Black "RENJUSOLVER"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "QMENTAT 6"]
-[Black "RENJUSOLVER"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "QMENTAT 6"]
-[Black "RENJUSOLVER"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "RENJUSOLVER"]
-[Black "QMENTAT 6"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "RENJUSOLVER"]
-[Black "QMENTAT 6"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "RENJUSOLVER"]
-[Black "QMENTAT 6"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "QMENTAT 6"]
 [Black "SLOWRENJU 2013"]
 [Result "0-1"]
 
@@ -197368,47 +188800,11 @@
 
 1. d4 d5 1-0
 
-[White "RENJUSOLVER"]
-[Black "SWINE 2011"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "RENJUSOLVER"]
-[Black "SWINE 2011"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "RENJUSOLVER"]
-[Black "SWINE 2011"]
+[White "SWINE 2011"]
+[Black "RENJUSOLVER"]
 [Result "0-1"]
 
 1. d4 d5 0-1
-
-[White "SWINE 2011"]
-[Black "RENJUSOLVER"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "SWINE 2011"]
-[Black "RENJUSOLVER"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "SWINE 2011"]
-[Black "RENJUSOLVER"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "SWINE 2011"]
-[Black "RENJUSOLVER"]
-[Result "1-0"]
-
-1. d4 d5 1-0
 
 [White "SWINE 2011"]
 [Black "RENJUSOLVER"]
@@ -197622,51 +189018,15 @@
 
 [White "RENJUSOLVER"]
 [Black "TITO 2010"]
-[Result "1-0"]
+[Result "0-1"]
 
-1. d4 d5 1-0
+1. d4 d5 0-1
 
 [White "RENJUSOLVER"]
 [Black "TITO 2010"]
-[Result "1-0"]
+[Result "0-1"]
 
-1. d4 d5 1-0
-
-[White "RENJUSOLVER"]
-[Black "TITO 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "RENJUSOLVER"]
-[Black "TITO 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "RENJUSOLVER"]
-[Black "TITO 2010"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "TITO 2010"]
-[Black "RENJUSOLVER"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "TITO 2010"]
-[Black "RENJUSOLVER"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "TITO 2010"]
-[Black "RENJUSOLVER"]
-[Result "1-0"]
-
-1. d4 d5 1-0
+1. d4 d5 0-1
 
 [White "TITO 2010"]
 [Black "RENJUSOLVER"]
@@ -197807,60 +189167,6 @@
 1. d4 d5 1-0
 
 [White "RENJUSOLVER"]
-[Black "TRUNKAT"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "RENJUSOLVER"]
-[Black "TRUNKAT"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "RENJUSOLVER"]
-[Black "TRUNKAT"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "TRUNKAT"]
-[Black "RENJUSOLVER"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "TRUNKAT"]
-[Black "RENJUSOLVER"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "TRUNKAT"]
-[Black "RENJUSOLVER"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "RENJUSOLVER"]
-[Black "YIXIN 2011"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "RENJUSOLVER"]
-[Black "YIXIN 2011"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "RENJUSOLVER"]
-[Black "YIXIN 2011"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "RENJUSOLVER"]
 [Black "YIXIN 2011"]
 [Result "1-0"]
 
@@ -197919,24 +189225,6 @@
 [Result "0-1"]
 
 1. d4 d5 0-1
-
-[White "YIXIN 2011"]
-[Black "RENJUSOLVER"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "YIXIN 2011"]
-[Black "RENJUSOLVER"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "YIXIN 2011"]
-[Black "RENJUSOLVER"]
-[Result "1-0"]
-
-1. d4 d5 1-0
 
 [White "YIXIN 2011"]
 [Black "RENJUSOLVER"]
