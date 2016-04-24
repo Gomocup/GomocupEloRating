@@ -3,7 +3,13 @@ import re
 import string
 import re
 
-if len(sys.argv) != 4:
+base_bias = 0
+
+if len(sys.argv) == 4:
+    pass
+elif len(sys.argv) == 5:
+    base_bias = string.atoi(sys.argv[4])
+else:
     print 'Parameter error!'
     sys.exit(1)
 
@@ -85,7 +91,7 @@ while True:
             records_0.append((rank, name, elo, plus, minus, games, score, oppo, draws))
 fin.close()
 
-bias = int(round(sum_rating * 1.0 / count_rating))
+bias = int(round(sum_rating * 1.0 / count_rating)) + base_bias
 
 fout = open(sys.argv[1], 'w')
 fout.write('<TABLE border=1>\n')
@@ -114,14 +120,14 @@ for each in records:
     fout.write('</TD>')
     fout.write('<TD>')
     fout.write(each[6])
-    fout.write('</TD>')
+    fout.write('%</TD>')
     oppo = string.atoi(each[7]) + bias
     fout.write('<TD>')
     fout.write(str(oppo))
     fout.write('</TD>')
     fout.write('<TD>')
     fout.write(each[8])
-    fout.write('</TD>')
+    fout.write('%</TD>')
     fout.write('</TR>\n')
 fout.write('</TBODY>\n')
 fout.write('</TABLE>\n')
@@ -154,14 +160,14 @@ for each in records_0:
     fout.write('</TD>')
     fout.write('<TD>')
     fout.write(each[6])
-    fout.write('</TD>')
+    fout.write('%</TD>')
     oppo = string.atoi(each[7]) + bias
     fout.write('<TD>')
     fout.write(str(oppo))
     fout.write('</TD>')
     fout.write('<TD>')
     fout.write(each[8])
-    fout.write('</TD>')
+    fout.write('%</TD>')
     fout.write('</TR>\n')
 fout.write('</TBODY>\n')
 fout.write('</TABLE>\n')

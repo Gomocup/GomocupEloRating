@@ -1,11 +1,13 @@
 import sys
 
-if len(sys.argv) != 9:
+if len(sys.argv) != 10:
     print 'Parameter error!'
     sys.exit(1)
     
 fout = open('output.html', 'w')
 fout.write('Here we compute the Elo ratings of all the gomoku AIs which have ever taken part in gomocup, based on the historical competition results (2000 - present). An AI would has a formal general rating only if there exist at least 100 game records for it (This threshold is 50 for freestyle ratings, 100 for fastgame ratings and 20 for standard ratings).\n')
+fout.write('\n')
+fout.write('<strong>The Gomoku Rating:\n')
 fout.write('\n')
 fout.write('<strong><a href="#elo_1">The General Rating (Best Versions Only)</a>\n')
 fout.write('<a href="#elo_2">The Freestyle Rating (Best Versions Only)</a>\n')
@@ -16,6 +18,10 @@ fout.write('<a href="#elo_5">The General Rating (All Versions)</a>\n')
 fout.write('<a href="#elo_6">The Freestyle Rating (All Versions)</a>\n')
 fout.write('<a href="#elo_7">The Fastgame Rating (All Versions)</a>\n')
 fout.write('<a href="#elo_8">The Standard Rating (All Versions)</a>\n')
+fout.write('\n')
+fout.write('<strong>The Renju Rating:\n')
+fout.write('\n')
+fout.write('<strong><a href="#elo_9">The Renju Rating (All Versions)</a>\n')
 fout.write('\n')
 fout.write('<a id="elo_1"></a>The General Rating (Freestyle, Fastgame, Standard):\n')
 fin = open(sys.argv[1], 'r')
@@ -47,6 +53,10 @@ fout.write(fin.read())
 fin.close()
 fout.write('<a id="elo_8"></a>The Complete Standard Rating:\n')
 fin = open(sys.argv[8], 'r')
+fout.write(fin.read())
+fin.close()
+fout.write('<a id="elo_9"></a>The Complete Renju Rating:\n')
+fin = open(sys.argv[9], 'r')
 fout.write(fin.read())
 fin.close()
 fout.write('All ratings are calculated using <a href="http://www.remi-coulom.fr/Bayesian-Elo/">Bayesian Elo</a> with eloAdvantage = 0, eloDraw = 0.01, and default prior.\n')
