@@ -14951,84 +14951,84 @@
 1. d4 d5 0-1
 
 [White "AMOEBA 2010"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "AMOEBA 2010"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "AMOEBA 2010"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2014"]
+[White "FASTGOMOKU 2014"]
 [Black "AMOEBA 2010"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2014"]
+[White "FASTGOMOKU 2014"]
 [Black "AMOEBA 2010"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2014"]
+[White "FASTGOMOKU 2014"]
 [Black "AMOEBA 2010"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
 [White "AMOEBA 2010"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "AMOEBA 2010"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "AMOEBA 2010"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "AMOEBA 2010"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "AMOEBA 2010"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "AMOEBA 2010"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "AMOEBA 2010"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "AMOEBA 2010"]
 [Result "0-1"]
 
@@ -24059,232 +24059,100 @@
 1. d4 d5 1-0
 
 [White "BENJAMIN"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "BENJAMIN"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "BENJAMIN"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
+[Result "1/2-1/2"]
+
+1. d4 d5 1/2-1/2
+
+[White "BENJAMIN"]
+[Black "FASTGOMOKU 2014"]
+[Result "1/2-1/2"]
+
+1. d4 d5 1/2-1/2
+
+[White "BENJAMIN"]
+[Black "FASTGOMOKU 2014"]
+[Result "1/2-1/2"]
+
+1. d4 d5 1/2-1/2
+
+[White "BENJAMIN"]
+[Black "FASTGOMOKU 2014"]
+[Result "1/2-1/2"]
+
+1. d4 d5 1/2-1/2
+
+[White "BENJAMIN"]
+[Black "FASTGOMOKU 2014"]
+[Result "1/2-1/2"]
+
+1. d4 d5 1/2-1/2
+
+[White "BENJAMIN"]
+[Black "FASTGOMOKU 2014"]
+[Result "1/2-1/2"]
+
+1. d4 d5 1/2-1/2
+
+[White "BENJAMIN"]
+[Black "FASTGOMOKU 2014"]
+[Result "1/2-1/2"]
+
+1. d4 d5 1/2-1/2
+
+[White "BENJAMIN"]
+[Black "FASTGOMOKU 2014"]
+[Result "1/2-1/2"]
+
+1. d4 d5 1/2-1/2
+
+[White "BENJAMIN"]
+[Black "FASTGOMOKU 2014"]
+[Result "1/2-1/2"]
+
+1. d4 d5 1/2-1/2
+
+[White "BENJAMIN"]
+[Black "FASTGOMOKU 2014"]
+[Result "1/2-1/2"]
+
+1. d4 d5 1/2-1/2
+
+[White "BENJAMIN"]
+[Black "FASTGOMOKU 2014"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
 [White "BENJAMIN"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
 [White "BENJAMIN"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
 [White "BENJAMIN"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "0-1"]
 
 1. d4 d5 0-1
-
-[White "FAST-GOMOKU 2014"]
-[Black "BENJAMIN"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FAST-GOMOKU 2014"]
-[Black "BENJAMIN"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FAST-GOMOKU 2014"]
-[Black "BENJAMIN"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FAST-GOMOKU 2014"]
-[Black "BENJAMIN"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FAST-GOMOKU 2014"]
-[Black "BENJAMIN"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FAST-GOMOKU 2014"]
-[Black "BENJAMIN"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BENJAMIN"]
-[Black "FAST-GOMOKU 2015"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BENJAMIN"]
-[Black "FAST-GOMOKU 2015"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BENJAMIN"]
-[Black "FAST-GOMOKU 2015"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BENJAMIN"]
-[Black "FAST-GOMOKU 2015"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BENJAMIN"]
-[Black "FAST-GOMOKU 2015"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BENJAMIN"]
-[Black "FAST-GOMOKU 2015"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BENJAMIN"]
-[Black "FAST-GOMOKU 2015"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BENJAMIN"]
-[Black "FAST-GOMOKU 2015"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FAST-GOMOKU 2015"]
-[Black "BENJAMIN"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FAST-GOMOKU 2015"]
-[Black "BENJAMIN"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FAST-GOMOKU 2015"]
-[Black "BENJAMIN"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FAST-GOMOKU 2015"]
-[Black "BENJAMIN"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FAST-GOMOKU 2015"]
-[Black "BENJAMIN"]
-[Result "1/2-1/2"]
-
-1. d4 d5 1/2-1/2
-
-[White "FAST-GOMOKU 2015"]
-[Black "BENJAMIN"]
-[Result "1/2-1/2"]
-
-1. d4 d5 1/2-1/2
-
-[White "FAST-GOMOKU 2015"]
-[Black "BENJAMIN"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FAST-GOMOKU 2015"]
-[Black "BENJAMIN"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "BENJAMIN"]
-[Black "FASTGOMOKU 2014"]
-[Result "1/2-1/2"]
-
-1. d4 d5 1/2-1/2
-
-[White "BENJAMIN"]
-[Black "FASTGOMOKU 2014"]
-[Result "1/2-1/2"]
-
-1. d4 d5 1/2-1/2
-
-[White "BENJAMIN"]
-[Black "FASTGOMOKU 2014"]
-[Result "1/2-1/2"]
-
-1. d4 d5 1/2-1/2
-
-[White "BENJAMIN"]
-[Black "FASTGOMOKU 2014"]
-[Result "1/2-1/2"]
-
-1. d4 d5 1/2-1/2
-
-[White "BENJAMIN"]
-[Black "FASTGOMOKU 2014"]
-[Result "1/2-1/2"]
-
-1. d4 d5 1/2-1/2
-
-[White "BENJAMIN"]
-[Black "FASTGOMOKU 2014"]
-[Result "1/2-1/2"]
-
-1. d4 d5 1/2-1/2
-
-[White "BENJAMIN"]
-[Black "FASTGOMOKU 2014"]
-[Result "1/2-1/2"]
-
-1. d4 d5 1/2-1/2
-
-[White "BENJAMIN"]
-[Black "FASTGOMOKU 2014"]
-[Result "1/2-1/2"]
-
-1. d4 d5 1/2-1/2
-
-[White "BENJAMIN"]
-[Black "FASTGOMOKU 2014"]
-[Result "1/2-1/2"]
-
-1. d4 d5 1/2-1/2
-
-[White "BENJAMIN"]
-[Black "FASTGOMOKU 2014"]
-[Result "1/2-1/2"]
-
-1. d4 d5 1/2-1/2
 
 [White "BENJAMIN"]
 [Black "FASTGOMOKU 2014"]
@@ -24365,6 +24233,138 @@
 1. d4 d5 1-0
 
 [White "FASTGOMOKU 2014"]
+[Black "BENJAMIN"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "BENJAMIN"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "BENJAMIN"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "BENJAMIN"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "BENJAMIN"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "BENJAMIN"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "BENJAMIN"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "BENJAMIN"]
+[Black "FASTGOMOKU 2015"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "BENJAMIN"]
+[Black "FASTGOMOKU 2015"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "BENJAMIN"]
+[Black "FASTGOMOKU 2015"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "BENJAMIN"]
+[Black "FASTGOMOKU 2015"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "BENJAMIN"]
+[Black "FASTGOMOKU 2015"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "BENJAMIN"]
+[Black "FASTGOMOKU 2015"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "BENJAMIN"]
+[Black "FASTGOMOKU 2015"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "BENJAMIN"]
+[Black "FASTGOMOKU 2015"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2015"]
+[Black "BENJAMIN"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2015"]
+[Black "BENJAMIN"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2015"]
+[Black "BENJAMIN"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2015"]
+[Black "BENJAMIN"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2015"]
+[Black "BENJAMIN"]
+[Result "1/2-1/2"]
+
+1. d4 d5 1/2-1/2
+
+[White "FASTGOMOKU 2015"]
+[Black "BENJAMIN"]
+[Result "1/2-1/2"]
+
+1. d4 d5 1/2-1/2
+
+[White "FASTGOMOKU 2015"]
+[Black "BENJAMIN"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2015"]
 [Black "BENJAMIN"]
 [Result "1-0"]
 
@@ -60791,168 +60791,168 @@
 1. d4 d5 1-0
 
 [White "CRUSHER 2010"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "CRUSHER 2010"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "CRUSHER 2010"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "CRUSHER 2010"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
 [White "CRUSHER 2010"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
 [White "CRUSHER 2010"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2014"]
+[White "FASTGOMOKU 2014"]
 [Black "CRUSHER 2010"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2014"]
+[White "FASTGOMOKU 2014"]
 [Black "CRUSHER 2010"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2014"]
+[White "FASTGOMOKU 2014"]
 [Black "CRUSHER 2010"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2014"]
+[White "FASTGOMOKU 2014"]
 [Black "CRUSHER 2010"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2014"]
+[White "FASTGOMOKU 2014"]
 [Black "CRUSHER 2010"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2014"]
+[White "FASTGOMOKU 2014"]
 [Black "CRUSHER 2010"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "CRUSHER 2010"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "CRUSHER 2010"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "CRUSHER 2010"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "CRUSHER 2010"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "CRUSHER 2010"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "CRUSHER 2010"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "CRUSHER 2010"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "CRUSHER 2010"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2015"]
-[Black "CRUSHER 2010"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "CRUSHER 2010"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "CRUSHER 2010"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "CRUSHER 2010"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "CRUSHER 2010"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "CRUSHER 2010"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
+[Black "CRUSHER 2010"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2015"]
 [Black "CRUSHER 2010"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "CRUSHER 2010"]
 [Result "1-0"]
 
@@ -81454,6674 +81454,6674 @@
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2014"]
+[White "FASTGOMOKU 2014"]
 [Black "FIVEROW"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2014"]
+[White "FASTGOMOKU 2014"]
 [Black "FIVEROW"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2014"]
+[White "FASTGOMOKU 2014"]
 [Black "FIVEROW"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2014"]
+[White "FASTGOMOKU 2014"]
 [Black "FIVEROW"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2014"]
+[White "FASTGOMOKU 2014"]
 [Black "FIVEROW"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2014"]
+[White "FASTGOMOKU 2014"]
 [Black "FIVEROW"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
+[White "FASTGOMOKU 2014"]
+[Black "FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "FIVEROW"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
 [White "FIVEROW"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "FIVEROW"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "FIVEROW"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "FIVEROW"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "FIVEROW"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "FIVEROW"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2014"]
+[White "FIVEROW"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FIVEROW"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FIVEROW"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FIVEROW"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FIVEROW"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FIVEROW"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FIVEROW"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FIVEROW"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FIVEROW"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FIVEROW"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FIVEROW"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FIVEROW"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
 [Black "GMOTOR 2011"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2014"]
+[White "FASTGOMOKU 2014"]
 [Black "GMOTOR 2011"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2014"]
+[White "FASTGOMOKU 2014"]
+[Black "GMOTOR 2011"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "GMOTOR 2011"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "GMOTOR 2011"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "GMOTOR 2011"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "GMOTOR 2011"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "GMOTOR 2011"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
 [Black "GMOTOR 2011"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
 [White "GMOTOR 2011"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "GMOTOR 2011"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "GMOTOR 2011"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2014"]
+[White "GMOTOR 2011"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "GMOTOR 2011"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "GMOTOR 2011"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "GMOTOR 2011"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "GMOTOR 2011"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "GMOTOR 2011"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
 [Black "GORO 2014"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2014"]
+[White "FASTGOMOKU 2014"]
 [Black "GORO 2014"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2014"]
+[White "FASTGOMOKU 2014"]
 [Black "GORO 2014"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
 [White "GORO 2014"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "GORO 2014"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "GORO 2014"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2014"]
+[White "FASTGOMOKU 2014"]
+[Black "GORO 2016"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "GORO 2016"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "GORO 2016"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "GORO 2016"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "GORO 2016"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "GORO 2016"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "GORO 2016"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "GORO 2016"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "GORO 2016"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "GORO 2016"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "GORO 2016"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "GORO 2016"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
 [Black "HEWER 2014"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2014"]
+[White "FASTGOMOKU 2014"]
 [Black "HEWER 2014"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2014"]
+[White "FASTGOMOKU 2014"]
 [Black "HEWER 2014"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
 [White "HEWER 2014"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "HEWER 2014"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "HEWER 2014"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2014"]
+[White "FASTGOMOKU 2014"]
+[Black "HEWER 2015"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "HEWER 2015"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "HEWER 2015"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "HEWER 2015"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "HEWER 2015"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "HEWER 2015"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "HEWER 2015"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "HEWER 2015"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "HEWER 2015"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "HEWER 2015"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "HEWER 2015"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "HEWER 2015"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
 [Black "HGARDEN 2007"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2014"]
+[White "FASTGOMOKU 2014"]
 [Black "HGARDEN 2007"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2014"]
+[White "FASTGOMOKU 2014"]
+[Black "HGARDEN 2007"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "HGARDEN 2007"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "HGARDEN 2007"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "HGARDEN 2007"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "HGARDEN 2007"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "HGARDEN 2007"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
 [Black "HGARDEN 2007"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
 [White "HGARDEN 2007"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "HGARDEN 2007"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "HGARDEN 2007"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2014"]
+[White "HGARDEN 2007"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "HGARDEN 2007"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "HGARDEN 2007"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "HGARDEN 2007"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "HGARDEN 2007"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "HGARDEN 2007"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
 [Black "HIGHFIVE"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2014"]
+[White "FASTGOMOKU 2014"]
 [Black "HIGHFIVE"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2014"]
+[White "FASTGOMOKU 2014"]
 [Black "HIGHFIVE"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2014"]
+[White "FASTGOMOKU 2014"]
 [Black "HIGHFIVE"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2014"]
+[White "FASTGOMOKU 2014"]
 [Black "HIGHFIVE"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2014"]
+[White "FASTGOMOKU 2014"]
 [Black "HIGHFIVE"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
 [White "HIGHFIVE"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "HIGHFIVE"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "HIGHFIVE"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "HIGHFIVE"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "HIGHFIVE"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "HIGHFIVE"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2014"]
+[White "FASTGOMOKU 2014"]
+[Black "IGNITOR"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "IGNITOR"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "IGNITOR"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "IGNITOR"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "IGNITOR"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "IGNITOR"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "IGNITOR"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "IGNITOR"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "IGNITOR"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "IGNITOR"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "IGNITOR"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "IGNITOR"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "IGNITOR"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "IGNITOR"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "IGNITOR"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "IGNITOR"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "IGNITOR"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "IGNITOR"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "IGNITOR"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "IGNITOR"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "IGNITOR"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "IGNITOR"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "IGNITOR"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "IGNITOR"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "IGNITOR"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "IGNITOR"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "IGNITOR"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "IGNITOR"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "IGNITOR"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "IGNITOR"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "IGNITOR"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "IGNITOR"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "IGNITOR"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "IGNITOR"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "IGNITOR"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "IGNITOR"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
 [Black "IMRO 2013"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2014"]
+[White "FASTGOMOKU 2014"]
 [Black "IMRO 2013"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2014"]
+[White "FASTGOMOKU 2014"]
 [Black "IMRO 2013"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
 [White "IMRO 2013"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "IMRO 2013"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "IMRO 2013"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2014"]
+[White "FASTGOMOKU 2014"]
+[Black "IMRO 2015"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "IMRO 2015"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "IMRO 2015"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "IMRO 2015"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "IMRO 2015"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "IMRO 2015"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "IMRO 2015"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "IMRO 2015"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "IMRO 2015"]
+[Result "1/2-1/2"]
+
+1. d4 d5 1/2-1/2
+
+[White "FASTGOMOKU 2014"]
+[Black "IMRO 2015"]
+[Result "1/2-1/2"]
+
+1. d4 d5 1/2-1/2
+
+[White "FASTGOMOKU 2014"]
+[Black "IMRO 2015"]
+[Result "1/2-1/2"]
+
+1. d4 d5 1/2-1/2
+
+[White "FASTGOMOKU 2014"]
+[Black "IMRO 2015"]
+[Result "1/2-1/2"]
+
+1. d4 d5 1/2-1/2
+
+[White "IMRO 2015"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "IMRO 2015"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "IMRO 2015"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "IMRO 2015"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "IMRO 2015"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "IMRO 2015"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "IMRO 2015"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "IMRO 2015"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "IMRO 2015"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "IMRO 2015"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "IMRO 2015"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "IMRO 2015"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
 [Black "JUDE"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2014"]
+[White "FASTGOMOKU 2014"]
 [Black "JUDE"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2014"]
+[White "FASTGOMOKU 2014"]
+[Black "JUDE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "JUDE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "JUDE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "JUDE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "JUDE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "JUDE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "JUDE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "JUDE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "JUDE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "JUDE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "JUDE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "JUDE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
 [Black "JUDE"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
 [White "JUDE"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "JUDE"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "JUDE"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2014"]
+[White "JUDE"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "JUDE"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "JUDE"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "JUDE"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "JUDE"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "JUDE"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "JUDE"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "JUDE"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "JUDE"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "JUDE"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "JUDE"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "JUDE"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
 [Black "KANEC 2009"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2014"]
+[White "FASTGOMOKU 2014"]
+[Black "KANEC 2009"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "KANEC 2009"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "KANEC 2009"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "KANEC 2009"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "KANEC 2009"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
 [Black "KANEC 2009"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2014"]
+[White "FASTGOMOKU 2014"]
+[Black "KANEC 2009"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "KANEC 2009"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "KANEC 2009"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "KANEC 2009"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "KANEC 2009"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "KANEC 2009"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "KANEC 2009"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
 [Black "KANEC 2009"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
 [White "KANEC 2009"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "KANEC 2009"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "KANEC 2009"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2014"]
+[White "KANEC 2009"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "KANEC 2009"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "KANEC 2009"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "KANEC 2009"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "KANEC 2009"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "KANEC 2009"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "KANEC 2009"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "KANEC 2009"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "KANEC 2009"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "KANEC 2009"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "KANEC 2009"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "KANEC 2009"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "LICHT"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "LICHT"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "LICHT"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "LICHT"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "LICHT"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "LICHT"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "LICHT"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "LICHT"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "LICHT"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "LICHT"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "LICHT"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "LICHT"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "LICHT"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "LICHT"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "LICHT"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "LICHT"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "LICHT"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "LICHT"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "LICHT"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "LICHT"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "LICHT"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "LICHT"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "LICHT"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "LICHT"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
 [Black "LICHT 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2014"]
+[White "FASTGOMOKU 2014"]
 [Black "LICHT 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2014"]
+[White "FASTGOMOKU 2014"]
 [Black "LICHT 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2014"]
+[White "FASTGOMOKU 2014"]
 [Black "LICHT 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2014"]
+[White "FASTGOMOKU 2014"]
 [Black "LICHT 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2014"]
+[White "FASTGOMOKU 2014"]
 [Black "LICHT 2014"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
 [White "LICHT 2014"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "LICHT 2014"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "LICHT 2014"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "LICHT 2014"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "LICHT 2014"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "LICHT 2014"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2014"]
+[White "FASTGOMOKU 2014"]
 [Black "MUSHROOM"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2014"]
+[White "FASTGOMOKU 2014"]
 [Black "MUSHROOM"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2014"]
+[White "FASTGOMOKU 2014"]
 [Black "MUSHROOM"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2014"]
+[White "FASTGOMOKU 2014"]
 [Black "MUSHROOM"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2014"]
+[White "FASTGOMOKU 2014"]
 [Black "MUSHROOM"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2014"]
+[White "FASTGOMOKU 2014"]
+[Black "MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
 [Black "MUSHROOM"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "MUSHROOM"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
 [White "MUSHROOM"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
 [White "MUSHROOM"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
 [White "MUSHROOM"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
 [White "MUSHROOM"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
 [White "MUSHROOM"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2014"]
-[Black "NABAMOKU 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FAST-GOMOKU 2014"]
-[Black "NABAMOKU 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FAST-GOMOKU 2014"]
-[Black "NABAMOKU 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FAST-GOMOKU 2014"]
-[Black "NABAMOKU 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FAST-GOMOKU 2014"]
-[Black "NABAMOKU 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FAST-GOMOKU 2014"]
-[Black "NABAMOKU 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "NABAMOKU 2008"]
-[Black "FAST-GOMOKU 2014"]
+[White "MUSHROOM"]
+[Black "FASTGOMOKU 2014"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "NABAMOKU 2008"]
-[Black "FAST-GOMOKU 2014"]
+[White "MUSHROOM"]
+[Black "FASTGOMOKU 2014"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "MUSHROOM"]
+[Black "FASTGOMOKU 2014"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "MUSHROOM"]
+[Black "FASTGOMOKU 2014"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "MUSHROOM"]
+[Black "FASTGOMOKU 2014"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "MUSHROOM"]
+[Black "FASTGOMOKU 2014"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "MUSHROOM"]
+[Black "FASTGOMOKU 2014"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "MUSHROOM"]
+[Black "FASTGOMOKU 2014"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "MUSHROOM"]
+[Black "FASTGOMOKU 2014"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "MUSHROOM"]
+[Black "FASTGOMOKU 2014"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "MUSHROOM"]
+[Black "FASTGOMOKU 2014"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "MUSHROOM"]
+[Black "FASTGOMOKU 2014"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "NABAMOKU 2008"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "NABAMOKU 2008"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "NABAMOKU 2008"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "NABAMOKU 2008"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "NABAMOKU 2008"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "NABAMOKU 2008"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "NABAMOKU 2008"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "NABAMOKU 2008"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "NABAMOKU 2008"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "NABAMOKU 2008"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "NABAMOKU 2008"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "NABAMOKU 2008"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "NABAMOKU 2008"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "NABAMOKU 2008"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "NABAMOKU 2008"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "NABAMOKU 2008"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2014"]
+[White "NABAMOKU 2008"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "NABAMOKU 2008"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "NABAMOKU 2008"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "NABAMOKU 2008"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "NABAMOKU 2008"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "NABAMOKU 2008"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "NABAMOKU 2008"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "NABAMOKU 2008"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "NOESIS"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "NOESIS"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "NOESIS"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "NOESIS"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "NOESIS"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "NOESIS"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "NOESIS"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "NOESIS"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "NOESIS"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "NOESIS"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "NOESIS"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "NOESIS"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "NOESIS"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "NOESIS"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "NOESIS"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "NOESIS"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "NOESIS"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "NOESIS"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "NOESIS"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "NOESIS"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "NOESIS"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "NOESIS"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "NOESIS"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "NOESIS"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "ONIX 2016"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "ONIX 2016"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "ONIX 2016"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "ONIX 2016"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "ONIX 2016"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "ONIX 2016"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "ONIX 2016"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "ONIX 2016"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "ONIX 2016"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "ONIX 2016"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "ONIX 2016"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "ONIX 2016"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "ONIX 2016"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "ONIX 2016"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "ONIX 2016"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "ONIX 2016"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "ONIX 2016"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "ONIX 2016"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "ONIX 2016"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "ONIX 2016"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "ONIX 2016"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "ONIX 2016"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "ONIX 2016"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "ONIX 2016"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
 [Black "PECUCHET"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2014"]
+[White "FASTGOMOKU 2014"]
+[Black "PECUCHET"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "PECUCHET"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "PECUCHET"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "PECUCHET"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "PECUCHET"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "PECUCHET"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "PECUCHET"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "PECUCHET"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "PECUCHET"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "PECUCHET"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
 [Black "PECUCHET"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2014"]
+[White "FASTGOMOKU 2014"]
+[Black "PECUCHET"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "PECUCHET"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
 [Black "PECUCHET"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
 [White "PECUCHET"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "PECUCHET"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "PECUCHET"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2014"]
+[White "PECUCHET"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "PECUCHET"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "PECUCHET"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "PECUCHET"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "PECUCHET"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "PECUCHET"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "PECUCHET"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "PECUCHET"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "PECUCHET"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "PECUCHET"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "PECUCHET"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "PECUCHET"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
 [Black "PELA 2006"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2014"]
+[White "FASTGOMOKU 2014"]
 [Black "PELA 2006"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2014"]
+[White "FASTGOMOKU 2014"]
 [Black "PELA 2006"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
 [White "PELA 2006"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "PELA 2006"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "PELA 2006"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2014"]
+[White "FASTGOMOKU 2014"]
+[Black "PELA 2016"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "PELA 2016"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "PELA 2016"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "PELA 2016"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "PELA 2016"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "PELA 2016"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "PELA 2016"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "PELA 2016"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "PELA 2016"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "PELA 2016"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "PELA 2016"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "PELA 2016"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
 [Black "PISQ 7"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2014"]
+[White "FASTGOMOKU 2014"]
 [Black "PISQ 7"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2014"]
+[White "FASTGOMOKU 2014"]
 [Black "PISQ 7"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2014"]
+[White "FASTGOMOKU 2014"]
 [Black "PISQ 7"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2014"]
+[White "FASTGOMOKU 2014"]
 [Black "PISQ 7"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2014"]
+[White "FASTGOMOKU 2014"]
+[Black "PISQ 7"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "PISQ 7"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "PISQ 7"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "PISQ 7"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "PISQ 7"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "PISQ 7"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "PISQ 7"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "PISQ 7"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "PISQ 7"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "PISQ 7"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "PISQ 7"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "PISQ 7"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
 [Black "PISQ 7"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "PISQ 7"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
 [White "PISQ 7"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
 [White "PISQ 7"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "PISQ 7"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "PISQ 7"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "PISQ 7"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "PISQ 7"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2014"]
+[White "PISQ 7"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "PISQ 7"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "PISQ 7"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "PISQ 7"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "PISQ 7"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "PISQ 7"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "PISQ 7"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "PISQ 7"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "PISQ 7"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "PISQ 7"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "PISQ 7"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
 [Black "PROLOG"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2014"]
+[White "FASTGOMOKU 2014"]
 [Black "PROLOG"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2014"]
+[White "FASTGOMOKU 2014"]
 [Black "PROLOG"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2014"]
+[White "FASTGOMOKU 2014"]
 [Black "PROLOG"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2014"]
+[White "FASTGOMOKU 2014"]
 [Black "PROLOG"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2014"]
+[White "FASTGOMOKU 2014"]
+[Black "PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
 [Black "PROLOG"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "PROLOG"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
 [White "PROLOG"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
 [White "PROLOG"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
 [White "PROLOG"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
 [White "PROLOG"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
 [White "PROLOG"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2014"]
+[White "PROLOG"]
+[Black "FASTGOMOKU 2014"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "PROLOG"]
+[Black "FASTGOMOKU 2014"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "PROLOG"]
+[Black "FASTGOMOKU 2014"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "PROLOG"]
+[Black "FASTGOMOKU 2014"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "PROLOG"]
+[Black "FASTGOMOKU 2014"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "PROLOG"]
+[Black "FASTGOMOKU 2014"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "PROLOG"]
+[Black "FASTGOMOKU 2014"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "PROLOG"]
+[Black "FASTGOMOKU 2014"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "PROLOG"]
+[Black "FASTGOMOKU 2014"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "PROLOG"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "PROLOG"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "PROLOG"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
 [Black "PUREGM 2012"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2014"]
+[White "FASTGOMOKU 2014"]
 [Black "PUREGM 2012"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2014"]
+[White "FASTGOMOKU 2014"]
 [Black "PUREGM 2012"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2014"]
+[White "FASTGOMOKU 2014"]
 [Black "PUREGM 2012"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2014"]
+[White "FASTGOMOKU 2014"]
 [Black "PUREGM 2012"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2014"]
+[White "FASTGOMOKU 2014"]
 [Black "PUREGM 2012"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
 [White "PUREGM 2012"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "PUREGM 2012"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "PUREGM 2012"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "PUREGM 2012"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "PUREGM 2012"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "PUREGM 2012"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2014"]
+[White "FASTGOMOKU 2014"]
+[Black "PUREROCKY"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "PUREROCKY"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "PUREROCKY"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "PUREROCKY"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "PUREROCKY"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "PUREROCKY"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "PUREROCKY"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "PUREROCKY"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "PUREROCKY"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "PUREROCKY"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "PUREROCKY"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "PUREROCKY"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "PUREROCKY"]
+[Black "FASTGOMOKU 2014"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "PUREROCKY"]
+[Black "FASTGOMOKU 2014"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "PUREROCKY"]
+[Black "FASTGOMOKU 2014"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "PUREROCKY"]
+[Black "FASTGOMOKU 2014"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "PUREROCKY"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "PUREROCKY"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "PUREROCKY"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "PUREROCKY"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "PUREROCKY"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "PUREROCKY"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "PUREROCKY"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "PUREROCKY"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
 [Black "PUSKVOREC"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2014"]
+[White "FASTGOMOKU 2014"]
 [Black "PUSKVOREC"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2014"]
+[White "FASTGOMOKU 2014"]
 [Black "PUSKVOREC"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2014"]
+[White "FASTGOMOKU 2014"]
 [Black "PUSKVOREC"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2014"]
+[White "FASTGOMOKU 2014"]
+[Black "PUSKVOREC"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "PUSKVOREC"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "PUSKVOREC"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "PUSKVOREC"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "PUSKVOREC"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "PUSKVOREC"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "PUSKVOREC"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
 [Black "PUSKVOREC"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2014"]
+[White "FASTGOMOKU 2014"]
+[Black "PUSKVOREC"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "PUSKVOREC"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "PUSKVOREC"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "PUSKVOREC"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "PUSKVOREC"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
 [Black "PUSKVOREC"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
 [White "PUSKVOREC"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "PUSKVOREC"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "PUSKVOREC"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "PUSKVOREC"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "PUSKVOREC"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "PUSKVOREC"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2014"]
+[White "PUSKVOREC"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "PUSKVOREC"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "PUSKVOREC"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "PUSKVOREC"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "PUSKVOREC"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "PUSKVOREC"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "PUSKVOREC"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "PUSKVOREC"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "PUSKVOREC"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "PUSKVOREC"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "PUSKVOREC"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "PUSKVOREC"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
 [Black "QMENTAT 6"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2014"]
+[White "FASTGOMOKU 2014"]
+[Black "QMENTAT 6"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "QMENTAT 6"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "QMENTAT 6"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "QMENTAT 6"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "QMENTAT 6"]
+[Result "1/2-1/2"]
+
+1. d4 d5 1/2-1/2
+
+[White "FASTGOMOKU 2014"]
+[Black "QMENTAT 6"]
+[Result "1/2-1/2"]
+
+1. d4 d5 1/2-1/2
+
+[White "FASTGOMOKU 2014"]
+[Black "QMENTAT 6"]
+[Result "1/2-1/2"]
+
+1. d4 d5 1/2-1/2
+
+[White "FASTGOMOKU 2014"]
+[Black "QMENTAT 6"]
+[Result "1/2-1/2"]
+
+1. d4 d5 1/2-1/2
+
+[White "FASTGOMOKU 2014"]
 [Black "QMENTAT 6"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2014"]
+[White "FASTGOMOKU 2014"]
+[Black "QMENTAT 6"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "QMENTAT 6"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "QMENTAT 6"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "QMENTAT 6"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
 [Black "QMENTAT 6"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
 [White "QMENTAT 6"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "QMENTAT 6"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "QMENTAT 6"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2014"]
+[White "QMENTAT 6"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "QMENTAT 6"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "QMENTAT 6"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "QMENTAT 6"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "QMENTAT 6"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "QMENTAT 6"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "QMENTAT 6"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "QMENTAT 6"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "QMENTAT 6"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "QMENTAT 6"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "QMENTAT 6"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "QMENTAT 6"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
 [Black "SLOWRENJU 2014"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2014"]
+[White "FASTGOMOKU 2014"]
 [Black "SLOWRENJU 2014"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2014"]
+[White "FASTGOMOKU 2014"]
 [Black "SLOWRENJU 2014"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
 [White "SLOWRENJU 2014"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "SLOWRENJU 2014"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "SLOWRENJU 2014"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2014"]
+[White "FASTGOMOKU 2014"]
+[Black "SLOWRENJU 2016"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "SLOWRENJU 2016"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "SLOWRENJU 2016"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "SLOWRENJU 2016"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "SLOWRENJU 2016"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "SLOWRENJU 2016"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "SLOWRENJU 2016"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "SLOWRENJU 2016"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "SLOWRENJU 2016"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "SLOWRENJU 2016"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "SLOWRENJU 2016"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "SLOWRENJU 2016"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "STAHLFAUST"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "STAHLFAUST"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "STAHLFAUST"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "STAHLFAUST"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "STAHLFAUST"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "STAHLFAUST"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "STAHLFAUST"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "STAHLFAUST"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "STAHLFAUST"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "STAHLFAUST"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "STAHLFAUST"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "STAHLFAUST"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "STAHLFAUST"]
+[Black "FASTGOMOKU 2014"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "STAHLFAUST"]
+[Black "FASTGOMOKU 2014"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "STAHLFAUST"]
+[Black "FASTGOMOKU 2014"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "STAHLFAUST"]
+[Black "FASTGOMOKU 2014"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "STAHLFAUST"]
+[Black "FASTGOMOKU 2014"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "STAHLFAUST"]
+[Black "FASTGOMOKU 2014"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "STAHLFAUST"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "STAHLFAUST"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "STAHLFAUST"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "STAHLFAUST"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "STAHLFAUST"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "STAHLFAUST"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
 [Black "SWINE 2014"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2014"]
+[White "FASTGOMOKU 2014"]
 [Black "SWINE 2014"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2014"]
+[White "FASTGOMOKU 2014"]
 [Black "SWINE 2014"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
 [White "SWINE 2014"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "SWINE 2014"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "SWINE 2014"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2014"]
+[White "FASTGOMOKU 2014"]
+[Black "SWINE 2015"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "SWINE 2015"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "SWINE 2015"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "SWINE 2015"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "SWINE 2015"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "SWINE 2015"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "SWINE 2015"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "SWINE 2015"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "SWINE 2015"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "SWINE 2015"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "SWINE 2015"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "SWINE 2015"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
 [Black "TITO 2014"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2014"]
+[White "FASTGOMOKU 2014"]
 [Black "TITO 2014"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2014"]
+[White "FASTGOMOKU 2014"]
+[Black "TITO 2014"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "TITO 2014"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "TITO 2014"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "TITO 2014"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "TITO 2014"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "TITO 2014"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
 [Black "TITO 2014"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
 [White "TITO 2014"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "TITO 2014"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "TITO 2014"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2014"]
+[White "TITO 2014"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "TITO 2014"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "TITO 2014"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "TITO 2014"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "TITO 2014"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "TITO 2014"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
 [Black "VALKYRIE"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2014"]
+[White "FASTGOMOKU 2014"]
 [Black "VALKYRIE"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2014"]
+[White "FASTGOMOKU 2014"]
 [Black "VALKYRIE"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2014"]
+[White "FASTGOMOKU 2014"]
 [Black "VALKYRIE"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2014"]
+[White "FASTGOMOKU 2014"]
 [Black "VALKYRIE"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2014"]
+[White "FASTGOMOKU 2014"]
+[Black "VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
 [Black "VALKYRIE"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "VALKYRIE"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "VALKYRIE"]
+[Black "FASTGOMOKU 2014"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "VALKYRIE"]
+[Black "FASTGOMOKU 2014"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "VALKYRIE"]
+[Black "FASTGOMOKU 2014"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "VALKYRIE"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "VALKYRIE"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "VALKYRIE"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "VALKYRIE"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "VALKYRIE"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "VALKYRIE"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2014"]
+[White "VALKYRIE"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "VALKYRIE"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "VALKYRIE"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "VALKYRIE"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "VALKYRIE"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "VALKYRIE"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "VALKYRIE"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "VALKYRIE"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "XOXO 2016"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "XOXO 2016"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "XOXO 2016"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "XOXO 2016"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "XOXO 2016"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "XOXO 2016"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "XOXO 2016"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "XOXO 2016"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "XOXO 2016"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "XOXO 2016"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "XOXO 2016"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "XOXO 2016"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "XOXO 2016"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "XOXO 2016"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "XOXO 2016"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "XOXO 2016"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "XOXO 2016"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "XOXO 2016"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "XOXO 2016"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "XOXO 2016"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "XOXO 2016"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "XOXO 2016"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "XOXO 2016"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "XOXO 2016"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "XOXO 2016"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "XOXO 2016"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "XOXO 2016"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "XOXO 2016"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "XOXO 2016"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "XOXO 2016"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "XOXO 2016"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "XOXO 2016"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "XOXO 2016"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "XOXO 2016"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "XOXO 2016"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "XOXO 2016"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
 [Black "YIXIN 2014"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2014"]
+[White "FASTGOMOKU 2014"]
 [Black "YIXIN 2014"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2014"]
+[White "FASTGOMOKU 2014"]
 [Black "YIXIN 2014"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
 [White "YIXIN 2014"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "YIXIN 2014"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "YIXIN 2014"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2014"]
+[White "FASTGOMOKU 2014"]
+[Black "YIXIN 2016"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "YIXIN 2016"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "YIXIN 2016"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "YIXIN 2016"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "YIXIN 2016"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "YIXIN 2016"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "YIXIN 2016"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "YIXIN 2016"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "YIXIN 2016"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "YIXIN 2016"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "YIXIN 2016"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "YIXIN 2016"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
 [Black "ZETOR 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2014"]
+[White "FASTGOMOKU 2014"]
 [Black "ZETOR 2014"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2014"]
+[White "FASTGOMOKU 2014"]
 [Black "ZETOR 2014"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2014"]
+[White "FASTGOMOKU 2014"]
 [Black "ZETOR 2014"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2014"]
+[White "FASTGOMOKU 2014"]
 [Black "ZETOR 2014"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2014"]
+[White "FASTGOMOKU 2014"]
 [Black "ZETOR 2014"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
 [White "ZETOR 2014"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "ZETOR 2014"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "ZETOR 2014"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "ZETOR 2014"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "ZETOR 2014"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "ZETOR 2014"]
-[Black "FAST-GOMOKU 2014"]
+[Black "FASTGOMOKU 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2014"]
+[Black "ZETOR 2016"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2014"]
+[Black "ZETOR 2016"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "ZETOR 2016"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "ZETOR 2016"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "ZETOR 2016"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "ZETOR 2016"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "ZETOR 2016"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "ZETOR 2016"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "ZETOR 2016"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "ZETOR 2016"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "ZETOR 2016"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2014"]
+[Black "ZETOR 2016"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "ZETOR 2016"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "ZETOR 2016"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "ZETOR 2016"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "ZETOR 2016"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "ZETOR 2016"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "ZETOR 2016"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "ZETOR 2016"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "ZETOR 2016"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "ZETOR 2016"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "ZETOR 2016"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "ZETOR 2016"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "ZETOR 2016"]
+[Black "FASTGOMOKU 2014"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "FASTGOMOKU 2015"]
 [Black "FIVEROW"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "FIVEROW"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "FIVEROW"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "FIVEROW"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "FIVEROW"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "FIVEROW"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "FIVEROW"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "FIVEROW"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "FIVEROW"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
 [White "FIVEROW"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
 [White "FIVEROW"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "FIVEROW"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "FIVEROW"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "FIVEROW"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "FIVEROW"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "FIVEROW"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "GMOTOR 2011"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "GMOTOR 2011"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "GMOTOR 2011"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "GMOTOR 2011"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
 [White "GMOTOR 2011"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "GMOTOR 2011"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "GMOTOR 2011"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "GMOTOR 2011"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "GORO 2015"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "GORO 2015"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "GORO 2015"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "GORO 2015"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
 [White "GORO 2015"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "GORO 2015"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "GORO 2015"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "GORO 2015"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "HEWER 2015"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "HEWER 2015"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "HEWER 2015"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "HEWER 2015"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
 [White "HEWER 2015"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "HEWER 2015"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "HEWER 2015"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "HEWER 2015"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "HGARDEN 2007"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "HGARDEN 2007"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "HGARDEN 2007"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "HGARDEN 2007"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
 [White "HGARDEN 2007"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "HGARDEN 2007"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "HGARDEN 2007"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "HGARDEN 2007"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "IMRO 2015"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "IMRO 2015"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "IMRO 2015"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "IMRO 2015"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "IMRO 2015"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "IMRO 2015"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "IMRO 2015"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "IMRO 2015"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
 [White "IMRO 2015"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "IMRO 2015"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "IMRO 2015"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "IMRO 2015"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "IMRO 2015"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "IMRO 2015"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "IMRO 2015"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "IMRO 2015"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "JUDE"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "JUDE"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "JUDE"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "JUDE"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
 [White "JUDE"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "JUDE"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "JUDE"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "JUDE"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "KANEC 2009"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "KANEC 2009"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "KANEC 2009"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "KANEC 2009"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
 [White "KANEC 2009"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "KANEC 2009"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "KANEC 2009"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "KANEC 2009"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "LICHT 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "LICHT 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "LICHT 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "LICHT 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "LICHT 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "LICHT 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "LICHT 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "LICHT 2014"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "LICHT 2014"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "LICHT 2014"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "LICHT 2014"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "LICHT 2014"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "LICHT 2014"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "LICHT 2014"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "LICHT 2014"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "LICHT 2014"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "MUSHROOM"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "MUSHROOM"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "MUSHROOM"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "MUSHROOM"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "MUSHROOM"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "MUSHROOM"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "MUSHROOM"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "MUSHROOM"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "MUSHROOM"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
 [White "MUSHROOM"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
 [White "MUSHROOM"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
 [White "MUSHROOM"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
 [White "MUSHROOM"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
 [White "MUSHROOM"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
 [White "MUSHROOM"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
 [White "MUSHROOM"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "NABAMOKU 2008"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "NABAMOKU 2008"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "NABAMOKU 2008"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "NABAMOKU 2008"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
 [White "NABAMOKU 2008"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "NABAMOKU 2008"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "NABAMOKU 2008"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "NABAMOKU 2008"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "PECUCHET"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2015"]
-[Black "PECUCHET"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "PECUCHET"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
+[Black "PECUCHET"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "FASTGOMOKU 2015"]
 [Black "PECUCHET"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
 [White "PECUCHET"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "PECUCHET"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "PECUCHET"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "PECUCHET"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "PELA 2006"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "PELA 2006"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "PELA 2006"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "PELA 2006"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
 [White "PELA 2006"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "PELA 2006"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "PELA 2006"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "PELA 2006"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "PELA ACA2015"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "PELA ACA2015"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "PELA ACA2015"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "PELA ACA2015"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "PELA ACA2015"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "PELA ACA2015"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "PELA ACA2015"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "PELA ACA2015"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
 [White "PELA ACA2015"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "PELA ACA2015"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "PELA ACA2015"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "PELA ACA2015"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "PELA ACA2015"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "PELA ACA2015"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "PELA ACA2015"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "PELA ACA2015"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "PISQ 7"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "PISQ 7"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "PISQ 7"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "PISQ 7"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "PISQ 7"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "PISQ 7"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "PISQ 7"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "PISQ 7"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
 [White "PISQ 7"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "PISQ 7"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "PISQ 7"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "PISQ 7"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "PISQ 7"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "PISQ 7"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "PISQ 7"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "PISQ 7"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "PROLOG"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "PROLOG"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "PROLOG"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "PROLOG"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "PROLOG"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "PROLOG"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "PROLOG"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "PROLOG"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
 [White "PROLOG"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "PROLOG"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "PROLOG"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "PROLOG"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "PROLOG"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "PROLOG"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "PROLOG"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "PROLOG"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "PUREGM 2013"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "PUREGM 2013"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "PUREGM 2013"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "PUREGM 2013"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "PUREGM 2013"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "PUREGM 2013"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "PUREGM 2013"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "PUREGM 2013"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "PUREGM 2013"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "PUREGM 2013"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "PUREGM 2013"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "PUREGM 2013"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "PUREGM 2013"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "PUREGM 2013"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "PUREGM 2013"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "PUREGM 2013"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "PUSKVOREC"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "PUSKVOREC"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "PUSKVOREC"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "PUSKVOREC"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "PUSKVOREC"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "PUSKVOREC"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "PUSKVOREC"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "PUSKVOREC"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
 [White "PUSKVOREC"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "PUSKVOREC"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "PUSKVOREC"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "PUSKVOREC"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "PUSKVOREC"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "PUSKVOREC"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "PUSKVOREC"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "PUSKVOREC"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "QMENTAT 6"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "QMENTAT 6"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "QMENTAT 6"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "QMENTAT 6"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
 [White "QMENTAT 6"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "QMENTAT 6"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "QMENTAT 6"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "QMENTAT 6"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "SLOWRENJU 2015"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "SLOWRENJU 2015"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "SLOWRENJU 2015"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "SLOWRENJU 2015"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
 [White "SLOWRENJU 2015"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "SLOWRENJU 2015"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "SLOWRENJU 2015"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "SLOWRENJU 2015"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "SWINE 2015"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "SWINE 2015"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "SWINE 2015"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "SWINE 2015"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
 [White "SWINE 2015"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "SWINE 2015"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "SWINE 2015"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "SWINE 2015"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "TITO 2014"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "TITO 2014"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "TITO 2014"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "TITO 2014"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
 [White "TITO 2014"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "TITO 2014"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "TITO 2014"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "TITO 2014"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "VALKYRIE"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "VALKYRIE"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "VALKYRIE"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "VALKYRIE"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "VALKYRIE"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "VALKYRIE"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "VALKYRIE"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "VALKYRIE"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "VALKYRIE"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "VALKYRIE"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "VALKYRIE"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "VALKYRIE"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "VALKYRIE"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "VALKYRIE"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "VALKYRIE"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "VALKYRIE"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "XOXO 2015"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "XOXO 2015"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "XOXO 2015"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "XOXO 2015"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "XOXO 2015"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "XOXO 2015"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "XOXO 2015"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "XOXO 2015"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
 [White "XOXO 2015"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "XOXO 2015"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "XOXO 2015"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "XOXO 2015"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "XOXO 2015"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "XOXO 2015"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "XOXO 2015"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "XOXO 2015"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "YIXIN 2015"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "YIXIN 2015"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "YIXIN 2015"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "YIXIN 2015"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
 [White "YIXIN 2015"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "YIXIN 2015"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "YIXIN 2015"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "YIXIN 2015"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "ZETOR 2015"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "ZETOR 2015"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "ZETOR 2015"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
-[White "FAST-GOMOKU 2015"]
+[White "FASTGOMOKU 2015"]
 [Black "ZETOR 2015"]
 [Result "0-1"]
 
 1. d4 d5 0-1
 
 [White "ZETOR 2015"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "ZETOR 2015"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "ZETOR 2015"]
-[Black "FAST-GOMOKU 2015"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
 
 [White "ZETOR 2015"]
-[Black "FAST-GOMOKU 2015"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "FIVEROW"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "FIVEROW"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "FIVEROW"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "FIVEROW"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "FIVEROW"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "FIVEROW"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "FIVEROW"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "FIVEROW"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "FIVEROW"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "FIVEROW"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "FIVEROW"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "FIVEROW"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FIVEROW"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FIVEROW"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FIVEROW"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FIVEROW"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FIVEROW"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FIVEROW"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FIVEROW"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FIVEROW"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FIVEROW"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FIVEROW"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FIVEROW"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FIVEROW"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "GMOTOR 2011"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "GMOTOR 2011"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "GMOTOR 2011"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "GMOTOR 2011"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "GMOTOR 2011"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "GMOTOR 2011"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "GMOTOR 2011"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "GMOTOR 2011"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "GMOTOR 2011"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "GMOTOR 2011"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "GMOTOR 2011"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "GMOTOR 2011"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "GORO 2016"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "GORO 2016"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "GORO 2016"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "GORO 2016"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "GORO 2016"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "GORO 2016"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "GORO 2016"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "GORO 2016"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "GORO 2016"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "GORO 2016"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "GORO 2016"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "GORO 2016"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "HEWER 2015"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "HEWER 2015"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "HEWER 2015"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "HEWER 2015"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "HEWER 2015"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "HEWER 2015"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "HEWER 2015"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "HEWER 2015"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "HEWER 2015"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "HEWER 2015"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "HEWER 2015"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "HEWER 2015"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "HGARDEN 2007"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "HGARDEN 2007"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "HGARDEN 2007"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "HGARDEN 2007"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "HGARDEN 2007"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "HGARDEN 2007"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "HGARDEN 2007"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "HGARDEN 2007"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "HGARDEN 2007"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "HGARDEN 2007"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "HGARDEN 2007"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "HGARDEN 2007"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "IGNITOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "IGNITOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "IGNITOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "IGNITOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "IGNITOR"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "IGNITOR"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "IGNITOR"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "IGNITOR"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "IGNITOR"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "IGNITOR"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "IGNITOR"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "IGNITOR"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "IGNITOR"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "IGNITOR"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "IGNITOR"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "IGNITOR"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "IGNITOR"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "IGNITOR"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "IGNITOR"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "IGNITOR"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "IGNITOR"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "IGNITOR"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "IGNITOR"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "IGNITOR"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "IGNITOR"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "IGNITOR"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "IGNITOR"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "IGNITOR"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "IGNITOR"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "IGNITOR"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "IGNITOR"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "IGNITOR"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "IGNITOR"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "IGNITOR"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "IGNITOR"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "IGNITOR"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "IMRO 2015"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "IMRO 2015"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "IMRO 2015"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "IMRO 2015"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "IMRO 2015"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "IMRO 2015"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "IMRO 2015"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "IMRO 2015"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "IMRO 2015"]
-[Result "1/2-1/2"]
-
-1. d4 d5 1/2-1/2
-
-[White "FASTGOMOKU 2014"]
-[Black "IMRO 2015"]
-[Result "1/2-1/2"]
-
-1. d4 d5 1/2-1/2
-
-[White "FASTGOMOKU 2014"]
-[Black "IMRO 2015"]
-[Result "1/2-1/2"]
-
-1. d4 d5 1/2-1/2
-
-[White "FASTGOMOKU 2014"]
-[Black "IMRO 2015"]
-[Result "1/2-1/2"]
-
-1. d4 d5 1/2-1/2
-
-[White "IMRO 2015"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "IMRO 2015"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "IMRO 2015"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "IMRO 2015"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "IMRO 2015"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "IMRO 2015"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "IMRO 2015"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "IMRO 2015"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "IMRO 2015"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "IMRO 2015"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "IMRO 2015"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "IMRO 2015"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "JUDE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "JUDE"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "JUDE"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "JUDE"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "JUDE"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "JUDE"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "JUDE"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "JUDE"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "JUDE"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "JUDE"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "JUDE"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "JUDE"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "JUDE"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "JUDE"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "JUDE"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "JUDE"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "JUDE"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "JUDE"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "JUDE"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "JUDE"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "JUDE"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "JUDE"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "JUDE"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "JUDE"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "KANEC 2009"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "KANEC 2009"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "KANEC 2009"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "KANEC 2009"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "KANEC 2009"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "KANEC 2009"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "KANEC 2009"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "KANEC 2009"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "KANEC 2009"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "KANEC 2009"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "KANEC 2009"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "KANEC 2009"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "KANEC 2009"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "KANEC 2009"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "KANEC 2009"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "KANEC 2009"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "KANEC 2009"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "KANEC 2009"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "KANEC 2009"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "KANEC 2009"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "KANEC 2009"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "KANEC 2009"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "KANEC 2009"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "KANEC 2009"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "LICHT"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "LICHT"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "LICHT"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "LICHT"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "LICHT"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "LICHT"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "LICHT"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "LICHT"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "LICHT"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "LICHT"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "LICHT"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "LICHT"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "LICHT"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "LICHT"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "LICHT"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "LICHT"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "LICHT"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "LICHT"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "LICHT"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "LICHT"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "LICHT"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "LICHT"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "LICHT"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "LICHT"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "MUSHROOM"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "MUSHROOM"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "MUSHROOM"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "MUSHROOM"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "MUSHROOM"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "MUSHROOM"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "MUSHROOM"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "MUSHROOM"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "MUSHROOM"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "MUSHROOM"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "MUSHROOM"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "MUSHROOM"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "MUSHROOM"]
-[Black "FASTGOMOKU 2014"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "MUSHROOM"]
-[Black "FASTGOMOKU 2014"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "MUSHROOM"]
-[Black "FASTGOMOKU 2014"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "MUSHROOM"]
-[Black "FASTGOMOKU 2014"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "MUSHROOM"]
-[Black "FASTGOMOKU 2014"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "MUSHROOM"]
-[Black "FASTGOMOKU 2014"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "MUSHROOM"]
-[Black "FASTGOMOKU 2014"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "MUSHROOM"]
-[Black "FASTGOMOKU 2014"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "MUSHROOM"]
-[Black "FASTGOMOKU 2014"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "MUSHROOM"]
-[Black "FASTGOMOKU 2014"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "MUSHROOM"]
-[Black "FASTGOMOKU 2014"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "MUSHROOM"]
-[Black "FASTGOMOKU 2014"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "NABAMOKU 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "NABAMOKU 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "NABAMOKU 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "NABAMOKU 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "NABAMOKU 2008"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "NABAMOKU 2008"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "NABAMOKU 2008"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "NABAMOKU 2008"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "NABAMOKU 2008"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "NABAMOKU 2008"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "NABAMOKU 2008"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "NABAMOKU 2008"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "NOESIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "NOESIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "NOESIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "NOESIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "NOESIS"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "NOESIS"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "NOESIS"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "NOESIS"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "NOESIS"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "NOESIS"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "NOESIS"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "NOESIS"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "NOESIS"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "NOESIS"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "NOESIS"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "NOESIS"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "NOESIS"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "NOESIS"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "NOESIS"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "NOESIS"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "NOESIS"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "NOESIS"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "NOESIS"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "NOESIS"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "ONIX 2016"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "ONIX 2016"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "ONIX 2016"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "ONIX 2016"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "ONIX 2016"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "ONIX 2016"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "ONIX 2016"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "ONIX 2016"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "ONIX 2016"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "ONIX 2016"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "ONIX 2016"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "ONIX 2016"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "ONIX 2016"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2016"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2016"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2016"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2016"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2016"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2016"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2016"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2016"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2016"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2016"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ONIX 2016"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "PECUCHET"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "PECUCHET"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "PECUCHET"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "PECUCHET"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "PECUCHET"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "PECUCHET"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "PECUCHET"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "PECUCHET"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "PECUCHET"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "PECUCHET"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "PECUCHET"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "PECUCHET"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "PECUCHET"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PECUCHET"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PECUCHET"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PECUCHET"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PECUCHET"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PECUCHET"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PECUCHET"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PECUCHET"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PECUCHET"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PECUCHET"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PECUCHET"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PECUCHET"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "PELA 2016"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "PELA 2016"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "PELA 2016"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "PELA 2016"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "PELA 2016"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "PELA 2016"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "PELA 2016"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PELA 2016"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PELA 2016"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PELA 2016"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PELA 2016"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PELA 2016"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "PISQ 7"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "PISQ 7"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "PISQ 7"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "PISQ 7"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "PISQ 7"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "PISQ 7"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "PISQ 7"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "PISQ 7"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "PISQ 7"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "PISQ 7"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "PISQ 7"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "PISQ 7"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PISQ 7"]
-[Black "FASTGOMOKU 2014"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "PISQ 7"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PISQ 7"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PISQ 7"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PISQ 7"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PISQ 7"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PISQ 7"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PISQ 7"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PISQ 7"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PISQ 7"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PISQ 7"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PISQ 7"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "PROLOG"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "PROLOG"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "PROLOG"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "PROLOG"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "PROLOG"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "PROLOG"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "PROLOG"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "PROLOG"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "PROLOG"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "PROLOG"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "PROLOG"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "PROLOG"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PROLOG"]
-[Black "FASTGOMOKU 2014"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "PROLOG"]
-[Black "FASTGOMOKU 2014"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "PROLOG"]
-[Black "FASTGOMOKU 2014"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "PROLOG"]
-[Black "FASTGOMOKU 2014"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "PROLOG"]
-[Black "FASTGOMOKU 2014"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "PROLOG"]
-[Black "FASTGOMOKU 2014"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "PROLOG"]
-[Black "FASTGOMOKU 2014"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "PROLOG"]
-[Black "FASTGOMOKU 2014"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "PROLOG"]
-[Black "FASTGOMOKU 2014"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "PROLOG"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PROLOG"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PROLOG"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "PUREROCKY"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "PUREROCKY"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "PUREROCKY"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "PUREROCKY"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "PUREROCKY"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "PUREROCKY"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "PUREROCKY"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "PUREROCKY"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "PUREROCKY"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "PUREROCKY"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "PUREROCKY"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "PUREROCKY"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PUREROCKY"]
-[Black "FASTGOMOKU 2014"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "PUREROCKY"]
-[Black "FASTGOMOKU 2014"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "PUREROCKY"]
-[Black "FASTGOMOKU 2014"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "PUREROCKY"]
-[Black "FASTGOMOKU 2014"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "PUREROCKY"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PUREROCKY"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PUREROCKY"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PUREROCKY"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PUREROCKY"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PUREROCKY"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PUREROCKY"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PUREROCKY"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "PUSKVOREC"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "PUSKVOREC"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "PUSKVOREC"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "PUSKVOREC"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "PUSKVOREC"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "PUSKVOREC"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "PUSKVOREC"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "PUSKVOREC"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "PUSKVOREC"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "PUSKVOREC"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "PUSKVOREC"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "PUSKVOREC"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "PUSKVOREC"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PUSKVOREC"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PUSKVOREC"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PUSKVOREC"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PUSKVOREC"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PUSKVOREC"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PUSKVOREC"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PUSKVOREC"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PUSKVOREC"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PUSKVOREC"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PUSKVOREC"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "PUSKVOREC"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "QMENTAT 6"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "QMENTAT 6"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "QMENTAT 6"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "QMENTAT 6"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "QMENTAT 6"]
-[Result "1/2-1/2"]
-
-1. d4 d5 1/2-1/2
-
-[White "FASTGOMOKU 2014"]
-[Black "QMENTAT 6"]
-[Result "1/2-1/2"]
-
-1. d4 d5 1/2-1/2
-
-[White "FASTGOMOKU 2014"]
-[Black "QMENTAT 6"]
-[Result "1/2-1/2"]
-
-1. d4 d5 1/2-1/2
-
-[White "FASTGOMOKU 2014"]
-[Black "QMENTAT 6"]
-[Result "1/2-1/2"]
-
-1. d4 d5 1/2-1/2
-
-[White "FASTGOMOKU 2014"]
-[Black "QMENTAT 6"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "QMENTAT 6"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "QMENTAT 6"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "QMENTAT 6"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "QMENTAT 6"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "QMENTAT 6"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "QMENTAT 6"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "QMENTAT 6"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "QMENTAT 6"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "QMENTAT 6"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "QMENTAT 6"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "QMENTAT 6"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "QMENTAT 6"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "QMENTAT 6"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "QMENTAT 6"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "QMENTAT 6"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "SLOWRENJU 2016"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "SLOWRENJU 2016"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "SLOWRENJU 2016"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "SLOWRENJU 2016"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "SLOWRENJU 2016"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "SLOWRENJU 2016"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "SLOWRENJU 2016"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "SLOWRENJU 2016"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "SLOWRENJU 2016"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "SLOWRENJU 2016"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "SLOWRENJU 2016"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "SLOWRENJU 2016"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "STAHLFAUST"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "STAHLFAUST"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "STAHLFAUST"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "STAHLFAUST"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "STAHLFAUST"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "STAHLFAUST"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "STAHLFAUST"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "STAHLFAUST"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "STAHLFAUST"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "STAHLFAUST"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "STAHLFAUST"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "STAHLFAUST"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "STAHLFAUST"]
-[Black "FASTGOMOKU 2014"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "STAHLFAUST"]
-[Black "FASTGOMOKU 2014"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "STAHLFAUST"]
-[Black "FASTGOMOKU 2014"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "STAHLFAUST"]
-[Black "FASTGOMOKU 2014"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "STAHLFAUST"]
-[Black "FASTGOMOKU 2014"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "STAHLFAUST"]
-[Black "FASTGOMOKU 2014"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "STAHLFAUST"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "STAHLFAUST"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "STAHLFAUST"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "STAHLFAUST"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "STAHLFAUST"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "STAHLFAUST"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "SWINE 2015"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "SWINE 2015"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "SWINE 2015"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "SWINE 2015"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "SWINE 2015"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "SWINE 2015"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "SWINE 2015"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "SWINE 2015"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "SWINE 2015"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "SWINE 2015"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "SWINE 2015"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "SWINE 2015"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "TITO 2014"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "TITO 2014"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "TITO 2014"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "TITO 2014"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "TITO 2014"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "TITO 2014"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "TITO 2014"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "TITO 2014"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "TITO 2014"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "TITO 2014"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "TITO 2014"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "TITO 2014"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "VALKYRIE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "VALKYRIE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "VALKYRIE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "VALKYRIE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "VALKYRIE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "VALKYRIE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "VALKYRIE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "VALKYRIE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "VALKYRIE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "VALKYRIE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "VALKYRIE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "VALKYRIE"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "VALKYRIE"]
-[Black "FASTGOMOKU 2014"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "VALKYRIE"]
-[Black "FASTGOMOKU 2014"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "VALKYRIE"]
-[Black "FASTGOMOKU 2014"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "VALKYRIE"]
-[Black "FASTGOMOKU 2014"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "VALKYRIE"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "VALKYRIE"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "VALKYRIE"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "VALKYRIE"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "VALKYRIE"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "VALKYRIE"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "VALKYRIE"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "VALKYRIE"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "XOXO 2016"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "XOXO 2016"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "XOXO 2016"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "XOXO 2016"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "XOXO 2016"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "XOXO 2016"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "XOXO 2016"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "XOXO 2016"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "XOXO 2016"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "XOXO 2016"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "XOXO 2016"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "XOXO 2016"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "XOXO 2016"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "XOXO 2016"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "XOXO 2016"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "XOXO 2016"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "XOXO 2016"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "XOXO 2016"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "XOXO 2016"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "XOXO 2016"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "XOXO 2016"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "XOXO 2016"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "XOXO 2016"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "XOXO 2016"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "XOXO 2016"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "XOXO 2016"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "XOXO 2016"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "XOXO 2016"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "XOXO 2016"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "XOXO 2016"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "XOXO 2016"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "XOXO 2016"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "XOXO 2016"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "XOXO 2016"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "XOXO 2016"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "XOXO 2016"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "YIXIN 2016"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "YIXIN 2016"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "YIXIN 2016"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "YIXIN 2016"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "YIXIN 2016"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "YIXIN 2016"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "YIXIN 2016"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "YIXIN 2016"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "YIXIN 2016"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "YIXIN 2016"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "YIXIN 2016"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "YIXIN 2016"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "ZETOR 2016"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "FASTGOMOKU 2014"]
-[Black "ZETOR 2016"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "ZETOR 2016"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "ZETOR 2016"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "ZETOR 2016"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "ZETOR 2016"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "ZETOR 2016"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "ZETOR 2016"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "ZETOR 2016"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "ZETOR 2016"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "ZETOR 2016"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "FASTGOMOKU 2014"]
-[Black "ZETOR 2016"]
-[Result "0-1"]
-
-1. d4 d5 0-1
-
-[White "ZETOR 2016"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ZETOR 2016"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ZETOR 2016"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ZETOR 2016"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ZETOR 2016"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ZETOR 2016"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ZETOR 2016"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ZETOR 2016"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ZETOR 2016"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ZETOR 2016"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ZETOR 2016"]
-[Black "FASTGOMOKU 2014"]
-[Result "1-0"]
-
-1. d4 d5 1-0
-
-[White "ZETOR 2016"]
-[Black "FASTGOMOKU 2014"]
+[Black "FASTGOMOKU 2015"]
 [Result "1-0"]
 
 1. d4 d5 1-0
