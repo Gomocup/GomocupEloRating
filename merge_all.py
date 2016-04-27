@@ -5,7 +5,7 @@ if len(sys.argv) != 10:
     sys.exit(1)
     
 fout = open('output.html', 'w')
-fout.write('Here we compute the Elo ratings of all the gomoku AIs which have ever taken part in gomocup, based on the historical competition results (2000 - present). An AI would has a formal general rating only if there exist at least 100 game records for it (This threshold is 50 for freestyle ratings, 100 for fastgame ratings and 20 for standard ratings).\n')
+fout.write('Here we compute the Elo ratings of all the gomoku AIs which have ever taken part in gomocup, based on the historical competition results (2000 - present). An AI would has a formal general rating only if there exist at least 100 game records for it (This threshold is 50 for freestyle ratings, 100 for fastgame ratings and 20 for standard and renju ratings).\n')
 fout.write('\n')
 fout.write('<strong>The Gomoku Rating:\n')
 fout.write('\n')
