@@ -8,7 +8,7 @@ BETA	Tomas Kubes	CZE
 BRUTEFOR	Vasek Synacek	CZE
 CARBON	Michal Czardybon <i>et al.</i>	POL
 CHIS	Peiming Zheng	CHN
-CRUSHER	Nils Beckmann	DEU
+CRUSHER	Nils Beckmann	GER
 CURNPIS	Jan Curn	CZE
 DEEPBLUE	Vojta Havranek	CZE
 DEEPFIRE	Shuai Pan	CHN
@@ -52,7 +52,7 @@ RAPFI	Haobin Duan	CHN
 RENJUSOLVER	Xiangdong Wen	CHN
 SLOWRENJU	Tianyi Hao	CHN
 SPARKLE	Jaechan Lee	KOR
-STAHLFAUST	Marco Kunze <i>et al.</i>	DEU
+STAHLFAUST	Marco Kunze <i>et al.</i>	GER
 STARDUST	Debing Zhang <i>et al.</i>	CHN
 SWINE	Jiri Fontan	CZE
 TITO	Andrej Tokarjev	HUN

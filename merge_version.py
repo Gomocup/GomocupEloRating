@@ -177,7 +177,7 @@ for each in output:
     fout.write(str(author))
     fout.write('</TD>')
     fout.write('<TD>')
-    fout.write(str(place))
+    fout.write('<IMG src="/static/flags/' + str(place) + '.svg" style="width:1.6em;vertical-align:middle;" alt="flag"/> <span style="font-family:Consolas,monaco,monospace;">' + str(place) + '</span>')
     fout.write('</TD>')
     fout.write('</TR>\n')
 fout.write('</TBODY>\n')
