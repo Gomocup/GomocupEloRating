@@ -1,0 +1,68 @@
+AI	Jan Macura	CZE
+ALPHAGOMOKUGS	Gerry Sun	CHN
+ALPHAGOMOKUMK	Maciej Kozarzewski	POL
+AMOEBA	Galli Zoltan	HUN
+BENJAMIN	Benjamin Vejnar	CZE
+BESTMOVE	Xiangdong Wen	CHN
+BETA	Tomas Kubes	CZE
+BRUTEFOR	Vasek Synacek	CZE
+CARBON	Michal Czardybon <i>et al.</i>	POL
+CHIS	Peiming Zheng	CHN
+CRUSHER	Nils Beckmann	DEU
+CURNPIS	Jan Curn	CZE
+DEEPBLUE	Vojta Havranek	CZE
+DEEPFIRE	Shuai Pan	CHN
+DJALL	Ladislav Petr	CZE
+DOLORES	Tomas Kubes	CZE
+EGO	Yan Tang	CHN
+EMBRYO	Mira Fontan <i>et al.</i>	CZE
+EULRING	Junyi Bian	CHN
+FASTGOMOKU	Zheng Wang	CHN
+FIVEROW	Yaroslav	UKR
+GMOTOR	Roman Vancura	CZE
+GOFIVE	Xin Huang	CHN
+GORO	Victor Barykin	RUS
+HEWER	Tomas Kubes	CZE
+HFM	Csaba Jergler	HUN
+HIGHFIVE	Peter Karpov	RUS
+HRUBASILA	unknown	CZE
+IGNITOR	Jaechan Lee	KOR
+IMRO	Imrich Kovac	SVK
+JUDE	Tian Li	CHN
+KANEC	Jaroslav Babak	CZE
+KRYSA	Jiri Fontan	CZE
+LEONARDO	Milan Matlak	CZE
+LICHT	Xinhui Li	CHN
+LIGHTBLUE	Erwan Simon	FRA
+MONKEY	Letian Yuan	CHN
+MUSHROOM	Kai Chen	CHN
+NABAMOKU	Jiri Isa	CZE
+NOESIS	Mark Mammel	USA
+ONIX	Istvan Virag <i>et al.</i>	HUN
+PECUCHET	Vilem Walter	CZE
+PELA	Petr Lastovicka	CZE
+PENTAZEN	Yuliang Sun	CHN
+PISQ	Martin Petricek	CZE
+PROLOG	David Macek	CZE
+PUREGM	Paul Dwyer	JPN
+PUREROCKY	Paul Dwyer	JPN
+PUSKVOREC	Patrik Bezdicek	CZE
+QMENTAT	Vojta Havranek	CZE
+RAPFI	Haobin Duan	CHN
+RENJUSOLVER	Xiangdong Wen	CHN
+SLOWRENJU	Tianyi Hao	CHN
+SPARKLE	Jaechan Lee	KOR
+STAHLFAUST	Marco Kunze <i>et al.</i>	DEU
+STARDUST	Debing Zhang <i>et al.</i>	CHN
+SWINE	Jiri Fontan	CZE
+TITO	Andrej Tokarjev	HUN
+TRUNKAT	Jiri Trunkat	CZE
+VALKYRIE	Takashi Kokubun	JPN
+WHATATEAM	Fanny Tavart <i>et al.</i>	FRA
+WHOSE	Jiawei Huang	CHN
+WINE	Jinjie Wang	CHN
+WULIN	Chao Liu	CHN
+XL	Chengtao Chen <i>et al.</i>	CHN
+XOXO	Jakub Horak	CZE
+YIXIN	Kai Sun	CHN
+ZETOR	Tomas Chmela	CZE

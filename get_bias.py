@@ -26,7 +26,7 @@ while True:
         if not read_head:
             read_head = True
         else:
-            match = re.match('<TR><TH>(.*)</TH><TD>(.*)</TD><TD>(.*)</TD><TD>(.*)</TD><TD>(.*)</TD><TD>(.*)</TD><TD>(.*)%</TD><TD>(.*)</TD><TD>(.*)%</TD></TR>', reads)
+            match = re.match('<TR><TD>(.*)</TD><TD>(.*)</TD><TD>(.*)</TD><TD>(.*)</TD><TD>(.*)</TD><TD>(.*)</TD><TD>(.*)%</TD><TD>(.*)</TD><TD>(.*)%</TD><TD>(.*)</TD><TD>(.*)</TD></TR>', reads)
             name = match.group(2)
             intelo = string.atoi(match.group(3))
             compmap[name] = intelo
@@ -47,7 +47,7 @@ while True:
         if not read_head:
             read_head = True
         else:
-            match = re.match('<TR><TH>(.*)</TH><TD>(.*)</TD><TD>(.*)</TD><TD>(.*)</TD><TD>(.*)</TD><TD>(.*)</TD><TD>(.*)%</TD><TD>(.*)</TD><TD>(.*)%</TD></TR>', reads)
+            match = re.match('<TR><TD>(.*)</TD><TD>(.*)</TD><TD>(.*)</TD><TD>(.*)</TD><TD>(.*)</TD><TD>(.*)</TD><TD>(.*)%</TD><TD>(.*)</TD><TD>(.*)%</TD><TD>(.*)</TD><TD>(.*)</TD></TR>', reads)
             rank = match.group(1)
             name = match.group(2)
             elo = match.group(3)
@@ -58,11 +58,13 @@ while True:
             score = match.group(7)
             oppo = match.group(8)
             draws = match.group(9)
+            author = match.group(10)
+            place = match.group(11)
             if compmap.has_key(name):
                 bias = compmap[name] - intelo
                 sum_rating += bias
                 count_rating += 1
-            records.append((rank, name, elo, plus, minus, games, score, oppo, draws))
+            records.append((rank, name, elo, plus, minus, games, score, oppo, draws, author, place))
 fin.close()
 
 records_0 = []
@@ -78,7 +80,7 @@ while True:
         if not read_head:
             read_head = True
         else:
-            match = re.match('<TR><TH>(.*)</TH><TD>(.*)</TD><TD>(.*)</TD><TD>(.*)</TD><TD>(.*)</TD><TD>(.*)</TD><TD>(.*)%</TD><TD>(.*)</TD><TD>(.*)%</TD></TR>', reads)
+            match = re.match('<TR><TD>(.*)</TD><TD>(.*)</TD><TD>(.*)</TD><TD>(.*)</TD><TD>(.*)</TD><TD>(.*)</TD><TD>(.*)%</TD><TD>(.*)</TD><TD>(.*)%</TD><TD>(.*)</TD><TD>(.*)</TD></TR>', reads)
             rank = match.group(1)
             name = match.group(2)
             elo = match.group(3)
@@ -88,20 +90,22 @@ while True:
             score = match.group(7)
             oppo = match.group(8)
             draws = match.group(9)
-            records_0.append((rank, name, elo, plus, minus, games, score, oppo, draws))
+            author = match.group(10)
+            place = match.group(11)
+            records_0.append((rank, name, elo, plus, minus, games, score, oppo, draws, author, place))
 fin.close()
 
 bias = int(round(sum_rating * 1.0 / count_rating)) + base_bias
 
 fout = open(sys.argv[1], 'w')
 fout.write('<TABLE border=1>\n')
-fout.write('<TBODY align=center>\n')
-fout.write('<TR><TH>Rank</TH><TH>Name</TH><TH>Elo</TH><TH>+</TH><TH>-</TH><TH>games</TH><TH>score</TH><TH>oppo.</TH><TH>draws</TH></TR>\n')
+fout.write('<TBODY>\n')
+fout.write('<TR><TH>Rank</TH><TH>Name</TH><TH>Elo</TH><TH>+</TH><TH>-</TH><TH>games</TH><TH>score</TH><TH>oppo.</TH><TH>draws</TH><TH>Author</TH><TH>Place</TH></TR>\n')
 for each in records:
     fout.write('<TR>')
-    fout.write('<TH>')
+    fout.write('<TD>')
     fout.write(each[0])
-    fout.write('</TH>')
+    fout.write('</TD>')
     fout.write('<TD>')
     fout.write(each[1])
     fout.write('</TD>')
@@ -128,6 +132,12 @@ for each in records:
     fout.write('<TD>')
     fout.write(each[8])
     fout.write('%</TD>')
+    fout.write('<TD>')
+    fout.write(each[9])
+    fout.write('</TD>')
+    fout.write('<TD>')
+    fout.write(each[10])
+    fout.write('</TD>')
     fout.write('</TR>\n')
 fout.write('</TBODY>\n')
 fout.write('</TABLE>\n')
@@ -135,13 +145,13 @@ fout.close()
 
 fout = open(sys.argv[2], 'w')
 fout.write('<TABLE border=1>\n')
-fout.write('<TBODY align=center>\n')
-fout.write('<TR><TH>Rank</TH><TH>Name</TH><TH>Elo</TH><TH>+</TH><TH>-</TH><TH>games</TH><TH>score</TH><TH>oppo.</TH><TH>draws</TH></TR>\n')
+fout.write('<TBODY>\n')
+fout.write('<TR><TH>Rank</TH><TH>Name</TH><TH>Elo</TH><TH>+</TH><TH>-</TH><TH>games</TH><TH>score</TH><TH>oppo.</TH><TH>draws</TH><TH>Author</TH><TH>Place</TH></TR>\n')
 for each in records_0:
     fout.write('<TR>')
-    fout.write('<TH>')
+    fout.write('<TD>')
     fout.write(each[0])
-    fout.write('</TH>')
+    fout.write('</TD>')
     fout.write('<TD>')
     fout.write(each[1])
     fout.write('</TD>')
@@ -168,6 +178,12 @@ for each in records_0:
     fout.write('<TD>')
     fout.write(each[8])
     fout.write('%</TD>')
+    fout.write('<TD>')
+    fout.write(each[9])
+    fout.write('</TD>')
+    fout.write('<TD>')
+    fout.write(each[10])
+    fout.write('</TD>')
     fout.write('</TR>\n')
 fout.write('</TBODY>\n')
 fout.write('</TABLE>\n')
