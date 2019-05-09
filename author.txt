@@ -44,8 +44,8 @@ PELA	Petr Lastovicka	CZE
 PENTAZEN	Yuliang Sun	CHN
 PISQ	Martin Petricek	CZE
 PROLOG	David Macek	CZE
-PUREGM	Paul Dwyer	JPN
-PUREROCKY	Paul Dwyer	JPN
+PUREGM	Paul Dwyer	AUS
+PUREROCKY	Paul Dwyer	AUS
 PUSKVOREC	Patrik Bezdicek	CZE
 QMENTAT	Vojta Havranek	CZE
 RAPFI	Haobin Duan	CHN
