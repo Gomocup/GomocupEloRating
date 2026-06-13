@@ -215,6 +215,40 @@ def main():
         # Parse scores for each row
         rows = re.findall(r'<TR>(.*?)</TR>', table_html, re.DOTALL)
         
+        # Check for disqualified engines in this table and blacklist them
+        disqualified_in_group = []
+        for row in rows:
+            if "<TD><NUM>" not in row:
+                continue
+            cells = re.findall(r'<TD[^>]*>(.*?)</TD>', row)
+            if len(cells) < 4:
+                continue
+            row_engine_match = re.search(r'<NAME>([^<]+)</NAME>', cells[1])
+            if not row_engine_match:
+                continue
+            row_engine = row_engine_match.group(1).strip()
+            
+            # The 3rd cell (index 2) is Elo rating
+            elo = cells[2].strip()
+            if elo == '-' or elo == '':
+                disqualified_in_group.append(row_engine)
+                
+        if disqualified_in_group:
+            existing_blacklist = set()
+            if os.path.exists('blacklist.txt'):
+                with open('blacklist.txt', 'r') as f:
+                    for line in f:
+                        line = line.strip()
+                        if line:
+                            existing_blacklist.add(line)
+                            
+            with open('blacklist.txt', 'a') as f:
+                for engine in disqualified_in_group:
+                    entry = "%s\t%s_%s" % (engine, year_str, suffix)
+                    if entry not in existing_blacklist:
+                        f.write(entry + '\n')
+                        print "Automatically blacklisted disqualified engine: %s" % entry
+        
         new_lines = []
         
         # Parse matches
