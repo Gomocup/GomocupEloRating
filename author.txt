@@ -6,9 +6,9 @@ ALPHAGOMOKUMK	Maciej Kozarzewski	POL
 AMOEBA	Galli Zoltan	HUN
 ANGEL	Yuan Xie	CHN
 ARBILLO	Lorenzo Piazzo	ITA
-BARBAKAN	Janos Wolosz <i>et al.</i>	HUN
+BARBAKAN	Janos Wolosz and contributors of Katago	HUN
 BENJAMIN	Benjamin Vejnar	CZE
-BESTMOVE	Xiangdong Wen	CHN
+BESTMOVE	Xiangdong Wen	USA
 BETA	Tomas Kubes	CZE
 BRUTEFOR	Vasek Synacek	CZE
 CARBON	Michal Czardybon <i>et al.</i>	POL
@@ -23,14 +23,14 @@ DJALL	Ladislav Petr	CZE
 DOLORES	Tomas Kubes	CZE
 EGO	Yan Tang	CHN
 EGOZERO	Yan Tang	CHN
-EMBRYO	Mira Fontan <i>et al.</i>	CZE
+EMBRYO	Mira Fontan, Marco Costalba, Joona Kiiski, Gary Linscott, Tord Romstad	CZE
 EULRING	Junyi Bian	CHN
 FASTGOMOKU	Zheng Wang	CHN
-FIGRID	Bobo Wu	CHN
+FIGRID	Hogyung Choi, Bobo Wu	KOR
 FIVEROW	Yaroslav	UKR
 GMOTOR	Roman Vancura	CZE
 GOFIVE	Xin Huang	CHN
-GORO	Victor Barykin	RUS
+GORO	Viktor Barykin	RUS
 HEWER	Tomas Kubes	CZE
 HFM	Csaba Jergler	HUN
 HIGHFIVE	Peter Karpov	RUS
@@ -38,9 +38,9 @@ HRUBASILA	unknown	CZE
 IGNITOR	Jaechan Lee	KOR
 IMRO	Imrich Kovac	SVK
 JAX	Kailong Jiang	CHN
-JUDE	Tian Li	CHN
+JUDE	Tian	JPN
 KANEC	Jaroslav Babak	CZE
-KATAGOMO	Zhiyang Hang <i>et al.</i>	CHN
+KATAGOMO	Zhiyang Hang and contributors of Katago	CHN
 KRYSA	Jiri Fontan	CZE
 LAVENDER	Hoang Vinh Nguyen	VIE
 LEONARDO	Milan Matlak	CZE
@@ -53,24 +53,24 @@ MUSHROOM	Kai Chen	CHN
 NABAMOKU	Jiri Isa	CZE
 NOESIS	Mark Mammel	USA
 OLECHKA	Dima Suraev	RUS
-ONIX	Istvan Virag <i>et al.</i>	HUN
+ONIX	Istvan Virag, Janos Wagner	HUN
 PECUCHET	Vilem Walter	CZE
 PELA	Petr Lastovicka	CZE
 PENTAZEN	Yuliang Sun	CHN
 PISQ	Martin Petricek	CZE
 PROLOG	David Macek	CZE
-PUREGM	Paul Dwyer	AUS
-PUREROCKY	Paul Dwyer	AUS
+PUREGM	Paul Dwyer	JPN
+PUREROCKY	Paul Dwyer	JPN
 PUSKVOREC	Patrik Bezdicek	CZE
 QMENTAT	Vojta Havranek	CZE
 RAPFI	Haobin Duan	CHN
-RENJUSOLVER	Xiangdong Wen	CHN
+RENJUSOLVER	Xiangdong Wen	USA
 SKYZERO	Sky Cheng	CHN
 SLOWRENJU	Tianyi Hao	CHN
 SPARKLE	Jaechan Lee	KOR
 SQUIRREL	Xiyuan Liang	CHN
-STAHLFAUST	Marco Kunze <i>et al.</i>	GER
-STARDUST	Debing Zhang <i>et al.</i>	CHN
+STAHLFAUST	Marco Kunze, Sebastian Nowozin	GER
+STARDUST	Debing Zhang, Ming Zhang, Yumeng Wang	CHN
 STARPOINT	You Huang	CHN
 SWINE	Jiri Fontan	CZE
 TIANSHU	Guang Yang	CHN
@@ -78,9 +78,9 @@ TITO	Andrej Tokarjev	HUN
 TKGOMOKU	Tae Kim	USA
 TPTC	Bruno Yerro	FRA
 TRUNKAT	Jiri Trunkat	CZE
-VALKYRIE	Takashi Kokubun	JPN
+VALKYRIE	Kokubun Takashi	JPN
 VIBEFIVE	Lu-Chuan Liu	CHN
-WHATATEAM	Fanny Tavart <i>et al.</i>	FRA
+WHATATEAM	Fanny Tavart, Oscar Stefanini, Ronan Boiteau	FRA
 WHOSE	Jiawei Huang	CHN
 WINE	Jinjie Wang	CHN
 WULIN	Chao Liu	CHN
