@@ -12,6 +12,9 @@ BESTMOVE	Xiangdong Wen	USA
 BETA	Tomas Kubes	CZE
 BRUTEFOR	Vasek Synacek	CZE
 CARBON	Michal Czardybon	POL
+CARBON HGARDEN2005	Bingqing Han <i>et al.</i>	CHN
+CARBON HGARDEN2006	Bingqing Han <i>et al.</i>	CHN
+CARBON HGARDEN2007	Bingqing Han <i>et al.</i>	CHN
 CHIS	Peiming Zheng	CHN
 CHLORIS	Nelly Semenova	RUS
 CRUSHER	Nils Beckmann	GER

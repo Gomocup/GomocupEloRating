@@ -152,6 +152,7 @@ for each in output:
     fout.write('<TD>')
     name = each[posN:posE].strip()
     raw_name = name.split(' ')[0]
+    orig_name = name
     if name in display_name:
         name = display_name[name]
     fout.write(name)
@@ -170,7 +171,9 @@ for each in output:
             fout.write(str(oppo))
         fout.write('</TD>')
         oind += 1
-    if raw_name in author_list:
+    if orig_name in author_list:
+        author, place = author_list[orig_name]
+    elif raw_name in author_list:
         author, place = author_list[raw_name]
     else:
         author, place = '', ''
