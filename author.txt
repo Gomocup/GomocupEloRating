@@ -23,7 +23,7 @@ DJALL	Ladislav Petr	CZE
 DOLORES	Tomas Kubes	CZE
 EGO	Yan Tang	CHN
 EGOZERO	Yan Tang	CHN
-EMBRYO	Mira Fontan, Marco Costalba, Joona Kiiski, Gary Linscott, Tord Romstad	CZE
+EMBRYO	Mira Fontan <i>et al.</i>	CZE
 EULRING	Junyi Bian	CHN
 FASTGOMOKU	Zheng Wang	CHN
 FIGRID	Hogyung Choi, Bobo Wu	KOR
@@ -70,7 +70,7 @@ SLOWRENJU	Tianyi Hao	CHN
 SPARKLE	Jaechan Lee	KOR
 SQUIRREL	Xiyuan Liang	CHN
 STAHLFAUST	Marco Kunze, Sebastian Nowozin	GER
-STARDUST	Debing Zhang, Ming Zhang, Yumeng Wang	CHN
+STARDUST	Debing Zhang <i>et al.</i>	CHN
 STARPOINT	You Huang	CHN
 SWINE	Jiri Fontan	CZE
 TIANSHU	Guang Yang	CHN
@@ -80,7 +80,7 @@ TPTC	Bruno Yerro	FRA
 TRUNKAT	Jiri Trunkat	CZE
 VALKYRIE	Kokubun Takashi	JPN
 VIBEFIVE	Lu-Chuan Liu	CHN
-WHATATEAM	Fanny Tavart, Oscar Stefanini, Ronan Boiteau	FRA
+WHATATEAM	Fanny Tavart <i>et al.</i>	FRA
 WHOSE	Jiawei Huang	CHN
 WINE	Jinjie Wang	CHN
 WULIN	Chao Liu	CHN
