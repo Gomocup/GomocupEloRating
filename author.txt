@@ -11,7 +11,7 @@ BENJAMIN	Benjamin Vejnar	CZE
 BESTMOVE	Xiangdong Wen	USA
 BETA	Tomas Kubes	CZE
 BRUTEFOR	Vasek Synacek	CZE
-CARBON	Michal Czardybon <i>et al.</i>	POL
+CARBON	Michal Czardybon	POL
 CHIS	Peiming Zheng	CHN
 CHLORIS	Nelly Semenova	RUS
 CRUSHER	Nils Beckmann	GER
