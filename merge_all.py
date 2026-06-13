@@ -21,10 +21,11 @@ function toggleVersions(btn, classId) {
     for (var i = 0; i < rows.length; i++) {
         rows[i].style.display = isHidden ? '' : 'none';
     }
-    btn.innerHTML = isHidden ? '▼' : '▶';
+    btn.innerHTML = isHidden ? '-' : '+';
 }
 </script>
 ''')
+fout.write('\n')
 
 # 1. Introduction Text
 # Construct list of conditions dynamically based on active rules
@@ -92,22 +93,21 @@ for section in rules_data.get('sections', []):
                 if len(cells) == 11:
                     data_rows.append(cells)
                     
-        # Group engines by their family name (first token of name)
-        families_order = []
-        parents = {}
-        children = {}
+        # Group unranked rows under the preceding ranked row
+        grouped_data = [] # List of tuples: (parent_cells, list_of_child_cells)
+        current_parent = None
+        current_children = []
         for cells in data_rows:
             rank = cells[0].strip()
-            name = cells[1].strip()
-            family = name.split(' ')[0]
             if rank != "":
-                families_order.append(family)
-                parents[family] = cells
-                children[family] = []
+                if current_parent is not None:
+                    grouped_data.append((current_parent, current_children))
+                current_parent = cells
+                current_children = []
             else:
-                if family not in children:
-                    children[family] = []
-                children[family].append(cells)
+                current_children.append(cells)
+        if current_parent is not None:
+            grouped_data.append((current_parent, current_children))
                 
         # Write the new consolidated collapsible table
         fout.write('<table border=1>\n')
@@ -115,34 +115,32 @@ for section in rules_data.get('sections', []):
         fout.write('<tr><th>Rank</th><th>Name</th><th>Elo</th><th>+</th><th>-</th><th>games</th><th>score</th><th>oppo.</th><th>draws</th><th>Author</th><th>Place</th></tr>\n')
         
         counter = 0
-        for family in families_order:
-            cells_parent = parents[family]
-            list_children = children[family]
-            has_children = len(list_children) > 0
+        for parent_cells, child_rows in grouped_data:
+            has_children = len(child_rows) > 0
             family_id = "%s_%d" % (rule_id, counter)
             counter += 1
             
-            parent_rank = cells_parent[0]
-            parent_name = cells_parent[1]
+            parent_rank = parent_cells[0]
+            parent_name = parent_cells[1]
             
             fout.write('<tr>\n')
             if has_children:
-                fout.write('  <td>%s <span style="cursor:pointer;background:transparent;background-color:transparent;border:none;outline:none;display:inline-block;" onclick="toggleVersions(this, \'%s\')">▶</span></td>\n' % (parent_rank, family_id))
+                fout.write('  <td>%s <span style="cursor:pointer;background:transparent;background-color:transparent;border:none;outline:none;display:inline-block;font-weight:bold;margin-left:5px;" onclick="toggleVersions(this, \'%s\')">+</span></td>\n' % (parent_rank, family_id))
             else:
                 fout.write('  <td>%s</td>\n' % parent_rank)
             fout.write('  <td>%s</td>\n' % parent_name)
                 
             for j in range(2, 11):
-                fout.write('  <td>%s</td>\n' % cells_parent[j])
+                fout.write('  <td>%s</td>\n' % parent_cells[j])
             fout.write('</tr>\n')
             
-            for cells_child in list_children:
-                child_name = cells_child[1]
+            for child_cells in child_rows:
+                child_name = child_cells[1]
                 fout.write('<tr class="child-%s" style="display: none;">\n' % family_id)
                 fout.write('  <td></td>\n')
                 fout.write('  <td>&nbsp;&nbsp;&nbsp;&nbsp;%s</td>\n' % child_name)
                 for j in range(2, 11):
-                    fout.write('  <td>%s</td>\n' % cells_child[j])
+                    fout.write('  <td>%s</td>\n' % child_cells[j])
                 fout.write('</tr>\n')
                 
         fout.write('</tbody>\n')
