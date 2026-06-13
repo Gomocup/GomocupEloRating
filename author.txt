@@ -42,7 +42,7 @@ JUDE	Tian Li	CHN
 KANEC	Jaroslav Babak	CZE
 KATAGOMO	Zhiyang Hang <i>et al.</i>	CHN
 KRYSA	Jiri Fontan	CZE
-LAVENDER	Hoang Vinh Nguyen	VNM
+LAVENDER	Hoang Vinh Nguyen	VIE
 LEONARDO	Milan Matlak	CZE
 LICHT	Xinhui Li	CHN
 LIGHTBLUE	Erwan Simon	FRA
