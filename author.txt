@@ -1,23 +1,32 @@
 AI	Jan Macura	CZE
+AIBB	Cuihong Jiang	CHN
+ALPHAGOMOKU.MK	Maciej Kozarzewski	POL
 ALPHAGOMOKUGS	Gerry Sun	CHN
 ALPHAGOMOKUMK	Maciej Kozarzewski	POL
 AMOEBA	Galli Zoltan	HUN
+ANGEL	Yuan Xie	CHN
+ARBILLO	Lorenzo Piazzo	ITA
+BARBAKAN	Janos Wolosz <i>et al.</i>	HUN
 BENJAMIN	Benjamin Vejnar	CZE
 BESTMOVE	Xiangdong Wen	CHN
 BETA	Tomas Kubes	CZE
 BRUTEFOR	Vasek Synacek	CZE
 CARBON	Michal Czardybon <i>et al.</i>	POL
 CHIS	Peiming Zheng	CHN
-CRUSHER	Nils Beckmann	DEU
+CHLORIS	Nelly Semenova	RUS
+CRUSHER	Nils Beckmann	GER
 CURNPIS	Jan Curn	CZE
+DDQKCONQUER	Shunyi Sui	CHN
 DEEPBLUE	Vojta Havranek	CZE
 DEEPFIRE	Shuai Pan	CHN
 DJALL	Ladislav Petr	CZE
 DOLORES	Tomas Kubes	CZE
 EGO	Yan Tang	CHN
+EGOZERO	Yan Tang	CHN
 EMBRYO	Mira Fontan <i>et al.</i>	CZE
 EULRING	Junyi Bian	CHN
 FASTGOMOKU	Zheng Wang	CHN
+FIGRID	Bobo Wu	CHN
 FIVEROW	Yaroslav	UKR
 GMOTOR	Roman Vancura	CZE
 GOFIVE	Xin Huang	CHN
@@ -28,16 +37,22 @@ HIGHFIVE	Peter Karpov	RUS
 HRUBASILA	unknown	CZE
 IGNITOR	Jaechan Lee	KOR
 IMRO	Imrich Kovac	SVK
+JAX	Kailong Jiang	CHN
 JUDE	Tian Li	CHN
 KANEC	Jaroslav Babak	CZE
+KATAGOMO	Zhiyang Hang <i>et al.</i>	CHN
 KRYSA	Jiri Fontan	CZE
+LAVENDER	Hoang Vinh Nguyen	VNM
 LEONARDO	Milan Matlak	CZE
 LICHT	Xinhui Li	CHN
 LIGHTBLUE	Erwan Simon	FRA
+MINTAKA	JeongHyeon Choi	KOR
+MONAS	Guanwu Liu	CHN
 MONKEY	Letian Yuan	CHN
 MUSHROOM	Kai Chen	CHN
 NABAMOKU	Jiri Isa	CZE
 NOESIS	Mark Mammel	USA
+OLECHKA	Dima Suraev	RUS
 ONIX	Istvan Virag <i>et al.</i>	HUN
 PECUCHET	Vilem Walter	CZE
 PELA	Petr Lastovicka	CZE
@@ -50,14 +65,21 @@ PUSKVOREC	Patrik Bezdicek	CZE
 QMENTAT	Vojta Havranek	CZE
 RAPFI	Haobin Duan	CHN
 RENJUSOLVER	Xiangdong Wen	CHN
+SKYZERO	Sky Cheng	CHN
 SLOWRENJU	Tianyi Hao	CHN
 SPARKLE	Jaechan Lee	KOR
-STAHLFAUST	Marco Kunze <i>et al.</i>	DEU
+SQUIRREL	Xiyuan Liang	CHN
+STAHLFAUST	Marco Kunze <i>et al.</i>	GER
 STARDUST	Debing Zhang <i>et al.</i>	CHN
+STARPOINT	You Huang	CHN
 SWINE	Jiri Fontan	CZE
+TIANSHU	Guang Yang	CHN
 TITO	Andrej Tokarjev	HUN
+TKGOMOKU	Tae Kim	USA
+TPTC	Bruno Yerro	FRA
 TRUNKAT	Jiri Trunkat	CZE
 VALKYRIE	Takashi Kokubun	JPN
+VIBEFIVE	Lu-Chuan Liu	CHN
 WHATATEAM	Fanny Tavart <i>et al.</i>	FRA
 WHOSE	Jiawei Huang	CHN
 WINE	Jinjie Wang	CHN
@@ -66,3 +88,4 @@ XL	Chengtao Chen <i>et al.</i>	CHN
 XOXO	Jakub Horak	CZE
 YIXIN	Kai Sun	CHN
 ZETOR	Tomas Chmela	CZE
+ZHOUMIAN	Shangren Shang	CHN

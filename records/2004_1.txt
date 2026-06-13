@@ -1,16 +1,105 @@
--	SVINE2	GORO	BESTMOVE	HEWER2	TRUNK	NOESIS	PUSKVOR	KRYSA	QMENT5	PISQ7	PISQ5	LEON	BEN	AI1000	CURNPIS
-SVINE2	-	3 : 1	2 : 2	4 : 0	4 : 0	4 : 0	4 : 0	4 : 0	4 : 0	4 : 0	4 : 0	4 : 0	4 : 0	4 : 0	4 : 0
-GORO	1 : 3	-	2 : 2	4 : 0	4 : 0	4 : 0	4 : 0	4 : 0	4 : 0	4 : 0	4 : 0	4 : 0	4 : 0	4 : 0	4 : 0
-BESTMOVE	2 : 2	2 : 2	-	4 : 0	4 : 0	2 : 2	4 : 0	4 : 0	3 : 1	4 : 0	4 : 0	4 : 0	2 : 2	4 : 0	4 : 0
-HEWER2	0 : 4	0 : 4	0 : 4	-	4 : 0	1 : 3	4 : 0	4 : 0	3 : 1	3 : 1	4 : 0	4 : 0	4 : 0	4 : 0	2 : 2
-TRUNKAT	0 : 4	0 : 4	0 : 4	0 : 4	-	2 : 2	4 : 0	1 : 3	3 : 1	4 : 0	4 : 0	3 : 1	3 : 1	4 : 0	4 : 0
-NOESIS	0 : 4	0 : 4	2 : 2	3 : 1	2 : 2	-	2 : 2	1 : 3	2 : 1	2 : 2	2 : 2	4 : 0	4 : 0	4 : 0	4 : 0
-PUSKVOREC	0 : 4	0 : 4	0 : 4	0 : 4	0 : 4	2 : 2	-	3 : 1	3 : 1	4 : 0	4 : 0	2 : 2	3 : 1	4 : 0	4 : 0
-KRYSA	0 : 4	0 : 4	0 : 4	0 : 4	3 : 1	3 : 1	1 : 3	-	1 : 3	2 : 2	4 : 0	4 : 0	4 : 0	4 : 0	4 : 0
-QMENTAT	0 : 4	0 : 4	1 : 3	1 : 3	1 : 3	1 : 2	1 : 3	3 : 1	-	4 : 0	3 : 1	4 : 0	1 : 0	4 : 0	4 : 0
-PISQ7	0 : 4	0 : 4	0 : 4	1 : 3	0 : 4	2 : 2	0 : 4	2 : 2	0 : 4	-	3 : 1	2 : 2	3 : 1	4 : 0	3 : 1
-PISQ5	0 : 4	0 : 4	0 : 4	0 : 4	0 : 4	2 : 2	0 : 4	0 : 4	1 : 3	1 : 3	-	3 : 1	4 : 0	3 : 1	4 : 0
-LEONARDO	0 : 4	0 : 4	0 : 4	0 : 4	1 : 3	0 : 4	2 : 2	0 : 4	0 : 4	2 : 2	1 : 3	-	4 : 0	2 : 2	4 : 0
-BENJAMIN	0 : 4	0 : 4	2 : 2	0 : 4	1 : 3	0 : 4	1 : 3	0 : 4	0 : 1	1 : 3	0 : 4	0 : 4	-	4 : 0	1 : 0
-AI1000	0 : 4	0 : 4	0 : 4	0 : 4	0 : 4	0 : 4	0 : 4	0 : 4	0 : 4	0 : 4	1 : 3	2 : 2	0 : 4	-	3 : 1
-CURNPIS	0 : 4	0 : 4	0 : 4	2 : 2	0 : 4	0 : 4	0 : 4	0 : 4	0 : 4	1 : 3	0 : 4	0 : 4	0 : 1	1 : 3	-
+SVINE2 - GORO: 3 : 1
+SVINE2 - BESTMOVE: 2 : 2
+SVINE2 - HEWER2: 4 : 0
+SVINE2 - TRUNK: 4 : 0
+SVINE2 - NOESIS: 4 : 0
+SVINE2 - PUSKVOR: 4 : 0
+SVINE2 - KRYSA: 4 : 0
+SVINE2 - QMENT5: 4 : 0
+SVINE2 - PISQ7: 4 : 0
+SVINE2 - PISQ5: 4 : 0
+SVINE2 - LEON: 4 : 0
+SVINE2 - BEN: 4 : 0
+SVINE2 - AI1000: 4 : 0
+SVINE2 - CURNPIS: 4 : 0
+GORO - BESTMOVE: 2 : 2
+GORO - HEWER2: 4 : 0
+GORO - TRUNK: 4 : 0
+GORO - NOESIS: 4 : 0
+GORO - PUSKVOR: 4 : 0
+GORO - KRYSA: 4 : 0
+GORO - QMENT5: 4 : 0
+GORO - PISQ7: 4 : 0
+GORO - PISQ5: 4 : 0
+GORO - LEON: 4 : 0
+GORO - BEN: 4 : 0
+GORO - AI1000: 4 : 0
+GORO - CURNPIS: 4 : 0
+BESTMOVE - HEWER2: 4 : 0
+BESTMOVE - TRUNK: 4 : 0
+BESTMOVE - NOESIS: 2 : 2
+BESTMOVE - PUSKVOR: 4 : 0
+BESTMOVE - KRYSA: 4 : 0
+BESTMOVE - QMENT5: 3 : 1
+BESTMOVE - PISQ7: 4 : 0
+BESTMOVE - PISQ5: 4 : 0
+BESTMOVE - LEON: 4 : 0
+BESTMOVE - BEN: 2 : 2
+BESTMOVE - AI1000: 4 : 0
+BESTMOVE - CURNPIS: 4 : 0
+HEWER2 - TRUNK: 4 : 0
+HEWER2 - NOESIS: 1 : 3
+HEWER2 - PUSKVOR: 4 : 0
+HEWER2 - KRYSA: 4 : 0
+HEWER2 - QMENT5: 3 : 1
+HEWER2 - PISQ7: 3 : 1
+HEWER2 - PISQ5: 4 : 0
+HEWER2 - LEON: 4 : 0
+HEWER2 - BEN: 4 : 0
+HEWER2 - AI1000: 4 : 0
+HEWER2 - CURNPIS: 2 : 2
+TRUNK - NOESIS: 2 : 2
+TRUNK - PUSKVOR: 4 : 0
+TRUNK - KRYSA: 1 : 3
+TRUNK - QMENT5: 3 : 1
+TRUNK - PISQ7: 4 : 0
+TRUNK - PISQ5: 4 : 0
+TRUNK - LEON: 3 : 1
+TRUNK - BEN: 3 : 1
+TRUNK - AI1000: 4 : 0
+TRUNK - CURNPIS: 4 : 0
+NOESIS - PUSKVOR: 2 : 2
+NOESIS - KRYSA: 1 : 3
+NOESIS - QMENT5: 2 : 1
+NOESIS - PISQ7: 2 : 2
+NOESIS - PISQ5: 2 : 2
+NOESIS - LEON: 4 : 0
+NOESIS - BEN: 4 : 0
+NOESIS - AI1000: 4 : 0
+NOESIS - CURNPIS: 4 : 0
+PUSKVOR - KRYSA: 3 : 1
+PUSKVOR - QMENT5: 3 : 1
+PUSKVOR - PISQ7: 4 : 0
+PUSKVOR - PISQ5: 4 : 0
+PUSKVOR - LEON: 2 : 2
+PUSKVOR - BEN: 3 : 1
+PUSKVOR - AI1000: 4 : 0
+PUSKVOR - CURNPIS: 4 : 0
+KRYSA - QMENT5: 1 : 3
+KRYSA - PISQ7: 2 : 2
+KRYSA - PISQ5: 4 : 0
+KRYSA - LEON: 4 : 0
+KRYSA - BEN: 4 : 0
+KRYSA - AI1000: 4 : 0
+KRYSA - CURNPIS: 4 : 0
+QMENT5 - PISQ7: 4 : 0
+QMENT5 - PISQ5: 3 : 1
+QMENT5 - LEON: 4 : 0
+QMENT5 - BEN: 1 : 0
+QMENT5 - AI1000: 4 : 0
+QMENT5 - CURNPIS: 4 : 0
+PISQ7 - PISQ5: 3 : 1
+PISQ7 - LEON: 2 : 2
+PISQ7 - BEN: 3 : 1
+PISQ7 - AI1000: 4 : 0
+PISQ7 - CURNPIS: 3 : 1
+PISQ5 - LEON: 3 : 1
+PISQ5 - BEN: 4 : 0
+PISQ5 - AI1000: 3 : 1
+PISQ5 - CURNPIS: 4 : 0
+LEON - BEN: 4 : 0
+LEON - AI1000: 2 : 2
+LEON - CURNPIS: 4 : 0
+BEN - AI1000: 4 : 0
+BEN - CURNPIS: 1 : 0
+AI1000 - CURNPIS: 3 : 1

@@ -57,6 +57,7 @@ for engine, years in engine_year_map.iteritems():
     for year in years:
         all_engines.add(engine)
         if year >= max_year - 4:
+            print (year, engine)
             active_engines.add(engine)
             active_names.add(name)
 for engine in all_engines:
@@ -177,7 +178,7 @@ for each in output:
     fout.write(str(author))
     fout.write('</TD>')
     fout.write('<TD>')
-    fout.write(str(place))
+    fout.write('<IMG src="/static/flags/' + str(place) + '.svg" style="width:1.6em;vertical-align:middle;" alt="flag"/> <span style="font-family:Consolas,monaco,monospace;">' + str(place) + '</span>')
     fout.write('</TD>')
     fout.write('</TR>\n')
 fout.write('</TBODY>\n')

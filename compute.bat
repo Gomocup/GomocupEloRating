@@ -1,5 +1,5 @@
-python merge.py %1
+py -2 merge.py %1
 txt2pgn.exe
 bayeselo.exe
-python merge_version.py %1 %2 1
-python merge_version.py %1 %2 0
+py -2 merge_version.py %1 %2 1
+py -2 merge_version.py %1 %2 0

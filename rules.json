@@ -1,0 +1,61 @@
+{
+  "sections": [
+    {
+      "name": "The Freestyle Rating",
+      "rules": [
+        {
+          "id": "freestyle20",
+          "display_name": "The Freestyle20 Rating",
+          "suffixes": ["1", "2", "3", "4", "5"],
+          "min_games": 50
+        },
+        {
+          "id": "fastgame",
+          "display_name": "The Fastgame Rating",
+          "suffixes": ["f"],
+          "min_games": 100
+        },
+        {
+          "id": "freestyle15",
+          "display_name": "The Freestyle15 Rating",
+          "suffixes": ["o", "p"],
+          "min_games": 50
+        }
+      ]
+    },
+    {
+      "name": "The Standard Rating",
+      "rules": [
+        {
+          "id": "standard",
+          "display_name": "The Standard Rating",
+          "suffixes": ["s", "t"],
+          "min_games": 20
+        }
+      ]
+    },
+    {
+      "name": "The Renju Rating",
+      "rules": [
+        {
+          "id": "renju",
+          "display_name": "The Renju Rating",
+          "suffixes": ["r"],
+          "min_games": 20,
+          "base_bias": 384
+        }
+      ]
+    },
+    {
+      "name": "The Caro Rating",
+      "rules": [
+        {
+          "id": "caro",
+          "display_name": "The Caro Rating",
+          "suffixes": ["c"],
+          "min_games": 20
+        }
+      ]
+    }
+  ]
+}
