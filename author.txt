@@ -63,7 +63,7 @@ PUREGM	Paul Dwyer	JPN
 PUREROCKY	Paul Dwyer	JPN
 PUSKVOREC	Patrik Bezdicek	CZE
 QMENTAT	Vojta Havranek	CZE
-RAPFI	Haobin Duan	CHN
+RAPFI	Haobin Duan <i>et al.</i>	CHN
 RENJUSOLVER	Xiangdong Wen	USA
 SKYZERO	Sky Cheng	CHN
 SLOWRENJU	Tianyi Hao	CHN
@@ -84,7 +84,7 @@ WHATATEAM	Fanny Tavart <i>et al.</i>	FRA
 WHOSE	Jiawei Huang	CHN
 WINE	Jinjie Wang	CHN
 WULIN	Chao Liu	CHN
-XL	Chengtao Chen <i>et al.</i>	CHN
+XL	Chengtao Chen	CHN
 XOXO	Jakub Horak	CZE
 YIXIN	Kai Sun	CHN
 ZETOR	Tomas Chmela	CZE
