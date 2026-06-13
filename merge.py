@@ -39,10 +39,10 @@ if len(sys.argv) >= 2:
                 if found:
                     break
             if not found:
-                print 'Rule ID %s not found in rules.json!' % filter
+                print('Rule ID %s not found in rules.json!' % filter)
                 sys.exit(1)
     except Exception as e:
-        print 'Error reading rules.json:', e
+        print('Error reading rules.json:', e)
         sys.exit(1)
 
 nickmap = {}
@@ -56,9 +56,9 @@ while True:
         break
     rec = re.split('\s+', reads)
     if len(rec) == 3:
-        nickmap[str.upper(rec[0])] = (rec[1], rec[2])
+        nickmap[rec[0].upper()] = (rec[1], rec[2])
     else:
-        nickmap[str.upper(rec[0])] = (rec[1], None)
+        nickmap[rec[0].upper()] = (rec[1], None)
 fnick.close()
 
 blacklist = {}
@@ -86,16 +86,16 @@ allengines = {}
 engine_year_map = {}
 
 def resolve_name(name, file_base):
-    name = str.upper(name)
-    if blacklist.has_key(name + '\x01' + file_base):
+    name = name.upper()
+    if (name + '\x01' + file_base) in blacklist:
         return 'BLACKLIST'
-    elif nickmap.has_key(name + file_base.split('_')[0]):
+    elif (name + file_base.split('_')[0]) in nickmap:
         mapped = nickmap[name + file_base.split('_')[0]]
         if mapped[1]:
             return mapped[0] + ' ' + mapped[1]
         else:
             return mapped[0]
-    elif nickmap.has_key(name):
+    elif name in nickmap:
         mapped = nickmap[name]
         if mapped[1]:
             return mapped[0] + ' ' + mapped[1]
@@ -168,7 +168,7 @@ for root, dirs, files in os.walk(path):
                 engines = (name_b, name_a)
                 scores = (score_b, score_a)
                 
-            if not curscoremap.has_key(engines):
+            if engines not in curscoremap:
                 curscoremap[engines] = [0, 0]
             curscoremap[engines] = [
                 curscoremap[engines][0] + scores[0],
@@ -177,8 +177,8 @@ for root, dirs, files in os.walk(path):
             if scores[0] + scores[1] > maxscore:
                 maxscore = scores[0] + scores[1]
                 
-        for engines, scores in curscoremap.iteritems():
-            if not scoremap.has_key(engines):
+        for engines, scores in curscoremap.items():
+            if engines not in scoremap:
                 scoremap[engines] = [0, 0, 0]
             if scores[0] + scores[1] > 0:
                 scoremap[engines] = [
@@ -200,7 +200,7 @@ for each in allengines:
 fname.close()
 
 fout = open('score.txt', 'w')
-scoremap = sorted(scoremap.iteritems())
+scoremap = sorted(scoremap.items())
 for each in scoremap:
     engines = each[0]
     scores = each[1]
@@ -211,7 +211,7 @@ for each in scoremap:
                    engines[1] + '\"' + '\n')
 fout.close()
 
-sorted_engine_year_map = sorted(engine_year_map.iteritems(),
+sorted_engine_year_map = sorted(engine_year_map.items(),
                                 key=lambda x: x[0])
 if not filter:
     fname = 'engine_year_map'

@@ -8,9 +8,9 @@ base_bias = 0
 if len(sys.argv) == 4:
     pass
 elif len(sys.argv) == 5:
-    base_bias = string.atoi(sys.argv[4])
+    base_bias = int(sys.argv[4])
 else:
-    print 'Parameter error!'
+    print('Parameter error!')
     sys.exit(1)
 
 compmap = {}    
@@ -28,7 +28,7 @@ while True:
         else:
             match = re.match('<TR><TD>(.*)</TD><TD>(.*)</TD><TD>(.*)</TD><TD>(.*)</TD><TD>(.*)</TD><TD>(.*)</TD><TD>(.*)%</TD><TD>(.*)</TD><TD>(.*)%</TD><TD>(.*)</TD><TD>(.*)</TD></TR>', reads)
             name = match.group(2)
-            intelo = string.atoi(match.group(3))
+            intelo = int(match.group(3))
             compmap[name] = intelo
 fin.close()
 
@@ -51,7 +51,7 @@ while True:
             rank = match.group(1)
             name = match.group(2)
             elo = match.group(3)
-            intelo = string.atoi(elo)
+            intelo = int(elo)
             plus = match.group(4)
             minus = match.group(5)
             games = match.group(6)
@@ -60,7 +60,7 @@ while True:
             draws = match.group(9)
             author = match.group(10)
             place = match.group(11)
-            if compmap.has_key(name):
+            if name in compmap:
                 bias = compmap[name] - intelo
                 sum_rating += bias
                 count_rating += 1
@@ -109,7 +109,7 @@ for each in records:
     fout.write('<TD>')
     fout.write(each[1])
     fout.write('</TD>')
-    rating = string.atoi(each[2]) + bias
+    rating = int(each[2]) + bias
     fout.write('<TD>')
     fout.write(str(rating))
     fout.write('</TD>')
@@ -125,7 +125,7 @@ for each in records:
     fout.write('<TD>')
     fout.write(each[6])
     fout.write('%</TD>')
-    oppo = string.atoi(each[7]) + bias
+    oppo = int(each[7]) + bias
     fout.write('<TD>')
     fout.write(str(oppo))
     fout.write('</TD>')
@@ -155,7 +155,7 @@ for each in records_0:
     fout.write('<TD>')
     fout.write(each[1])
     fout.write('</TD>')
-    rating = string.atoi(each[2]) + bias
+    rating = int(each[2]) + bias
     fout.write('<TD>')
     fout.write(str(rating))
     fout.write('</TD>')
@@ -171,7 +171,7 @@ for each in records_0:
     fout.write('<TD>')
     fout.write(each[6])
     fout.write('%</TD>')
-    oppo = string.atoi(each[7]) + bias
+    oppo = int(each[7]) + bias
     fout.write('<TD>')
     fout.write(str(oppo))
     fout.write('</TD>')

@@ -4,10 +4,7 @@ import os
 import re
 import json
 
-try:
-    import urllib2 as urllib
-except ImportError:
-    import urllib.request as urllib
+import urllib.request as urllib
 
 # Base Gomocup URL
 BASE_URL = "https://gomocup.org"
@@ -128,8 +125,8 @@ def map_key_to_suffix(group_key, rules):
 
 def main():
     if len(sys.argv) < 2:
-        print "Usage: py -2 scrape_results.py <results_page_url>"
-        print "Example: py -2 scrape_results.py https://gomocup.org/results/gomocup-result-2023/"
+        print("Usage: py -3 scrape_results.py <results_page_url>")
+        print("Example: py -3 scrape_results.py https://gomocup.org/results/gomocup-result-2023/")
         sys.exit(1)
         
     main_url = sys.argv[1].strip()
@@ -141,12 +138,12 @@ def main():
     if not match_year:
         match_year = re.search(r'/(\d{4})$', main_url)
     if not match_year:
-        print "Error: Cannot extract year from URL: %s" % main_url
-        print "The URL must contain a 4-digit year (e.g. 'gomocup-result-2023' or '2024')."
+        print("Error: Cannot extract year from URL: %s" % main_url)
+        print("The URL must contain a 4-digit year (e.g. 'gomocup-result-2023' or '2024').")
         sys.exit(1)
         
     year_str = match_year.group(1)
-    print "Starting Gomocup %s results scraper and parser..." % year_str
+    print("Starting Gomocup %s results scraper and parser..." % year_str)
     
     # 1. Load configuration and dictionaries
     nickmap = load_nickmap()
@@ -163,24 +160,24 @@ def main():
                     for rule in section.get('rules', []):
                         rules.append(rule)
         except Exception as e:
-            print "Warning: Error reading rules.json: %s" % e
+            print("Warning: Error reading rules.json: %s" % e)
             
     # 2. Fetch main results page
-    print "Fetching main results page: %s" % main_url
+    print("Fetching main results page: %s" % main_url)
     try:
-        main_html = fetch_url(main_url)
+        main_html = fetch_url(main_url).decode('utf-8')
     except Exception as e:
-        print "Error fetching main page:", e
+        print("Error fetching main page:", e)
         sys.exit(1)
         
     # Find all table iframes matching the extracted year
     iframe_pattern = r'tables/' + year_str + r'_([a-z0-9_]+)\.html'
     iframe_matches = re.findall(iframe_pattern, main_html)
     if not iframe_matches:
-        print "No tournament tables found in main page HTML for year %s!" % year_str
+        print("No tournament tables found in main page HTML for year %s!" % year_str)
         sys.exit(1)
         
-    print "Found %d tournament tables to parse." % len(iframe_matches)
+    print("Found %d tournament tables to parse." % len(iframe_matches))
     
     new_nicknames = []
     new_displaynames = []
@@ -192,25 +189,25 @@ def main():
     for group_key in iframe_matches:
         suffix = map_key_to_suffix(group_key, rules)
         if not suffix:
-            print "Warning: Unknown group key '%s', skipping." % group_key
+            print("Warning: Unknown group key '%s', skipping." % group_key)
             continue
             
         table_url = BASE_URL + "/static/tournaments/tables/" + year_str + "_" + group_key + ".html"
-        print "\nParsing table URL: %s (Suffix: _%s)" % (table_url, suffix)
+        print("\nParsing table URL: %s (Suffix: _%s)" % (table_url, suffix))
         
         try:
-            table_html = fetch_url(table_url)
+            table_html = fetch_url(table_url).decode('utf-8')
         except Exception as e:
-            print "Error fetching table URL %s:" % table_url, e
+            print("Error fetching table URL %s: %s" % (table_url, e))
             continue
             
         # Parse names in order
         names = re.findall(r'<TR><TD><NUM>\d+</NUM></TD><TD><NAME>([^<]+)</NAME></TD>', table_html)
         if not names:
-            print "No engine names found in table, skipping."
+            print("No engine names found in table, skipping.")
             continue
             
-        print "Engines in this group: %s" % ", ".join(names)
+        print("Engines in this group: %s" % ", ".join(names))
         
         # Parse scores for each row
         rows = re.findall(r'<TR>(.*?)</TR>', table_html, re.DOTALL)
@@ -247,7 +244,7 @@ def main():
                     entry = "%s\t%s_%s" % (engine, year_str, suffix)
                     if entry not in existing_blacklist:
                         f.write(entry + '\n')
-                        print "Automatically blacklisted disqualified engine: %s" % entry
+                        print("Automatically blacklisted disqualified engine: %s" % entry)
         
         new_lines = []
         
@@ -288,7 +285,7 @@ def main():
         dest_file = os.path.join(records_dir, "%s_%s.txt" % (year_str, suffix))
         with open(dest_file, 'w') as f:
             f.write("\n".join(new_lines) + "\n")
-        print "Saved %d match results to %s" % (len(new_lines), dest_file)
+        print("Saved %d match results to %s" % (len(new_lines), dest_file))
         
         # 3. Detect new engines and versions
         for name in names:
@@ -321,7 +318,7 @@ def main():
             is_new = False
             if year is None:
                 if base not in existing_bases:
-                    print "New engine family detected: %s! Mapping to %s." % (base, year_str)
+                    print("New engine family detected: %s! Mapping to %s." % (base, year_str))
                     year = year_str
                     is_new = True
                     existing_bases.add(base)
@@ -342,20 +339,20 @@ def main():
                 
     # 4. Save updates to nickname.txt and displayname.txt
     if new_nicknames:
-        print "\nAppending %d new engines to nickname.txt..." % len(new_nicknames)
+        print("\nAppending %d new engines to nickname.txt..." % len(new_nicknames))
         with open('nickname.txt', 'a') as f:
             for entry in new_nicknames:
                 f.write(entry + '\n')
-                print "  Added nickname: %s" % entry
+                print("  Added nickname: %s" % entry)
                 
     if new_displaynames:
-        print "\nAppending %d new display names to displayname.txt..." % len(new_displaynames)
+        print("\nAppending %d new display names to displayname.txt..." % len(new_displaynames))
         with open('displayname.txt', 'a') as f:
             for entry in new_displaynames:
                 f.write(entry + '\n')
-                print "  Added displayname: %s" % entry
+                print("  Added displayname: %s" % entry)
                 
-    print "\nAll Gomocup %s results successfully scraped, parsed, and recorded!" % year_str
+    print("\nAll Gomocup %s results successfully scraped, parsed, and recorded!" % year_str)
 
 
 if __name__ == '__main__':

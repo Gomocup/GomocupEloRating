@@ -6,9 +6,9 @@ mingames = 0
 out_nn = True
 filter = sys.argv[1]
 if len(sys.argv) >= 3:
-    mingames = string.atoi(sys.argv[2])
+    mingames = int(sys.argv[2])
     if len(sys.argv) >= 4:
-        if string.atoi(sys.argv[3]) == 0:
+        if int(sys.argv[3]) == 0:
             out_nn = False
     
 display_name = {}    
@@ -46,18 +46,18 @@ try:
     fengine = open('engine_year_map_' + filter + '.txt', 'r')
     for line in fengine:
         engine, years = line.strip().split('\t')
-        years = map(string.atoi, years.split(','))
+        years = list(map(int, years.split(',')))
         engine_year_map[engine] = years
         max_year = max(max_year, max(years))
     fengine.close()
 except:
     engine_year_map = {}
-for engine, years in engine_year_map.iteritems():
+for engine, years in engine_year_map.items():
     name = engine.split(' ')[0]
     for year in years:
         all_engines.add(engine)
         if year >= max_year - 4:
-            print (year, engine)
+            print((year, engine))
             active_engines.add(engine)
             active_names.add(name)
 for engine in all_engines:
@@ -81,7 +81,7 @@ try:
         if len(reads) == 0:
             break
         bc = re.split('\t', reads)
-        benchmark[bc[0]] = (string.atoi(bc[1]), len(benchmark))
+        benchmark[bc[0]] = (int(bc[1]), len(benchmark))
     fbench.close()
 except:
     benchmark = {}
@@ -120,12 +120,12 @@ while True:
     reads1 = reads[posN:posE]
     reads2 = reads[posE:posE+4]
     reads3 = reads[posE+4:]
-    games = string.atoi(reads[posG:posG+6].strip())
+    games = int(reads[posG:posG+6].strip())
     reads = reads[posN:]
     name = reads.split(' ')[0]
-    rating = string.atoi(reads2.strip())
+    rating = int(reads2.strip())
     all_ratings.append(rating)
-    if not engines.has_key(name) and games >= mingames and reads1.strip() in active_engines:
+    if name not in engines and games >= mingames and reads1.strip() in active_engines:
         engines[name] = 1
         rank = str(len(engines))
         key_ratings.append(rating)
@@ -133,7 +133,7 @@ while True:
     else:
         if out_nn:
             output.append(' ' * posN + reads)
-    if len(benchmark) > 0 and benchmark.has_key(reads1.strip()):
+    if len(benchmark) > 0 and reads1.strip() in benchmark:
         cur = benchmark[reads1.strip()]
         if cur[1] < biaspriority:
             bias = cur[0] - rating
@@ -152,11 +152,11 @@ for each in output:
     fout.write('<TD>')
     name = each[posN:posE].strip()
     raw_name = name.split(' ')[0]
-    if display_name.has_key(name):
+    if name in display_name:
         name = display_name[name]
     fout.write(name)
     fout.write('</TD>')
-    rating = string.atoi(each[posE:posE+4].strip()) + bias
+    rating = int(each[posE:posE+4].strip()) + bias
     fout.write('<TD>')
     fout.write(str(rating))
     fout.write('</TD>')
@@ -166,11 +166,11 @@ for each in output:
         if oind != 0:
             fout.write(ent)
         else:
-            oppo = string.atoi(ent) + bias
+            oppo = int(ent) + bias
             fout.write(str(oppo))
         fout.write('</TD>')
         oind += 1
-    if author_list.has_key(raw_name):
+    if raw_name in author_list:
         author, place = author_list[raw_name]
     else:
         author, place = '', ''

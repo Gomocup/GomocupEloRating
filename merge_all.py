@@ -7,7 +7,7 @@ try:
     with open('rules.json', 'r') as f:
         rules_data = json.load(f)
 except Exception as e:
-    print 'Error reading rules.json:', e
+    print('Error reading rules.json:', e)
     sys.exit(1)
 
 fout = open('output.html', 'w')
@@ -81,7 +81,7 @@ for section in rules_data.get('sections', []):
             with open(filename, 'r') as fin:
                 html_content = fin.read()
         except Exception as e:
-            print "Error reading %s: %s" % (filename, e)
+            print("Error reading %s: %s" % (filename, e))
             continue
             
         # Parse table rows using regex
